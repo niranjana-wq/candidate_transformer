@@ -1,0 +1,4396 @@
+[
+  {
+    "uuid": "a911d192-43bf-4931-b605-bf54a021c0ca",
+    "first_name": "Justin",
+    "last_name": "Miller",
+    "email": "justin.miller@reid.com",
+    "phone": "001-322-299-5900",
+    "github": "https://github.com/justinmiller",
+    "linkedin": "https://linkedin.com/in/justin-miller-561",
+    "location": {
+      "city": "Debrashire",
+      "country": "Israel"
+    },
+    "skills": [
+      "C++",
+      "React",
+      "Rust"
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Comptroller",
+        "start_date": "2021-08-24",
+        "end_date": "2026-02-23"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Davis, Davidson and Vargas University",
+        "end_year": "2016"
+      }
+    ]
+  },
+  {
+    "uuid": "964db03f-9340-4fad-9c4a-d56bd6016237",
+    "first_name": "Thomas",
+    "last_name": "Bryant",
+    "email": "thomas.bryant@barry.com",
+    "phone": "987.694.7055x16940",
+    "github": "https://github.com/thomasbryant",
+    "linkedin": "https://linkedin.com/in/thomas-bryant-767",
+    "location": {
+      "city": "Lake Brett",
+      "country": "Lesotho"
+    },
+    "skills": [
+      "Go",
+      "Node.js",
+      "Machine Learning"
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Designer, textile",
+        "start_date": "2023-03-07",
+        "end_date": "2026-02-24"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Kirby, Wheeler and Romero University",
+        "end_year": "2018"
+      }
+    ]
+  },
+  {
+    "uuid": "a4161293-c4c2-42e3-844e-a7c8c0398710",
+    "first_name": "Charles",
+    "last_name": "Lewis",
+    "email": "charles.lewis@anderson-bailey.com",
+    "phone": "001-449-680-8412x411",
+    "github": "https://github.com/charleslewis",
+    "linkedin": "https://linkedin.com/in/charles-lewis-208",
+    "location": {
+      "city": "Cassandramouth",
+      "country": "Costa Rica"
+    },
+    "skills": [
+      "Java",
+      "Node.js",
+      "Kubernetes",
+      "C++",
+      "AWS"
+    ],
+    "experience": [
+      {
+        "company": "Apple",
+        "title": "Financial risk analyst",
+        "start_date": "2022-10-13",
+        "end_date": "2025-10-18"
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Kim PLC University",
+        "end_year": "2018"
+      }
+    ]
+  },
+  {
+    "uuid": "b0ae8f08-c31e-4bbc-b36c-b62b892e6161",
+    "first_name": "Diana",
+    "last_name": "Nelson",
+    "email": "diana.nelson@kim-ross.info",
+    "phone": "(492)984-5115x44796",
+    "github": "https://github.com/diananelson",
+    "linkedin": "https://linkedin.com/in/diana-nelson-283",
+    "location": {
+      "city": "Sergiostad",
+      "country": "Nicaragua"
+    },
+    "skills": [
+      "React",
+      "Rust",
+      "AWS",
+      "Node.js"
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Nature conservation officer",
+        "start_date": "2022-04-06",
+        "end_date": "2025-09-10"
+      },
+      {
+        "company": "Meta",
+        "title": "Research scientist (maths)",
+        "start_date": "2024-12-16",
+        "end_date": "2025-11-19"
+      },
+      {
+        "company": "Apple",
+        "title": "Scientist, physiological",
+        "start_date": "2021-01-12",
+        "end_date": "2026-05-07"
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Acosta Inc University",
+        "end_year": "2015"
+      }
+    ]
+  },
+  {
+    "uuid": "627b41a1-ffd6-4232-b2ff-e2944d57d880",
+    "first_name": "Brian",
+    "last_name": "Smith",
+    "email": "brian.smith@miller.com",
+    "phone": "689-402-5039x261",
+    "github": "https://github.com/briansmith",
+    "linkedin": "https://linkedin.com/in/brian-smith-985",
+    "location": {
+      "city": "New Mary",
+      "country": "Iceland"
+    },
+    "skills": [
+      "Java",
+      "React",
+      "Kubernetes",
+      "Docker",
+      "Node.js",
+      "SQL"
+    ],
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Systems developer",
+        "start_date": "2018-02-12",
+        "end_date": "2026-06-12"
+      },
+      {
+        "company": "Uber",
+        "title": "Secretary, company",
+        "start_date": "2017-03-21",
+        "end_date": "2025-09-27"
+      },
+      {
+        "company": "Apple",
+        "title": "Engineer, mining",
+        "start_date": "2024-08-01",
+        "end_date": "2025-10-13"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Glass Ltd University",
+        "end_year": "2019"
+      }
+    ]
+  },
+  {
+    "uuid": "cb08587d-1963-426d-ae21-8b099afd4015",
+    "first_name": "Victoria",
+    "last_name": "Patterson",
+    "email": "victoria.patterson@blankenship.com",
+    "phone": "+1-211-703-7129x3870",
+    "github": "https://github.com/victoriapatterson",
+    "linkedin": "https://linkedin.com/in/victoria-patterson-537",
+    "location": {
+      "city": "Port Robertberg",
+      "country": "Lesotho"
+    },
+    "skills": [
+      "Java",
+      "Go",
+      "SQL",
+      "React",
+      "Kubernetes",
+      "Machine Learning",
+      "Rust",
+      "AWS"
+    ],
+    "experience": [
+      {
+        "company": "Airbnb",
+        "title": "Chief Financial Officer",
+        "start_date": "2022-08-17",
+        "end_date": "2025-10-05"
+      },
+      {
+        "company": "Uber",
+        "title": "Charity fundraiser",
+        "start_date": "2022-10-27",
+        "end_date": "2026-03-15"
+      },
+      {
+        "company": "Uber",
+        "title": "Diagnostic radiographer",
+        "start_date": "2017-05-17",
+        "end_date": "2025-11-30"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Torres, Lyons and Young University",
+        "end_year": "2015"
+      }
+    ]
+  },
+  {
+    "uuid": "c16d83ed-ad81-48bd-8029-13ec9ef2b93e",
+    "first_name": "Charles",
+    "last_name": "Adams",
+    "email": "charles.adams@dawson-walters.biz",
+    "phone": "(778)888-6101x58199",
+    "github": "https://github.com/charlesadams",
+    "linkedin": "https://linkedin.com/in/charles-adams-525",
+    "location": {
+      "city": "West Robertland",
+      "country": "Saint Kitts and Nevis"
+    },
+    "skills": [
+      "Go",
+      "Rust",
+      "C++",
+      "Java",
+      "Python",
+      "Machine Learning",
+      "React",
+      "AWS"
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Investment analyst",
+        "start_date": "2022-08-19",
+        "end_date": "2025-08-10"
+      },
+      {
+        "company": "Amazon",
+        "title": "Chemist, analytical",
+        "start_date": "2016-08-01",
+        "end_date": "2025-10-27"
+      },
+      {
+        "company": "Apple",
+        "title": "Producer, television/film/video",
+        "start_date": "2022-08-14",
+        "end_date": "2026-04-21"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Garcia-Miller University",
+        "end_year": "2021"
+      }
+    ]
+  },
+  {
+    "uuid": "f1f8343e-a99f-4318-89c8-a43f7ed70ed7",
+    "first_name": "Joshua",
+    "last_name": "Evans",
+    "email": "joshua.evans@wise-bush.info",
+    "phone": "(540)541-5747",
+    "github": "https://github.com/joshuaevans",
+    "linkedin": "https://linkedin.com/in/joshua-evans-990",
+    "location": {
+      "city": "Sarahview",
+      "country": "Burundi"
+    },
+    "skills": [
+      "SQL",
+      "Python",
+      "AWS",
+      "Java",
+      "Docker",
+      "C++"
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Investment analyst",
+        "start_date": "2024-08-28",
+        "end_date": "2025-11-12"
+      },
+      {
+        "company": "Uber",
+        "title": "Surveyor, minerals",
+        "start_date": "2021-02-23",
+        "end_date": "2025-10-19"
+      },
+      {
+        "company": "Stripe",
+        "title": "Community development worker",
+        "start_date": "2022-12-15",
+        "end_date": "2026-06-12"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Cardenas-Blevins University",
+        "end_year": "2020"
+      }
+    ]
+  },
+  {
+    "uuid": "4fc77768-5ebb-4ca5-a84b-f9625744f596",
+    "first_name": "Lee",
+    "last_name": "Charles",
+    "email": "lee.charles@otherdomain.com",
+    "phone": "001-710-256-4814x9177",
+    "github": "https://github.com/lee_charles_alt",
+    "linkedin": "https://linkedin.com/in/lee-charles-alt",
+    "location": {
+      "city": "Villarrealburgh",
+      "country": "Heard Island and McDonald Islands"
+    },
+    "skills": [
+      "React",
+      "Machine Learning",
+      "Rust",
+      "Python",
+      "Java",
+      "Docker",
+      "Kubernetes"
+    ],
+    "experience": [
+      {
+        "company": "Meta",
+        "title": "Operational researcher",
+        "start_date": "2021-07-11",
+        "end_date": "2026-01-31"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Lee Ltd University",
+        "end_year": "2024"
+      }
+    ]
+  },
+  {
+    "uuid": "50fd9d3f-85d5-4695-90b2-b633956b8c0c",
+    "first_name": "Katherine",
+    "last_name": "Vaughn",
+    "email": "katherine.vaughn@joseph.com",
+    "phone": "643-313-5182x3374",
+    "github": "https://github.com/katherinevaughn",
+    "linkedin": "https://linkedin.com/in/katherine-vaughn-569",
+    "location": {
+      "city": "West Jeremy",
+      "country": "Christmas Island"
+    },
+    "skills": [
+      "React",
+      "Go",
+      "Docker",
+      "Rust",
+      "Node.js"
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Environmental consultant",
+        "start_date": "2023-05-17",
+        "end_date": "2026-03-25"
+      },
+      {
+        "company": "Apple",
+        "title": "Financial planner",
+        "start_date": "2021-09-14",
+        "end_date": "2026-03-14"
+      },
+      {
+        "company": "Airbnb",
+        "title": "Television camera operator",
+        "start_date": "2022-10-10",
+        "end_date": "2025-12-30"
+      },
+      {
+        "company": "Netflix",
+        "title": "Surgeon",
+        "start_date": "2022-05-06",
+        "end_date": "2025-12-12"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Pierce, Bell and Chavez University",
+        "end_year": "2010"
+      }
+    ]
+  },
+  {
+    "uuid": "d7fa2d8d-fb2c-4025-adf4-e62d6651529e",
+    "first_name": "Casey",
+    "last_name": "Welch",
+    "email": "casey.welch@bright-francis.biz",
+    "phone": "8504455623",
+    "github": "https://github.com/caseywelch",
+    "linkedin": "https://linkedin.com/in/casey-welch-846",
+    "location": {
+      "city": "East Christian",
+      "country": "Trinidad and Tobago"
+    },
+    "skills": [
+      "Docker",
+      "Python",
+      "Java",
+      "Node.js",
+      "C++",
+      "SQL",
+      "AWS"
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Chief Technology Officer",
+        "start_date": "2018-03-16",
+        "end_date": "2025-12-19"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Benson Inc University",
+        "end_year": "2015"
+      }
+    ]
+  },
+  {
+    "uuid": "7d824264-1ba3-42e7-afa4-15e56d204496",
+    "first_name": "Stephanie",
+    "last_name": "Murphy",
+    "email": "stephanie.murphy@melton.com",
+    "phone": "+1-992-297-5001",
+    "github": "https://github.com/stephaniemurphy",
+    "linkedin": "https://linkedin.com/in/stephanie-murphy-617",
+    "location": {
+      "city": "Port Ericmouth",
+      "country": "Afghanistan"
+    },
+    "skills": [
+      "AWS",
+      "Java",
+      "Go",
+      "Docker",
+      "C++",
+      "Python",
+      "Machine Learning",
+      "Rust"
+    ],
+    "experience": [
+      {
+        "company": "Uber",
+        "title": "Proofreader",
+        "start_date": "2022-08-03",
+        "end_date": "2026-05-26"
+      },
+      {
+        "company": "Block",
+        "title": "Biomedical scientist",
+        "start_date": "2023-04-06",
+        "end_date": "2025-09-22"
+      },
+      {
+        "company": "Stripe",
+        "title": "Pilot, airline",
+        "start_date": "2020-02-06",
+        "end_date": "2026-01-08"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Morris-Campbell University",
+        "end_year": "2017"
+      }
+    ]
+  },
+  {
+    "uuid": "7194eae2-19ba-47ae-9f61-5a5cb4323070",
+    "first_name": "Oscar",
+    "last_name": "Ferguson",
+    "email": "oscar.ferguson@parker-ward.info",
+    "phone": "001-820-548-9964x2353",
+    "github": "https://github.com/oscarferguson",
+    "linkedin": "https://linkedin.com/in/oscar-ferguson-249",
+    "location": {
+      "city": "Piercemouth",
+      "country": "Equatorial Guinea"
+    },
+    "skills": [
+      "Rust",
+      "Node.js",
+      "Python",
+      "Machine Learning"
+    ],
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Psychologist, prison and probation services",
+        "start_date": "2018-03-04",
+        "end_date": "2026-05-07"
+      },
+      {
+        "company": "Apple",
+        "title": "Psychotherapist, child",
+        "start_date": "2021-12-10",
+        "end_date": "2026-06-20"
+      },
+      {
+        "company": "Netflix",
+        "title": "Engineer, electronics",
+        "start_date": "2022-10-20",
+        "end_date": "2025-10-29"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Williams-Shields University",
+        "end_year": "2016"
+      }
+    ]
+  },
+  {
+    "uuid": "90e0a95b-697c-4923-87fa-841a3e83b91f",
+    "first_name": "Kathryn",
+    "last_name": "Burns",
+    "email": "kathryn.burns@may.com",
+    "phone": "+1-931-220-3875x0997",
+    "github": "https://github.com/kathrynburns",
+    "linkedin": "https://linkedin.com/in/kathryn-burns-361",
+    "location": {
+      "city": "New Andreatown",
+      "country": "Andorra"
+    },
+    "skills": [
+      "C++",
+      "Rust",
+      "Go",
+      "Java",
+      "Kubernetes",
+      "Node.js",
+      "Docker",
+      "SQL"
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Doctor, general practice",
+        "start_date": "2018-11-16",
+        "end_date": "2026-04-05"
+      },
+      {
+        "company": "Microsoft",
+        "title": "Sports coach",
+        "start_date": "2024-10-20",
+        "end_date": "2025-09-09"
+      },
+      {
+        "company": "Meta",
+        "title": "Special effects artist",
+        "start_date": "2017-06-29",
+        "end_date": "2026-01-19"
+      },
+      {
+        "company": "Airbnb",
+        "title": "Analytical chemist",
+        "start_date": "2017-10-04",
+        "end_date": "2026-05-13"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Williams, Smith and Taylor University",
+        "end_year": "2017"
+      }
+    ]
+  },
+  {
+    "uuid": "e222b6a6-15bf-4e97-98a2-1f1c914dcfae",
+    "first_name": "Joseph",
+    "last_name": "Zuniga",
+    "email": "joseph.zuniga@otherdomain.com",
+    "phone": "3867353654",
+    "github": "https://github.com/joseph_zuniga_alt",
+    "linkedin": "https://linkedin.com/in/joseph-zuniga-alt",
+    "location": {
+      "city": "New Emilyton",
+      "country": "Christmas Island"
+    },
+    "skills": [
+      "Kubernetes",
+      "Java",
+      "Docker"
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Development worker, community",
+        "start_date": "2024-05-11",
+        "end_date": "2025-11-24"
+      },
+      {
+        "company": "Apple",
+        "title": "Geophysicist/field seismologist",
+        "start_date": "2020-03-25",
+        "end_date": "2026-03-22"
+      },
+      {
+        "company": "Google",
+        "title": "Journalist, broadcasting",
+        "start_date": "2017-06-12",
+        "end_date": "2025-09-26"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Trujillo Group University",
+        "end_year": "2018"
+      }
+    ]
+  },
+  {
+    "uuid": "8b10550c-d570-4f32-b02c-dd20286218b8",
+    "first_name": "Christopher",
+    "last_name": "Wright",
+    "email": "christopher.wright@duran.com",
+    "phone": "001-933-641-2328x12067",
+    "github": "https://github.com/christopherwright",
+    "linkedin": "https://linkedin.com/in/christopher-wright-388",
+    "location": {
+      "city": "East Keithport",
+      "country": "Reunion"
+    },
+    "skills": [
+      "Node.js",
+      "Machine Learning",
+      "SQL",
+      "Python",
+      "Rust",
+      "Docker",
+      "Go",
+      "Java"
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Scientist, research (medical)",
+        "start_date": "2022-12-19",
+        "end_date": "2025-12-21"
+      },
+      {
+        "company": "Amazon",
+        "title": "Probation officer",
+        "start_date": "2021-07-21",
+        "end_date": "2026-05-30"
+      },
+      {
+        "company": "Stripe",
+        "title": "Theatre stage manager",
+        "start_date": "2023-10-16",
+        "end_date": "2025-10-26"
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Oliver, Lynch and Singh University",
+        "end_year": "2014"
+      }
+    ]
+  },
+  {
+    "uuid": "0f844fef-1931-49ee-a56c-0941fbf24050",
+    "first_name": "Chris",
+    "last_name": "Mitchell",
+    "email": "chris.mitchell@rogers-orozco.com",
+    "phone": "(569)909-6705x46688",
+    "github": "https://github.com/chrismitchell",
+    "linkedin": "https://linkedin.com/in/chris-mitchell-995",
+    "location": {
+      "city": "West Ryan",
+      "country": "Antarctica (the territory South of 60 deg S)"
+    },
+    "skills": [
+      "Rust",
+      "Docker",
+      "Java",
+      "React",
+      "SQL",
+      "Machine Learning"
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Corporate investment banker",
+        "start_date": "2019-01-23",
+        "end_date": "2025-09-27"
+      },
+      {
+        "company": "Uber",
+        "title": "Music therapist",
+        "start_date": "2019-02-04",
+        "end_date": "2026-03-31"
+      },
+      {
+        "company": "Microsoft",
+        "title": "Engineer, site",
+        "start_date": "2017-08-03",
+        "end_date": "2025-12-08"
+      },
+      {
+        "company": "Apple",
+        "title": "Orthoptist",
+        "start_date": "2022-02-15",
+        "end_date": "2026-01-26"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Perry-Clark University",
+        "end_year": "2013"
+      }
+    ]
+  },
+  {
+    "uuid": "9b49bd26-df57-459a-8715-a10343dac043",
+    "first_name": "Michelle",
+    "last_name": "Rasmussen",
+    "email": "michelle.rasmussen@bell-hicks.net",
+    "phone": "+1-581-769-3406x088",
+    "github": "https://github.com/michellerasmussen",
+    "linkedin": "https://linkedin.com/in/michelle-rasmussen-330",
+    "location": {
+      "city": "Jonesmouth",
+      "country": "Nigeria"
+    },
+    "skills": [
+      "React",
+      "SQL",
+      "Rust",
+      "Node.js",
+      "Kubernetes",
+      "Docker"
+    ],
+    "experience": [
+      {
+        "company": "Airbnb",
+        "title": "Learning disability nurse",
+        "start_date": "2016-12-18",
+        "end_date": "2025-08-13"
+      },
+      {
+        "company": "Stripe",
+        "title": "Games developer",
+        "start_date": "2019-07-14",
+        "end_date": "2026-02-10"
+      },
+      {
+        "company": "Airbnb",
+        "title": "Geochemist",
+        "start_date": "2017-02-22",
+        "end_date": "2025-08-11"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Hamilton, Chandler and Edwards University",
+        "end_year": "2013"
+      }
+    ]
+  },
+  {
+    "uuid": "ff233d5f-6ced-415d-9800-7c0287ea7ff5",
+    "first_name": "Matthew",
+    "last_name": "Day",
+    "email": "matthew.day@marshall.com",
+    "phone": "5546868740",
+    "github": "https://github.com/matthewday",
+    "linkedin": "https://linkedin.com/in/matthew-day-860",
+    "location": {
+      "city": "Michelleton",
+      "country": "Tonga"
+    },
+    "skills": [
+      "SQL",
+      "Docker",
+      "Go",
+      "AWS",
+      "Node.js",
+      "C++",
+      "Kubernetes",
+      "Java"
+    ],
+    "experience": [
+      {
+        "company": "Meta",
+        "title": "Biomedical scientist",
+        "start_date": "2024-04-12",
+        "end_date": "2025-07-14"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Harris-Moody University",
+        "end_year": "2011"
+      }
+    ]
+  },
+  {
+    "uuid": "d4f8fd72-f382-4cfd-8083-b73a473bd358",
+    "first_name": "Mason",
+    "last_name": "Jackson",
+    "email": "mason.jackson@schultz.com",
+    "phone": "001-312-977-9979x95527",
+    "github": "https://github.com/masonjackson",
+    "linkedin": "https://linkedin.com/in/mason-jackson-304",
+    "location": {
+      "city": "Welchview",
+      "country": "Nauru"
+    },
+    "skills": [
+      "Node.js",
+      "Java",
+      "AWS",
+      "Python",
+      "SQL",
+      "C++"
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Make",
+        "start_date": "2019-01-03",
+        "end_date": "2025-09-29"
+      },
+      {
+        "company": "Google",
+        "title": "Civil engineer, contracting",
+        "start_date": "2018-12-26",
+        "end_date": "2025-10-07"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Thompson and Sons University",
+        "end_year": "2013"
+      }
+    ]
+  },
+  {
+    "uuid": "f23e323d-0b9b-4934-a3c8-6d301dde7969",
+    "first_name": "Deborah",
+    "last_name": "Williams",
+    "email": "deborah.williams@byrd.biz",
+    "phone": "+1-499-737-5679",
+    "github": "https://github.com/deborahwilliams",
+    "linkedin": "https://linkedin.com/in/deborah-williams-564",
+    "location": {
+      "city": "South Danchester",
+      "country": "Uruguay"
+    },
+    "skills": [
+      "Node.js",
+      "AWS",
+      "Java"
+    ],
+    "experience": [
+      {
+        "company": "Meta",
+        "title": "Claims inspector/assessor",
+        "start_date": "2016-09-03",
+        "end_date": "2025-08-07"
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Walker-Burgess University",
+        "end_year": "2016"
+      }
+    ]
+  },
+  {
+    "uuid": "142c3fe8-60e7-4113-ac1b-8ca1f91e1d4c",
+    "first_name": "Jeffrey",
+    "last_name": "Bright",
+    "email": "jeffrey.bright@snyder.com",
+    "phone": "484.980.1845x146",
+    "github": "https://github.com/jeffreybright",
+    "linkedin": "https://linkedin.com/in/jeffrey-bright-975",
+    "location": {
+      "city": "Lake Nancyview",
+      "country": "Macao"
+    },
+    "skills": [
+      "Node.js",
+      "Go",
+      "Machine Learning",
+      "Docker",
+      "React",
+      "SQL",
+      "Python"
+    ],
+    "experience": [
+      {
+        "company": "Meta",
+        "title": "Designer, jewellery",
+        "start_date": "2023-09-05",
+        "end_date": "2026-02-16"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Cruz PLC University",
+        "end_year": "2011"
+      }
+    ]
+  },
+  {
+    "uuid": "969b6662-0562-4059-968c-c69b1064005c",
+    "first_name": "Lee",
+    "last_name": "Charles",
+    "email": "lee.charles@mccullough.com",
+    "phone": "(729)994-6804x4369",
+    "github": "https://github.com/leecharles",
+    "linkedin": "https://linkedin.com/in/lee-charles-132",
+    "location": {
+      "city": "Ramosborough",
+      "country": "Malawi"
+    },
+    "skills": [
+      "React",
+      "Machine Learning",
+      "Rust",
+      "Python",
+      "Java",
+      "Docker",
+      "Kubernetes"
+    ],
+    "experience": [
+      {
+        "company": "Meta",
+        "title": "Operational researcher",
+        "start_date": "2021-07-11",
+        "end_date": "2026-01-31"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Lee Ltd University",
+        "end_year": "2024"
+      }
+    ]
+  },
+  {
+    "uuid": "af2b99b4-d9ac-4158-8d34-85c5c5c14eb4",
+    "first_name": "Joanne",
+    "last_name": "Jennings",
+    "email": "joanne.jennings@davis.com",
+    "phone": "232.721.4188",
+    "github": "https://github.com/joannejennings",
+    "linkedin": "https://linkedin.com/in/joanne-jennings-969",
+    "location": {
+      "city": "New Nicholas",
+      "country": "Central African Republic"
+    },
+    "skills": [
+      "Java",
+      "Machine Learning",
+      "Python",
+      "Docker",
+      "Kubernetes",
+      "SQL",
+      "C++"
+    ],
+    "experience": [
+      {
+        "company": "Stripe",
+        "title": "Medical laboratory scientific officer",
+        "start_date": "2021-10-01",
+        "end_date": "2025-09-08"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Peterson Group University",
+        "end_year": "2010"
+      }
+    ]
+  },
+  {
+    "uuid": "4a8ff810-784c-4f29-9804-02a2b07aa066",
+    "first_name": "Christine",
+    "last_name": "Johnson",
+    "email": "christine.johnson@gardner.com",
+    "phone": "(962)558-8153x714",
+    "github": "https://github.com/christinejohnson",
+    "linkedin": "https://linkedin.com/in/christine-johnson-217",
+    "location": {
+      "city": "North Brent",
+      "country": "Yemen"
+    },
+    "skills": [
+      "React",
+      "Node.js",
+      "Go"
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Optician, dispensing",
+        "start_date": "2021-07-22",
+        "end_date": "2025-12-23"
+      },
+      {
+        "company": "Meta",
+        "title": "Buyer, industrial",
+        "start_date": "2017-07-07",
+        "end_date": "2025-08-30"
+      },
+      {
+        "company": "Apple",
+        "title": "Printmaker",
+        "start_date": "2023-07-26",
+        "end_date": "2026-01-04"
+      },
+      {
+        "company": "Block",
+        "title": "Psychologist, forensic",
+        "start_date": "2019-12-19",
+        "end_date": "2025-11-09"
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Thomas, Hensley and Flores University",
+        "end_year": "2016"
+      }
+    ]
+  },
+  {
+    "uuid": "364d7c87-7cd0-429d-ae8d-0e87533420e6",
+    "first_name": "Dustin",
+    "last_name": "Johnson",
+    "email": "dustin.johnson@horton-taylor.info",
+    "phone": "001-998-361-4341x0369",
+    "github": "https://github.com/dustinjohnson",
+    "linkedin": "https://linkedin.com/in/dustin-johnson-668",
+    "location": {
+      "city": "Port Rebeccaside",
+      "country": "Andorra"
+    },
+    "skills": [
+      "Node.js",
+      "Docker",
+      "Rust",
+      "Machine Learning",
+      "Python"
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Production assistant, radio",
+        "start_date": "2016-08-01",
+        "end_date": "2026-06-16"
+      },
+      {
+        "company": "Meta",
+        "title": "Cartographer",
+        "start_date": "2016-10-26",
+        "end_date": "2025-10-07"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Conley PLC University",
+        "end_year": "2017"
+      }
+    ]
+  },
+  {
+    "uuid": "b28f41de-fb14-4bc3-b04b-8590de9e3757",
+    "first_name": "Christopher",
+    "last_name": "Brandt",
+    "email": "christopher.brandt@anderson.net",
+    "phone": "378-268-6337x5243",
+    "github": "https://github.com/christopherbrandt",
+    "linkedin": "https://linkedin.com/in/christopher-brandt-930",
+    "location": {
+      "city": "Mendeztown",
+      "country": "Dominican Republic"
+    },
+    "skills": [
+      "Machine Learning",
+      "Kubernetes",
+      "React",
+      "Go"
+    ],
+    "experience": [
+      {
+        "company": "Netflix",
+        "title": "Nurse, learning disability",
+        "start_date": "2025-06-29",
+        "end_date": "2025-08-18"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Irwin, Davenport and Avila University",
+        "end_year": "2021"
+      }
+    ]
+  },
+  {
+    "uuid": "73b6a09b-1bea-46ac-97fa-7f0483639007",
+    "first_name": "Michele",
+    "last_name": "Duke",
+    "email": "michele.duke@ochoa.biz",
+    "phone": "001-353-867-2946x671",
+    "github": "https://github.com/micheleduke",
+    "linkedin": "https://linkedin.com/in/michele-duke-511",
+    "location": {
+      "city": "Heatherstad",
+      "country": "Korea"
+    },
+    "skills": [
+      "React",
+      "Machine Learning",
+      "Python",
+      "SQL",
+      "Node.js",
+      "Rust",
+      "Docker"
+    ],
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Barrister's clerk",
+        "start_date": "2021-03-19",
+        "end_date": "2026-06-01"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Martinez, Cline and Wright University",
+        "end_year": "2023"
+      }
+    ]
+  },
+  {
+    "uuid": "504867ba-bf7b-439b-8f9a-ea4b8acd4e10",
+    "first_name": "Melissa",
+    "last_name": "Burke",
+    "email": "melissa.burke@hogan.com",
+    "phone": "965-972-6284",
+    "github": "https://github.com/melissaburke",
+    "linkedin": "https://linkedin.com/in/melissa-burke-290",
+    "location": {
+      "city": "Petersenshire",
+      "country": "Ethiopia"
+    },
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "AWS"
+    ],
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Loss adjuster, chartered",
+        "start_date": "2023-10-13",
+        "end_date": "2026-03-13"
+      },
+      {
+        "company": "Stripe",
+        "title": "Metallurgist",
+        "start_date": "2017-09-01",
+        "end_date": "2026-01-12"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Peterson, Atkinson and Short University",
+        "end_year": "2023"
+      }
+    ]
+  },
+  {
+    "uuid": "ad64b56c-610f-4a3f-b0bb-ac67aa38d0a1",
+    "first_name": "Makayla",
+    "last_name": "Olson",
+    "email": "makayla.olson@francis-morgan.com",
+    "phone": "754.596.5137x098",
+    "github": "https://github.com/makaylaolson",
+    "linkedin": "https://linkedin.com/in/makayla-olson-552",
+    "location": {
+      "city": "Lake Madisonport",
+      "country": "Pakistan"
+    },
+    "skills": [
+      "C++",
+      "Machine Learning",
+      "Go",
+      "Node.js",
+      "Kubernetes",
+      "SQL",
+      "Python",
+      "Rust"
+    ],
+    "experience": [
+      {
+        "company": "Meta",
+        "title": "Psychotherapist",
+        "start_date": "2017-10-10",
+        "end_date": "2025-08-23"
+      },
+      {
+        "company": "Uber",
+        "title": "Equities trader",
+        "start_date": "2023-04-04",
+        "end_date": "2026-05-24"
+      },
+      {
+        "company": "Block",
+        "title": "Surveyor, hydrographic",
+        "start_date": "2022-09-19",
+        "end_date": "2025-08-04"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Smith-Herrera University",
+        "end_year": "2017"
+      }
+    ]
+  },
+  {
+    "uuid": "c122b5b3-284c-43d2-a7d4-15b60d77c5a0",
+    "first_name": "Jamie",
+    "last_name": "Garcia",
+    "email": "jamie.garcia@otherdomain.com",
+    "phone": "380.961.7445",
+    "github": "https://github.com/jamie_garcia_alt",
+    "linkedin": "https://linkedin.com/in/jamie-garcia-alt",
+    "location": {
+      "city": "West Jamesshire",
+      "country": "Slovenia"
+    },
+    "skills": [
+      "C++",
+      "AWS",
+      "Python",
+      "Rust",
+      "Docker",
+      "Kubernetes",
+      "Machine Learning",
+      "React"
+    ],
+    "experience": [
+      {
+        "company": "Stripe",
+        "title": "Financial risk analyst",
+        "start_date": "2017-03-31",
+        "end_date": "2025-12-03"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Young-Robinson University",
+        "end_year": "2010"
+      }
+    ]
+  },
+  {
+    "uuid": "0de051a6-69ca-47d2-b644-14fd8ae769ed",
+    "first_name": "Daniel",
+    "last_name": "Yang",
+    "email": "daniel.yang@sanchez.net",
+    "phone": "434.254.0193x8026",
+    "github": "https://github.com/danielyang",
+    "linkedin": "https://linkedin.com/in/daniel-yang-394",
+    "location": {
+      "city": "Frenchburgh",
+      "country": "Vietnam"
+    },
+    "skills": [
+      "SQL",
+      "Docker",
+      "Machine Learning",
+      "AWS"
+    ],
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Equities trader",
+        "start_date": "2020-06-15",
+        "end_date": "2025-07-20"
+      },
+      {
+        "company": "Meta",
+        "title": "Chiropodist",
+        "start_date": "2023-07-12",
+        "end_date": "2025-11-05"
+      },
+      {
+        "company": "Apple",
+        "title": "Public house manager",
+        "start_date": "2018-03-16",
+        "end_date": "2026-03-21"
+      },
+      {
+        "company": "Stripe",
+        "title": "Copywriter, advertising",
+        "start_date": "2016-08-01",
+        "end_date": "2026-01-29"
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Russell Group University",
+        "end_year": "2024"
+      }
+    ]
+  },
+  {
+    "uuid": "be3e6e57-f30a-4e32-aba4-fc035efa9c5b",
+    "first_name": "Suzanne",
+    "last_name": "Wilson",
+    "email": "suzanne.wilson@thomas.com",
+    "phone": "+1-423-882-8258x67362",
+    "github": "https://github.com/suzannewilson",
+    "linkedin": "https://linkedin.com/in/suzanne-wilson-341",
+    "location": {
+      "city": "Johnsonborough",
+      "country": "Korea"
+    },
+    "skills": [
+      "SQL",
+      "Kubernetes",
+      "Machine Learning",
+      "C++",
+      "Go",
+      "Docker",
+      "Python",
+      "React"
+    ],
+    "experience": [
+      {
+        "company": "Apple",
+        "title": "Scientist, research (life sciences)",
+        "start_date": "2024-09-16",
+        "end_date": "2025-11-12"
+      },
+      {
+        "company": "Google",
+        "title": "Publishing copy",
+        "start_date": "2018-02-26",
+        "end_date": "2025-12-17"
+      },
+      {
+        "company": "Netflix",
+        "title": "Production manager",
+        "start_date": "2021-12-02",
+        "end_date": "2025-07-26"
+      },
+      {
+        "company": "Meta",
+        "title": "Hydrologist",
+        "start_date": "2017-04-03",
+        "end_date": "2026-05-10"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Wilson, Sweeney and Wong University",
+        "end_year": "2017"
+      }
+    ]
+  },
+  {
+    "uuid": "c9776598-203c-4c25-bd23-5def3e5a87e3",
+    "first_name": "Isaac",
+    "last_name": "Steele",
+    "email": "isaac.steele@price.biz",
+    "phone": "+1-905-807-2368x876",
+    "github": "https://github.com/isaacsteele",
+    "linkedin": "https://linkedin.com/in/isaac-steele-248",
+    "location": {
+      "city": "Burnsland",
+      "country": "Mongolia"
+    },
+    "skills": [
+      "React",
+      "Java",
+      "SQL",
+      "Rust",
+      "Machine Learning",
+      "Kubernetes",
+      "Go"
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Electronics engineer",
+        "start_date": "2024-10-10",
+        "end_date": "2026-03-03"
+      },
+      {
+        "company": "Block",
+        "title": "Soil scientist",
+        "start_date": "2019-06-11",
+        "end_date": "2026-01-31"
+      },
+      {
+        "company": "Google",
+        "title": "Dietitian",
+        "start_date": "2024-10-28",
+        "end_date": "2025-10-20"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Lopez Group University",
+        "end_year": "2023"
+      }
+    ]
+  },
+  {
+    "uuid": "df547e50-7cea-4045-8268-283ee32f2e63",
+    "first_name": "Nathan",
+    "last_name": "Nichols",
+    "email": "nathan.nichols@williams.org",
+    "phone": "001-583-873-5403x3173",
+    "github": "https://github.com/nathannichols",
+    "linkedin": "https://linkedin.com/in/nathan-nichols-748",
+    "location": {
+      "city": "New Marc",
+      "country": "Finland"
+    },
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "Java",
+      "React",
+      "Node.js",
+      "Go",
+      "Docker"
+    ],
+    "experience": [
+      {
+        "company": "Uber",
+        "title": "Toxicologist",
+        "start_date": "2017-03-02",
+        "end_date": "2026-06-04"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Lopez PLC University",
+        "end_year": "2022"
+      }
+    ]
+  },
+  {
+    "uuid": "2a25a888-0f02-4ad0-a706-7ef466aa9385",
+    "first_name": "Susan",
+    "last_name": "Williams",
+    "email": "susan.williams@herring.com",
+    "phone": "(541)390-4966",
+    "github": "https://github.com/susanwilliams",
+    "linkedin": "https://linkedin.com/in/susan-williams-853",
+    "location": {
+      "city": "North Heidi",
+      "country": "Gabon"
+    },
+    "skills": [
+      "Python",
+      "Kubernetes",
+      "Node.js",
+      "AWS",
+      "Machine Learning",
+      "React"
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Wellsite geologist",
+        "start_date": "2019-02-01",
+        "end_date": "2025-09-30"
+      },
+      {
+        "company": "Meta",
+        "title": "Computer games developer",
+        "start_date": "2024-07-20",
+        "end_date": "2026-03-16"
+      },
+      {
+        "company": "Apple",
+        "title": "Colour technologist",
+        "start_date": "2020-03-15",
+        "end_date": "2025-12-27"
+      },
+      {
+        "company": "Meta",
+        "title": "Furniture conservator/restorer",
+        "start_date": "2022-10-09",
+        "end_date": "2025-09-03"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Lawson, Adkins and Wilson University",
+        "end_year": "2019"
+      }
+    ]
+  },
+  {
+    "uuid": "a9e782d4-fd08-432c-a2d6-0e9361985d54",
+    "first_name": "Jamie",
+    "last_name": "Garcia",
+    "email": "jamie.garcia@griffin.com",
+    "phone": "001-502-884-3959x95342",
+    "github": "https://github.com/jamiegarcia",
+    "linkedin": "https://linkedin.com/in/jamie-garcia-839",
+    "location": {
+      "city": "Joshuaside",
+      "country": "Yemen"
+    },
+    "skills": [
+      "C++",
+      "AWS",
+      "Python",
+      "Rust",
+      "Docker",
+      "Kubernetes",
+      "Machine Learning",
+      "React"
+    ],
+    "experience": [
+      {
+        "company": "Stripe",
+        "title": "Financial risk analyst",
+        "start_date": "2017-03-31",
+        "end_date": "2025-12-03"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Young-Robinson University",
+        "end_year": "2010"
+      }
+    ]
+  },
+  {
+    "uuid": "8a3c3b5e-801e-41da-85b1-ed25f1533ae8",
+    "first_name": "Michael",
+    "last_name": "Powell",
+    "email": "michael.powell@morales.net",
+    "phone": "521-865-5852",
+    "github": "https://github.com/michaelpowell",
+    "linkedin": "https://linkedin.com/in/michael-powell-790",
+    "location": {
+      "city": "North Benjaminmouth",
+      "country": "Spain"
+    },
+    "skills": [
+      "AWS",
+      "Java",
+      "Machine Learning",
+      "Python",
+      "Kubernetes",
+      "Docker"
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Engineer, broadcasting (operations)",
+        "start_date": "2022-08-30",
+        "end_date": "2026-01-30"
+      },
+      {
+        "company": "Apple",
+        "title": "Homeopath",
+        "start_date": "2017-09-29",
+        "end_date": "2025-11-27"
+      },
+      {
+        "company": "Google",
+        "title": "Retail merchandiser",
+        "start_date": "2024-02-27",
+        "end_date": "2026-04-22"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Ramirez, Hays and Becker University",
+        "end_year": "2013"
+      }
+    ]
+  },
+  {
+    "uuid": "c0e3befd-4c71-40fe-9a0c-dd7cf1578470",
+    "first_name": "Douglas",
+    "last_name": "Sandoval",
+    "email": "douglas.sandoval@thomas.com",
+    "phone": "9229901476",
+    "github": "https://github.com/douglassandoval",
+    "linkedin": "https://linkedin.com/in/douglas-sandoval-784",
+    "location": {
+      "city": "Nelsonhaven",
+      "country": "Brazil"
+    },
+    "skills": [
+      "Kubernetes",
+      "SQL",
+      "Go",
+      "React",
+      "AWS",
+      "Java"
+    ],
+    "experience": [
+      {
+        "company": "Uber",
+        "title": "Chemist, analytical",
+        "start_date": "2020-02-26",
+        "end_date": "2025-11-23"
+      },
+      {
+        "company": "Airbnb",
+        "title": "Personnel officer",
+        "start_date": "2024-03-18",
+        "end_date": "2025-11-09"
+      },
+      {
+        "company": "Google",
+        "title": "Designer, industrial/product",
+        "start_date": "2022-10-16",
+        "end_date": "2025-10-29"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Nguyen, Pugh and Carlson University",
+        "end_year": "2015"
+      }
+    ]
+  },
+  {
+    "uuid": "214f3f12-cfd0-4cbd-9f65-c8cebd21bc11",
+    "first_name": "Jeff",
+    "last_name": "Mosley",
+    "email": "jeff.mosley@goodwin.biz",
+    "phone": "989.883.6403",
+    "github": "https://github.com/jeffmosley",
+    "linkedin": "https://linkedin.com/in/jeff-mosley-206",
+    "location": {
+      "city": "East Victorland",
+      "country": "Marshall Islands"
+    },
+    "skills": [
+      "Python",
+      "Machine Learning",
+      "SQL",
+      "Go",
+      "Docker",
+      "AWS",
+      "Rust"
+    ],
+    "experience": [
+      {
+        "company": "Netflix",
+        "title": "Make",
+        "start_date": "2023-10-20",
+        "end_date": "2025-10-30"
+      },
+      {
+        "company": "Uber",
+        "title": "Counselling psychologist",
+        "start_date": "2020-09-16",
+        "end_date": "2025-10-15"
+      },
+      {
+        "company": "Google",
+        "title": "Chartered accountant",
+        "start_date": "2020-09-19",
+        "end_date": "2026-01-30"
+      },
+      {
+        "company": "Apple",
+        "title": "Tourist information centre manager",
+        "start_date": "2021-05-05",
+        "end_date": "2026-04-28"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Johnson, Boone and Liu University",
+        "end_year": "2015"
+      }
+    ]
+  },
+  {
+    "uuid": "ad238d36-dc32-4c97-b9c1-e262f76c8ede",
+    "first_name": "Meagan",
+    "last_name": "James",
+    "email": "meagan.james@alexander-jordan.org",
+    "phone": "493.256.4651x9398",
+    "github": "https://github.com/meaganjames",
+    "linkedin": "https://linkedin.com/in/meagan-james-866",
+    "location": {
+      "city": "Hahnborough",
+      "country": "Kazakhstan"
+    },
+    "skills": [
+      "Go",
+      "Kubernetes",
+      "SQL",
+      "Docker",
+      "Java",
+      "Rust",
+      "React",
+      "Python"
+    ],
+    "experience": [
+      {
+        "company": "Stripe",
+        "title": "Copy",
+        "start_date": "2021-08-09",
+        "end_date": "2025-11-01"
+      },
+      {
+        "company": "Amazon",
+        "title": "Toxicologist",
+        "start_date": "2019-11-30",
+        "end_date": "2026-01-02"
+      },
+      {
+        "company": "Airbnb",
+        "title": "Interior and spatial designer",
+        "start_date": "2019-07-08",
+        "end_date": "2025-12-01"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Carter-Neal University",
+        "end_year": "2020"
+      }
+    ]
+  },
+  {
+    "uuid": "acdabacc-1165-4210-9854-3881118a9d29",
+    "first_name": "Marcus",
+    "last_name": "Sanchez",
+    "email": "marcus.sanchez@ramirez.com",
+    "phone": "(273)554-5494",
+    "github": "https://github.com/marcussanchez",
+    "linkedin": "https://linkedin.com/in/marcus-sanchez-773",
+    "location": {
+      "city": "East Jenniferfort",
+      "country": "Moldova"
+    },
+    "skills": [
+      "Kubernetes",
+      "Java",
+      "Machine Learning",
+      "React"
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Psychologist, forensic",
+        "start_date": "2022-12-10",
+        "end_date": "2025-11-07"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Snyder LLC University",
+        "end_year": "2016"
+      }
+    ]
+  },
+  {
+    "uuid": "52828d80-44b5-41f7-97ac-6aa8bb2488a3",
+    "first_name": "John",
+    "last_name": "Davidson",
+    "email": "john.davidson@spencer-garcia.net",
+    "phone": "7605685361",
+    "github": "https://github.com/johndavidson",
+    "linkedin": "https://linkedin.com/in/john-davidson-971",
+    "location": {
+      "city": "West Sarahmouth",
+      "country": "Somalia"
+    },
+    "skills": [
+      "Java",
+      "Node.js",
+      "AWS",
+      "React"
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Company secretary",
+        "start_date": "2021-05-06",
+        "end_date": "2025-08-01"
+      },
+      {
+        "company": "Block",
+        "title": "Designer, multimedia",
+        "start_date": "2021-02-19",
+        "end_date": "2025-12-21"
+      },
+      {
+        "company": "Uber",
+        "title": "Scientific laboratory technician",
+        "start_date": "2019-01-01",
+        "end_date": "2026-05-18"
+      },
+      {
+        "company": "Netflix",
+        "title": "Press sub",
+        "start_date": "2018-01-20",
+        "end_date": "2026-06-18"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Velasquez LLC University",
+        "end_year": "2017"
+      }
+    ]
+  },
+  {
+    "uuid": "4e20fd1a-5983-46e3-b5d6-6ed4eb1fa9f2",
+    "first_name": "Vanessa",
+    "last_name": "Sparks",
+    "email": "vanessa.sparks@pollard.net",
+    "phone": "874-759-6158",
+    "github": "https://github.com/vanessasparks",
+    "linkedin": "https://linkedin.com/in/vanessa-sparks-621",
+    "location": {
+      "city": "Brennanton",
+      "country": "Niger"
+    },
+    "skills": [
+      "React",
+      "Python",
+      "Rust",
+      "Kubernetes"
+    ],
+    "experience": [
+      {
+        "company": "Apple",
+        "title": "Therapeutic radiographer",
+        "start_date": "2022-02-21",
+        "end_date": "2026-06-02"
+      },
+      {
+        "company": "Amazon",
+        "title": "Chiropodist",
+        "start_date": "2023-12-26",
+        "end_date": "2025-08-07"
+      },
+      {
+        "company": "Apple",
+        "title": "Secondary school teacher",
+        "start_date": "2024-04-08",
+        "end_date": "2025-07-05"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Thomas, Pitts and Booker University",
+        "end_year": "2020"
+      }
+    ]
+  },
+  {
+    "uuid": "b74d0fb1-32e7-4629-8fad-c1a606cb0fb3",
+    "first_name": "Curtis",
+    "last_name": "James",
+    "email": "curtis.james@abbott-munoz.com",
+    "phone": "(993)710-3413x164",
+    "github": "https://github.com/curtisjames",
+    "linkedin": "https://linkedin.com/in/curtis-james-320",
+    "location": {
+      "city": "West Michael",
+      "country": "Paraguay"
+    },
+    "skills": [
+      "Rust",
+      "SQL",
+      "Kubernetes",
+      "React",
+      "AWS",
+      "Node.js",
+      "C++",
+      "Python"
+    ],
+    "experience": [
+      {
+        "company": "Uber",
+        "title": "Psychiatric nurse",
+        "start_date": "2018-08-14",
+        "end_date": "2026-06-23"
+      },
+      {
+        "company": "Netflix",
+        "title": "Multimedia specialist",
+        "start_date": "2017-11-01",
+        "end_date": "2026-01-30"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Calderon-Montgomery University",
+        "end_year": "2012"
+      }
+    ]
+  },
+  {
+    "uuid": "26242b40-a5cb-43a2-b98d-1ca68b6870b5",
+    "first_name": "Patrick",
+    "last_name": "Gilbert",
+    "email": "patrick.gilbert@estes.com",
+    "phone": "(687)233-9500x4797",
+    "github": "https://github.com/patrickgilbert",
+    "linkedin": "https://linkedin.com/in/patrick-gilbert-512",
+    "location": {
+      "city": "South Dennisview",
+      "country": "Saint Lucia"
+    },
+    "skills": [
+      "C++",
+      "Java",
+      "Python",
+      "Rust",
+      "Node.js"
+    ],
+    "experience": [
+      {
+        "company": "Airbnb",
+        "title": "Technical brewer",
+        "start_date": "2021-10-25",
+        "end_date": "2025-09-11"
+      },
+      {
+        "company": "Amazon",
+        "title": "Designer, jewellery",
+        "start_date": "2024-12-21",
+        "end_date": "2026-01-15"
+      },
+      {
+        "company": "Airbnb",
+        "title": "Psychologist, sport and exercise",
+        "start_date": "2024-12-24",
+        "end_date": "2026-06-06"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Jimenez-Davis University",
+        "end_year": "2021"
+      }
+    ]
+  },
+  {
+    "uuid": "1a2a73ed-562b-4f79-8374-59eef50bea63",
+    "first_name": "Joseph",
+    "last_name": "Zuniga",
+    "email": "joseph.zuniga@jones.com",
+    "phone": "513-695-3767x242",
+    "github": "https://github.com/josephzuniga",
+    "linkedin": "https://linkedin.com/in/joseph-zuniga-227",
+    "location": {
+      "city": "Hurstfurt",
+      "country": "Guyana"
+    },
+    "skills": [
+      "Kubernetes",
+      "Java",
+      "Docker"
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Development worker, community",
+        "start_date": "2024-05-11",
+        "end_date": "2025-11-24"
+      },
+      {
+        "company": "Apple",
+        "title": "Geophysicist/field seismologist",
+        "start_date": "2020-03-25",
+        "end_date": "2026-03-22"
+      },
+      {
+        "company": "Google",
+        "title": "Journalist, broadcasting",
+        "start_date": "2017-06-12",
+        "end_date": "2025-09-26"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Trujillo Group University",
+        "end_year": "2018"
+      }
+    ]
+  },
+  {
+    "uuid": "a319dcb4-217d-45a0-8568-11cd5563f616",
+    "first_name": "Christopher",
+    "last_name": "Hayden",
+    "email": "christopher.hayden@matthews.com",
+    "phone": "342.496.7175x655",
+    "github": "https://github.com/christopherhayden",
+    "linkedin": "https://linkedin.com/in/christopher-hayden-136",
+    "location": {
+      "city": "Robertfort",
+      "country": "France"
+    },
+    "skills": [
+      "C++",
+      "AWS",
+      "SQL",
+      "Kubernetes",
+      "Python"
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Technical author",
+        "start_date": "2017-03-06",
+        "end_date": "2026-04-22"
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Ruiz Ltd University",
+        "end_year": "2018"
+      }
+    ]
+  },
+  {
+    "uuid": "614ff3d7-19db-4ad0-9dd1-dfb23b982ef8",
+    "first_name": "Kathleen",
+    "last_name": "Romero",
+    "email": "kathleen.romero@harrell.net",
+    "phone": "(443)903-9117x182",
+    "github": "https://github.com/kathleenromero",
+    "linkedin": "https://linkedin.com/in/kathleen-romero-846",
+    "location": {
+      "city": "West Allison",
+      "country": "New Caledonia"
+    },
+    "skills": [
+      "AWS",
+      "Go",
+      "Docker",
+      "C++",
+      "Machine Learning"
+    ],
+    "experience": [
+      {
+        "company": "Meta",
+        "title": "Transport planner",
+        "start_date": "2019-11-17",
+        "end_date": "2025-08-28"
+      },
+      {
+        "company": "Apple",
+        "title": "Midwife",
+        "start_date": "2019-03-30",
+        "end_date": "2026-01-25"
+      },
+      {
+        "company": "Amazon",
+        "title": "Set designer",
+        "start_date": "2016-07-03",
+        "end_date": "2026-02-17"
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Burns-Rodriguez University",
+        "end_year": "2018"
+      }
+    ]
+  },
+  {
+    "uuid": "ff002d4d-9020-49e4-bf9a-b5c29f044aed",
+    "first_name": "Kevin",
+    "last_name": "Erickson",
+    "email": "kevin.erickson@hill.net",
+    "phone": "2474116719",
+    "github": "https://github.com/kevinerickson",
+    "linkedin": "https://linkedin.com/in/kevin-erickson-391",
+    "location": {
+      "city": "Port Anna",
+      "country": "Gabon"
+    },
+    "skills": [
+      "Java",
+      "SQL",
+      "React"
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Horticulturist, commercial",
+        "start_date": "2018-08-23",
+        "end_date": "2026-03-04"
+      },
+      {
+        "company": "Netflix",
+        "title": "Recycling officer",
+        "start_date": "2018-03-29",
+        "end_date": "2026-06-03"
+      },
+      {
+        "company": "Amazon",
+        "title": "Administrator, charities/voluntary organisations",
+        "start_date": "2021-05-01",
+        "end_date": "2025-12-29"
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Alexander-Lopez University",
+        "end_year": "2015"
+      }
+    ]
+  },
+  {
+    "uuid": "7631de9d-dde9-4863-a2bd-33886db99102",
+    "first_name": "Angelica",
+    "last_name": "Barnett",
+    "email": "angelica.barnett@jones-hensley.com",
+    "phone": "(841)860-5297x51613",
+    "github": "https://github.com/angelicabarnett",
+    "linkedin": "https://linkedin.com/in/angelica-barnett-488",
+    "location": {
+      "city": "South Monicamouth",
+      "country": "Cyprus"
+    },
+    "skills": [
+      "Python",
+      "Node.js",
+      "Kubernetes",
+      "Docker"
+    ],
+    "experience": [
+      {
+        "company": "Airbnb",
+        "title": "Press photographer",
+        "start_date": "2016-10-24",
+        "end_date": "2025-12-25"
+      },
+      {
+        "company": "Netflix",
+        "title": "Careers adviser",
+        "start_date": "2021-10-27",
+        "end_date": "2026-02-08"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Berry-Mckinney University",
+        "end_year": "2022"
+      }
+    ]
+  },
+  {
+    "uuid": "79a28903-fbe3-4b24-beae-00320bd4a990",
+    "first_name": "Michael",
+    "last_name": "Pollard",
+    "email": "michael.pollard@stephens-levine.com",
+    "phone": "+1-590-505-3293x1839",
+    "github": "https://github.com/michaelpollard",
+    "linkedin": "https://linkedin.com/in/michael-pollard-535",
+    "location": {
+      "city": "Kimtown",
+      "country": "Falkland Islands (Malvinas)"
+    },
+    "skills": [
+      "Java",
+      "AWS",
+      "Kubernetes",
+      "React",
+      "Machine Learning",
+      "SQL",
+      "Go"
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Biochemist, clinical",
+        "start_date": "2023-04-08",
+        "end_date": "2025-10-15"
+      },
+      {
+        "company": "Google",
+        "title": "Energy manager",
+        "start_date": "2018-07-29",
+        "end_date": "2026-05-25"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Davis-Lewis University",
+        "end_year": "2022"
+      }
+    ]
+  },
+  {
+    "uuid": "d7665cda-fe04-4059-b985-fb6217dc8eff",
+    "first_name": "Christopher",
+    "last_name": "Caldwell",
+    "email": "christopher.caldwell@holden.com",
+    "phone": "442.968.4145x933",
+    "github": "https://github.com/christophercaldwell",
+    "linkedin": "https://linkedin.com/in/christopher-caldwell-349",
+    "location": {
+      "city": "South Julie",
+      "country": "New Caledonia"
+    },
+    "skills": [
+      "AWS",
+      "Java",
+      "C++"
+    ],
+    "experience": [
+      {
+        "company": "Apple",
+        "title": "Fish farm manager",
+        "start_date": "2016-08-11",
+        "end_date": "2025-10-09"
+      },
+      {
+        "company": "Stripe",
+        "title": "Music therapist",
+        "start_date": "2020-07-02",
+        "end_date": "2025-12-20"
+      },
+      {
+        "company": "Apple",
+        "title": "Geologist, engineering",
+        "start_date": "2022-02-07",
+        "end_date": "2025-10-25"
+      },
+      {
+        "company": "Uber",
+        "title": "Television floor manager",
+        "start_date": "2016-09-09",
+        "end_date": "2025-10-09"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Ward, Young and Contreras University",
+        "end_year": "2017"
+      }
+    ]
+  },
+  {
+    "uuid": "618ae305-95a5-4afa-831d-029fac1e86d8",
+    "first_name": "Lauren",
+    "last_name": "Guerra",
+    "email": "lauren.guerra@fuentes.info",
+    "phone": "+1-379-368-8680x589",
+    "github": "https://github.com/laurenguerra",
+    "linkedin": "https://linkedin.com/in/lauren-guerra-518",
+    "location": {
+      "city": "Lake Elizabeth",
+      "country": "Chad"
+    },
+    "skills": [
+      "Docker",
+      "Java",
+      "React",
+      "AWS",
+      "Python",
+      "Node.js",
+      "Kubernetes",
+      "C++"
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Corporate treasurer",
+        "start_date": "2021-08-24",
+        "end_date": "2025-10-01"
+      },
+      {
+        "company": "Airbnb",
+        "title": "Forensic psychologist",
+        "start_date": "2019-02-12",
+        "end_date": "2026-04-03"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Mccormick-Jones University",
+        "end_year": "2020"
+      }
+    ]
+  },
+  {
+    "uuid": "1bac5c15-4fa0-4f26-b6f7-f0cc29ec8e49",
+    "first_name": "Kim",
+    "last_name": "Shelton",
+    "email": "kim.shelton@mccormick.com",
+    "phone": "+1-892-751-9254x62914",
+    "github": "https://github.com/kimshelton",
+    "linkedin": "https://linkedin.com/in/kim-shelton-813",
+    "location": {
+      "city": "Lake Jacqueline",
+      "country": "Yemen"
+    },
+    "skills": [
+      "Python",
+      "Node.js",
+      "Machine Learning",
+      "Kubernetes",
+      "SQL",
+      "Docker",
+      "Java"
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Brewing technologist",
+        "start_date": "2022-02-07",
+        "end_date": "2025-08-05"
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Gregory, Mitchell and Cummings University",
+        "end_year": "2011"
+      }
+    ]
+  },
+  {
+    "uuid": "0d6a05b3-43ef-4016-ac9b-662e040a3aae",
+    "first_name": "Nancy",
+    "last_name": "Johnson",
+    "email": "nancy.johnson@bailey-montoya.info",
+    "phone": "+1-462-792-3309x5849",
+    "github": "https://github.com/nancyjohnson",
+    "linkedin": "https://linkedin.com/in/nancy-johnson-470",
+    "location": {
+      "city": "Keithview",
+      "country": "Zambia"
+    },
+    "skills": [
+      "Rust",
+      "Kubernetes",
+      "SQL",
+      "Java"
+    ],
+    "experience": [
+      {
+        "company": "Airbnb",
+        "title": "Commercial/residential surveyor",
+        "start_date": "2020-07-11",
+        "end_date": "2025-09-19"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Matthews, Bell and Page University",
+        "end_year": "2022"
+      }
+    ]
+  },
+  {
+    "uuid": "57c700aa-b7b5-4ea7-b5eb-d32d9ad620ab",
+    "first_name": "Michele",
+    "last_name": "Jones",
+    "email": "michele.jones@bradshaw.org",
+    "phone": "001-394-271-7464x8877",
+    "github": "https://github.com/michelejones",
+    "linkedin": "https://linkedin.com/in/michele-jones-103",
+    "location": {
+      "city": "Navarroview",
+      "country": "Anguilla"
+    },
+    "skills": [
+      "Go",
+      "Rust",
+      "Node.js",
+      "SQL"
+    ],
+    "experience": [
+      {
+        "company": "Apple",
+        "title": "Engineer, civil (consulting)",
+        "start_date": "2023-09-23",
+        "end_date": "2025-08-13"
+      },
+      {
+        "company": "Google",
+        "title": "Sport and exercise psychologist",
+        "start_date": "2020-04-26",
+        "end_date": "2026-03-08"
+      },
+      {
+        "company": "Amazon",
+        "title": "Database administrator",
+        "start_date": "2021-01-05",
+        "end_date": "2026-05-17"
+      },
+      {
+        "company": "Uber",
+        "title": "Curator",
+        "start_date": "2017-09-16",
+        "end_date": "2025-07-23"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Sparks PLC University",
+        "end_year": "2010"
+      }
+    ]
+  },
+  {
+    "uuid": "98ae4334-6c12-4ce8-ae34-0454cac5b68c",
+    "first_name": "Bruce",
+    "last_name": "Edwards",
+    "email": "bruce.edwards@silva.net",
+    "phone": "(799)385-4353x46247",
+    "github": "https://github.com/bruceedwards",
+    "linkedin": "https://linkedin.com/in/bruce-edwards-649",
+    "location": {
+      "city": "South Christineshire",
+      "country": "Bolivia"
+    },
+    "skills": [
+      "Kubernetes",
+      "Rust",
+      "Machine Learning"
+    ],
+    "experience": [
+      {
+        "company": "Stripe",
+        "title": "Designer, industrial/product",
+        "start_date": "2017-06-18",
+        "end_date": "2026-01-13"
+      },
+      {
+        "company": "Apple",
+        "title": "Catering manager",
+        "start_date": "2019-08-28",
+        "end_date": "2025-07-26"
+      },
+      {
+        "company": "Stripe",
+        "title": "Therapist, nutritional",
+        "start_date": "2017-08-26",
+        "end_date": "2026-03-19"
+      },
+      {
+        "company": "Google",
+        "title": "Farm manager",
+        "start_date": "2023-05-13",
+        "end_date": "2025-08-15"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Sanchez, Wheeler and Harvey University",
+        "end_year": "2020"
+      }
+    ]
+  },
+  {
+    "uuid": "e0f3eab0-5cec-4eb5-add9-68311ca35cfb",
+    "first_name": "Rachel",
+    "last_name": "Flynn",
+    "email": "rachel.flynn@nolan.com",
+    "phone": "563-542-1607x33754",
+    "github": "https://github.com/rachelflynn",
+    "linkedin": "https://linkedin.com/in/rachel-flynn-269",
+    "location": {
+      "city": "Lake Jamesmouth",
+      "country": "Fiji"
+    },
+    "skills": [
+      "React",
+      "Python",
+      "Rust",
+      "Java",
+      "SQL"
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Civil engineer, contracting",
+        "start_date": "2022-07-06",
+        "end_date": "2026-04-28"
+      },
+      {
+        "company": "Stripe",
+        "title": "Surveyor, minerals",
+        "start_date": "2023-05-30",
+        "end_date": "2026-02-26"
+      },
+      {
+        "company": "Microsoft",
+        "title": "Designer, fashion/clothing",
+        "start_date": "2020-07-10",
+        "end_date": "2026-05-31"
+      },
+      {
+        "company": "Microsoft",
+        "title": "Designer, textile",
+        "start_date": "2019-07-05",
+        "end_date": "2026-06-07"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Johnson-Doyle University",
+        "end_year": "2018"
+      }
+    ]
+  },
+  {
+    "uuid": "d664d264-4c6e-47ff-b9de-7a3a486822b9",
+    "first_name": "David",
+    "last_name": "Perry",
+    "email": "david.perry@brown.com",
+    "phone": "7178046226",
+    "github": "https://github.com/davidperry",
+    "linkedin": "https://linkedin.com/in/david-perry-429",
+    "location": {
+      "city": "Kanefurt",
+      "country": "Honduras"
+    },
+    "skills": [
+      "Machine Learning",
+      "Go",
+      "AWS",
+      "C++",
+      "Rust",
+      "Node.js",
+      "React"
+    ],
+    "experience": [
+      {
+        "company": "Netflix",
+        "title": "Occupational hygienist",
+        "start_date": "2020-10-28",
+        "end_date": "2026-05-13"
+      },
+      {
+        "company": "Stripe",
+        "title": "Accountant, chartered certified",
+        "start_date": "2020-03-14",
+        "end_date": "2026-02-09"
+      },
+      {
+        "company": "Stripe",
+        "title": "Buyer, industrial",
+        "start_date": "2017-04-07",
+        "end_date": "2025-12-11"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Graves-Weaver University",
+        "end_year": "2017"
+      }
+    ]
+  },
+  {
+    "uuid": "1b049863-7d7d-4bed-9284-476c6b88f83d",
+    "first_name": "Henry",
+    "last_name": "Schwartz",
+    "email": "henry.schwartz@lamb.biz",
+    "phone": "859.477.4688",
+    "github": "https://github.com/henryschwartz",
+    "linkedin": "https://linkedin.com/in/henry-schwartz-945",
+    "location": {
+      "city": "Port Cassandra",
+      "country": "Tunisia"
+    },
+    "skills": [
+      "Docker",
+      "Go",
+      "AWS",
+      "C++",
+      "Kubernetes",
+      "Java"
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Medical sales representative",
+        "start_date": "2020-07-14",
+        "end_date": "2025-12-19"
+      },
+      {
+        "company": "Stripe",
+        "title": "Tree surgeon",
+        "start_date": "2021-05-05",
+        "end_date": "2026-04-18"
+      },
+      {
+        "company": "Airbnb",
+        "title": "Production assistant, radio",
+        "start_date": "2020-06-23",
+        "end_date": "2026-01-23"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Collins Group University",
+        "end_year": "2016"
+      }
+    ]
+  },
+  {
+    "uuid": "9b3080d5-6fb7-4271-904d-281fc9535b63",
+    "first_name": "Patrick",
+    "last_name": "Vega",
+    "email": "patrick.vega@durham-thomas.info",
+    "phone": "674-636-7136x959",
+    "github": "https://github.com/patrickvega",
+    "linkedin": "https://linkedin.com/in/patrick-vega-171",
+    "location": {
+      "city": "Port Dominiqueview",
+      "country": "Algeria"
+    },
+    "skills": [
+      "Java",
+      "Kubernetes",
+      "Machine Learning",
+      "React",
+      "Node.js",
+      "Python",
+      "Docker"
+    ],
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Forest/woodland manager",
+        "start_date": "2024-04-24",
+        "end_date": "2025-10-07"
+      },
+      {
+        "company": "Stripe",
+        "title": "Acupuncturist",
+        "start_date": "2024-05-29",
+        "end_date": "2026-06-14"
+      },
+      {
+        "company": "Stripe",
+        "title": "Holiday representative",
+        "start_date": "2019-03-08",
+        "end_date": "2025-07-28"
+      },
+      {
+        "company": "Meta",
+        "title": "Private music teacher",
+        "start_date": "2022-05-17",
+        "end_date": "2026-02-13"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Fowler-Coleman University",
+        "end_year": "2016"
+      }
+    ]
+  },
+  {
+    "uuid": "a79fbfaf-def5-4689-a8f4-5bce24e75e8e",
+    "first_name": "Brittany",
+    "last_name": "Moss",
+    "email": "brittany.moss@garrett.net",
+    "phone": "001-627-508-6688x263",
+    "github": "https://github.com/brittanymoss",
+    "linkedin": "https://linkedin.com/in/brittany-moss-835",
+    "location": {
+      "city": "Deborahmouth",
+      "country": "Tanzania"
+    },
+    "skills": [
+      "Java",
+      "AWS",
+      "Node.js",
+      "Docker"
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Research scientist (life sciences)",
+        "start_date": "2017-04-17",
+        "end_date": "2025-11-10"
+      },
+      {
+        "company": "Netflix",
+        "title": "Museum/gallery curator",
+        "start_date": "2025-06-01",
+        "end_date": "2025-10-31"
+      },
+      {
+        "company": "Stripe",
+        "title": "Pension scheme manager",
+        "start_date": "2023-06-10",
+        "end_date": "2025-08-26"
+      },
+      {
+        "company": "Uber",
+        "title": "Hydrologist",
+        "start_date": "2022-11-25",
+        "end_date": "2025-09-09"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Wells, Atkinson and Turner University",
+        "end_year": "2020"
+      }
+    ]
+  },
+  {
+    "uuid": "30beb45f-6835-44f2-8eb8-1f9d7914c120",
+    "first_name": "Patricia",
+    "last_name": "Dalton",
+    "email": "patricia.dalton@osborne.com",
+    "phone": "+1-557-698-6872x774",
+    "github": "https://github.com/patriciadalton",
+    "linkedin": "https://linkedin.com/in/patricia-dalton-769",
+    "location": {
+      "city": "Simsview",
+      "country": "Kazakhstan"
+    },
+    "skills": [
+      "Java",
+      "Go",
+      "Kubernetes"
+    ],
+    "experience": [
+      {
+        "company": "Uber",
+        "title": "Scientist, marine",
+        "start_date": "2024-05-25",
+        "end_date": "2025-07-19"
+      },
+      {
+        "company": "Uber",
+        "title": "Surveyor, hydrographic",
+        "start_date": "2020-09-25",
+        "end_date": "2026-06-21"
+      },
+      {
+        "company": "Airbnb",
+        "title": "Community development worker",
+        "start_date": "2024-04-05",
+        "end_date": "2025-08-20"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Contreras-Travis University",
+        "end_year": "2020"
+      }
+    ]
+  },
+  {
+    "uuid": "b963f37f-6781-4c1f-8c53-0e36addc3e13",
+    "first_name": "Michael",
+    "last_name": "Rodriguez",
+    "email": "michael.rodriguez@gregory.com",
+    "phone": "424.445.1076",
+    "github": "https://github.com/michaelrodriguez",
+    "linkedin": "https://linkedin.com/in/michael-rodriguez-758",
+    "location": {
+      "city": "Patelbury",
+      "country": "Macao"
+    },
+    "skills": [
+      "AWS",
+      "C++",
+      "Machine Learning",
+      "SQL"
+    ],
+    "experience": [
+      {
+        "company": "Uber",
+        "title": "English as a second language teacher",
+        "start_date": "2023-03-22",
+        "end_date": "2026-02-17"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Smith LLC University",
+        "end_year": "2011"
+      }
+    ]
+  },
+  {
+    "uuid": "e45b712e-b822-4688-90a4-44329cd6c852",
+    "first_name": "Regina",
+    "last_name": "Hopkins",
+    "email": "regina.hopkins@ellis-maynard.com",
+    "phone": "+1-621-924-9985x698",
+    "github": "https://github.com/reginahopkins",
+    "linkedin": "https://linkedin.com/in/regina-hopkins-344",
+    "location": {
+      "city": "Garciaville",
+      "country": "Timor-Leste"
+    },
+    "skills": [
+      "Kubernetes",
+      "SQL",
+      "AWS",
+      "C++",
+      "Machine Learning",
+      "React",
+      "Go"
+    ],
+    "experience": [
+      {
+        "company": "Apple",
+        "title": "Quality manager",
+        "start_date": "2023-04-30",
+        "end_date": "2025-12-12"
+      },
+      {
+        "company": "Stripe",
+        "title": "Clinical cytogeneticist",
+        "start_date": "2024-11-01",
+        "end_date": "2026-04-02"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Jones-Miller University",
+        "end_year": "2020"
+      }
+    ]
+  },
+  {
+    "uuid": "5487fd4f-ebb7-4385-aa0b-7b14f2e9702d",
+    "first_name": "Ashlee",
+    "last_name": "Jennings",
+    "email": "ashlee.jennings@beltran.com",
+    "phone": "001-452-714-5623",
+    "github": "https://github.com/ashleejennings",
+    "linkedin": "https://linkedin.com/in/ashlee-jennings-530",
+    "location": {
+      "city": "Mariaview",
+      "country": "United States Minor Outlying Islands"
+    },
+    "skills": [
+      "Docker",
+      "Go",
+      "Java",
+      "Node.js",
+      "SQL",
+      "Rust",
+      "React"
+    ],
+    "experience": [
+      {
+        "company": "Uber",
+        "title": "Event organiser",
+        "start_date": "2022-06-28",
+        "end_date": "2025-09-23"
+      },
+      {
+        "company": "Apple",
+        "title": "Energy manager",
+        "start_date": "2020-10-04",
+        "end_date": "2026-03-20"
+      },
+      {
+        "company": "Stripe",
+        "title": "Copywriter, advertising",
+        "start_date": "2018-02-23",
+        "end_date": "2026-06-15"
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Lucas, Parker and Alexander University",
+        "end_year": "2013"
+      }
+    ]
+  },
+  {
+    "uuid": "ceda8bbb-7171-4434-934c-6c92ec5b227c",
+    "first_name": "Paul",
+    "last_name": "Caldwell",
+    "email": "paul.caldwell@ramsey-pittman.com",
+    "phone": "965-237-5564x641",
+    "github": "https://github.com/paulcaldwell",
+    "linkedin": "https://linkedin.com/in/paul-caldwell-985",
+    "location": {
+      "city": "West Jeffreyland",
+      "country": "Slovakia (Slovak Republic)"
+    },
+    "skills": [
+      "Java",
+      "Python",
+      "SQL",
+      "Go",
+      "Rust",
+      "Kubernetes",
+      "AWS"
+    ],
+    "experience": [
+      {
+        "company": "Uber",
+        "title": "Writer",
+        "start_date": "2016-12-14",
+        "end_date": "2026-06-17"
+      },
+      {
+        "company": "Airbnb",
+        "title": "Nurse, mental health",
+        "start_date": "2016-12-15",
+        "end_date": "2025-08-01"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Patterson, Camacho and White University",
+        "end_year": "2013"
+      }
+    ]
+  },
+  {
+    "uuid": "f10013a7-c6de-42f0-930a-c1c7b8ba8368",
+    "first_name": "Michael",
+    "last_name": "Powell",
+    "email": "michael.powell@otherdomain.com",
+    "phone": "(241)591-3800",
+    "github": "https://github.com/michael_powell_alt",
+    "linkedin": "https://linkedin.com/in/michael-powell-alt",
+    "location": {
+      "city": "South Michaelberg",
+      "country": "Christmas Island"
+    },
+    "skills": [
+      "AWS",
+      "Java",
+      "Machine Learning",
+      "Python",
+      "Kubernetes",
+      "Docker"
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Engineer, broadcasting (operations)",
+        "start_date": "2022-08-30",
+        "end_date": "2026-01-30"
+      },
+      {
+        "company": "Apple",
+        "title": "Homeopath",
+        "start_date": "2017-09-29",
+        "end_date": "2025-11-27"
+      },
+      {
+        "company": "Google",
+        "title": "Retail merchandiser",
+        "start_date": "2024-02-27",
+        "end_date": "2026-04-22"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Ramirez, Hays and Becker University",
+        "end_year": "2013"
+      }
+    ]
+  },
+  {
+    "uuid": "b6aae05b-13d5-42f7-b09b-7d97464c04af",
+    "first_name": "Diana",
+    "last_name": "Rich",
+    "email": "diana.rich@le.com",
+    "phone": "(227)711-1161x528",
+    "github": "https://github.com/dianarich",
+    "linkedin": "https://linkedin.com/in/diana-rich-256",
+    "location": {
+      "city": "South Michaelchester",
+      "country": "Trinidad and Tobago"
+    },
+    "skills": [
+      "React",
+      "Node.js",
+      "Docker",
+      "Machine Learning",
+      "Java"
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Patent attorney",
+        "start_date": "2022-04-06",
+        "end_date": "2026-05-17"
+      },
+      {
+        "company": "Meta",
+        "title": "Professor Emeritus",
+        "start_date": "2023-04-12",
+        "end_date": "2025-12-08"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Davis, Simmons and Ortega University",
+        "end_year": "2021"
+      }
+    ]
+  },
+  {
+    "uuid": "8d7248e2-951f-48d0-9e84-f058d5a804eb",
+    "first_name": "Elaine",
+    "last_name": "Morales",
+    "email": "elaine.morales@johnson.com",
+    "phone": "503.448.2477x109",
+    "github": "https://github.com/elainemorales",
+    "linkedin": "https://linkedin.com/in/elaine-morales-205",
+    "location": {
+      "city": "Andreaside",
+      "country": "Ireland"
+    },
+    "skills": [
+      "Kubernetes",
+      "C++",
+      "Python",
+      "Node.js"
+    ],
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Operations geologist",
+        "start_date": "2025-04-01",
+        "end_date": "2026-05-16"
+      },
+      {
+        "company": "Netflix",
+        "title": "Accommodation manager",
+        "start_date": "2024-05-09",
+        "end_date": "2025-12-07"
+      },
+      {
+        "company": "Meta",
+        "title": "Audiological scientist",
+        "start_date": "2019-09-08",
+        "end_date": "2026-01-17"
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Dean-Jimenez University",
+        "end_year": "2020"
+      }
+    ]
+  },
+  {
+    "uuid": "bdd640fb-0667-4ad1-9c80-317fa3b1799d",
+    "first_name": "Danielle",
+    "last_name": "Johnson",
+    "email": "danielle.johnson@sanchez-taylor.com",
+    "phone": "+1-763-679-4026",
+    "github": "https://github.com/daniellejohnson",
+    "linkedin": "https://linkedin.com/in/danielle-johnson-716",
+    "location": {
+      "city": "East Susan",
+      "country": "Guadeloupe"
+    },
+    "skills": [
+      "React",
+      "Rust",
+      "C++",
+      "Java",
+      "SQL"
+    ],
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Sports administrator",
+        "start_date": "2017-12-22",
+        "end_date": "2026-02-14"
+      },
+      {
+        "company": "Google",
+        "title": "Pharmacist, hospital",
+        "start_date": "2017-01-13",
+        "end_date": "2025-07-11"
+      },
+      {
+        "company": "Amazon",
+        "title": "Chief Financial Officer",
+        "start_date": "2020-03-19",
+        "end_date": "2025-09-28"
+      },
+      {
+        "company": "Meta",
+        "title": "Risk analyst",
+        "start_date": "2016-12-11",
+        "end_date": "2026-02-02"
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Baldwin Ltd University",
+        "end_year": "2018"
+      }
+    ]
+  },
+  {
+    "uuid": "663f1c97-9562-49f0-a5d7-b8756dadd6c7",
+    "first_name": "Sandra",
+    "last_name": "Ramos",
+    "email": "sandra.ramos@garcia.com",
+    "phone": "(502)660-6474x6872",
+    "github": "https://github.com/sandraramos",
+    "linkedin": "https://linkedin.com/in/sandra-ramos-263",
+    "location": {
+      "city": "North Beth",
+      "country": "Mauritius"
+    },
+    "skills": [
+      "React",
+      "C++",
+      "SQL",
+      "AWS",
+      "Java"
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Chief Financial Officer",
+        "start_date": "2020-07-07",
+        "end_date": "2025-09-02"
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Tucker-Lewis University",
+        "end_year": "2020"
+      }
+    ]
+  },
+  {
+    "uuid": "79e13cea-b0cb-461f-bd85-de89c2171429",
+    "first_name": "Crystal",
+    "last_name": "Andrews",
+    "email": "crystal.andrews@thomas.com",
+    "phone": "588.306.7065x40515",
+    "github": "https://github.com/crystalandrews",
+    "linkedin": "https://linkedin.com/in/crystal-andrews-666",
+    "location": {
+      "city": "Dennisstad",
+      "country": "Mayotte"
+    },
+    "skills": [
+      "Rust",
+      "AWS",
+      "Go",
+      "Python",
+      "Java",
+      "C++",
+      "Machine Learning",
+      "React"
+    ],
+    "experience": [
+      {
+        "company": "Apple",
+        "title": "Teacher, English as a foreign language",
+        "start_date": "2023-08-01",
+        "end_date": "2025-09-10"
+      },
+      {
+        "company": "Block",
+        "title": "Chartered certified accountant",
+        "start_date": "2025-05-26",
+        "end_date": "2025-11-17"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Ashley PLC University",
+        "end_year": "2017"
+      }
+    ]
+  },
+  {
+    "uuid": "bc2cbb0d-dd33-4cc7-ab7f-089acd5f4822",
+    "first_name": "Lori",
+    "last_name": "Campbell",
+    "email": "lori.campbell@monroe-carpenter.info",
+    "phone": "+1-867-253-3963",
+    "github": "https://github.com/loricampbell",
+    "linkedin": "https://linkedin.com/in/lori-campbell-936",
+    "location": {
+      "city": "Juliefurt",
+      "country": "Hungary"
+    },
+    "skills": [
+      "Node.js",
+      "C++",
+      "Java",
+      "Kubernetes"
+    ],
+    "experience": [
+      {
+        "company": "Airbnb",
+        "title": "Database administrator",
+        "start_date": "2024-02-03",
+        "end_date": "2026-01-25"
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Reed-Arnold University",
+        "end_year": "2013"
+      }
+    ]
+  },
+  {
+    "uuid": "6123fdf7-7656-4f72-a9d4-beef3eabedcb",
+    "first_name": "Rodney",
+    "last_name": "Lewis",
+    "email": "rodney.lewis@campos.biz",
+    "phone": "5983393010",
+    "github": "https://github.com/rodneylewis",
+    "linkedin": "https://linkedin.com/in/rodney-lewis-167",
+    "location": {
+      "city": "Port Markhaven",
+      "country": "Dominica"
+    },
+    "skills": [
+      "Go",
+      "SQL",
+      "React",
+      "Docker",
+      "Python"
+    ],
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Midwife",
+        "start_date": "2023-12-13",
+        "end_date": "2026-06-14"
+      },
+      {
+        "company": "Netflix",
+        "title": "Scientist, forensic",
+        "start_date": "2024-03-05",
+        "end_date": "2025-08-15"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Walker LLC University",
+        "end_year": "2014"
+      }
+    ]
+  },
+  {
+    "uuid": "6a34c854-1071-4d51-b6c5-9dacb4d7e28e",
+    "first_name": "Ruth",
+    "last_name": "Williams",
+    "email": "ruth.williams@burke-bell.org",
+    "phone": "+1-699-680-9402",
+    "github": "https://github.com/ruthwilliams",
+    "linkedin": "https://linkedin.com/in/ruth-williams-106",
+    "location": {
+      "city": "Michaelburgh",
+      "country": "Trinidad and Tobago"
+    },
+    "skills": [
+      "Docker",
+      "SQL",
+      "AWS",
+      "Kubernetes",
+      "Python",
+      "Java"
+    ],
+    "experience": [
+      {
+        "company": "Uber",
+        "title": "Runner, broadcasting/film/video",
+        "start_date": "2020-02-11",
+        "end_date": "2025-08-29"
+      },
+      {
+        "company": "Block",
+        "title": "Race relations officer",
+        "start_date": "2020-04-23",
+        "end_date": "2026-05-25"
+      },
+      {
+        "company": "Google",
+        "title": "Clinical cytogeneticist",
+        "start_date": "2022-06-14",
+        "end_date": "2026-05-24"
+      },
+      {
+        "company": "Block",
+        "title": "Surveyor, commercial/residential",
+        "start_date": "2022-09-30",
+        "end_date": "2025-08-13"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Andrews-Aguirre University",
+        "end_year": "2017"
+      }
+    ]
+  },
+  {
+    "uuid": "6232b17a-2507-4181-8d1f-b54074eff545",
+    "first_name": "Nathaniel",
+    "last_name": "Miles",
+    "email": "nathaniel.miles@todd-pham.com",
+    "phone": "598.922.5871",
+    "github": "https://github.com/nathanielmiles",
+    "linkedin": "https://linkedin.com/in/nathaniel-miles-102",
+    "location": {
+      "city": "New Seanton",
+      "country": "Korea"
+    },
+    "skills": [
+      "Machine Learning",
+      "SQL",
+      "C++",
+      "Java"
+    ],
+    "experience": [
+      {
+        "company": "Uber",
+        "title": "Firefighter",
+        "start_date": "2017-11-20",
+        "end_date": "2026-01-20"
+      },
+      {
+        "company": "Netflix",
+        "title": "Product manager",
+        "start_date": "2025-06-24",
+        "end_date": "2026-03-30"
+      },
+      {
+        "company": "Stripe",
+        "title": "Medical illustrator",
+        "start_date": "2017-10-28",
+        "end_date": "2026-06-21"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Rodriguez, Poole and Leach University",
+        "end_year": "2023"
+      }
+    ]
+  },
+  {
+    "uuid": "5fd23109-4140-452c-aa44-825950018b7b",
+    "first_name": "Chad",
+    "last_name": "Reyes",
+    "email": "chad.reyes@shaffer.com",
+    "phone": "(518)490-9275",
+    "github": "https://github.com/chadreyes",
+    "linkedin": "https://linkedin.com/in/chad-reyes-862",
+    "location": {
+      "city": "Jensenmouth",
+      "country": "Tokelau"
+    },
+    "skills": [
+      "Go",
+      "AWS",
+      "Java",
+      "Machine Learning"
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Copywriter, advertising",
+        "start_date": "2023-01-03",
+        "end_date": "2026-04-26"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "May Ltd University",
+        "end_year": "2011"
+      }
+    ]
+  },
+  {
+    "uuid": "cdfc6ee0-e61e-4e90-8267-deb3aab612c9",
+    "first_name": "Alyssa",
+    "last_name": "Hill",
+    "email": "alyssa.hill@smith-li.biz",
+    "phone": "256-379-3341",
+    "github": "https://github.com/alyssahill",
+    "linkedin": "https://linkedin.com/in/alyssa-hill-965",
+    "location": {
+      "city": "Grayside",
+      "country": "Lebanon"
+    },
+    "skills": [
+      "Node.js",
+      "Go",
+      "SQL",
+      "C++",
+      "Java",
+      "React"
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Editorial assistant",
+        "start_date": "2018-04-25",
+        "end_date": "2026-06-21"
+      },
+      {
+        "company": "Apple",
+        "title": "Chief Operating Officer",
+        "start_date": "2025-06-01",
+        "end_date": "2025-08-26"
+      },
+      {
+        "company": "Uber",
+        "title": "Financial adviser",
+        "start_date": "2019-10-05",
+        "end_date": "2026-02-25"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "King, Gomez and Norton University",
+        "end_year": "2017"
+      }
+    ]
+  },
+  {
+    "uuid": "f53d4330-cdda-44ba-ad06-e8cf3805f907",
+    "first_name": "Michele",
+    "last_name": "Thomas",
+    "email": "michele.thomas@fernandez.com",
+    "phone": "(368)911-7758",
+    "github": "https://github.com/michelethomas",
+    "linkedin": "https://linkedin.com/in/michele-thomas-553",
+    "location": {
+      "city": "New Bradley",
+      "country": "Slovenia"
+    },
+    "skills": [
+      "SQL",
+      "AWS",
+      "Python",
+      "Rust",
+      "React",
+      "Kubernetes",
+      "Machine Learning",
+      "Go"
+    ],
+    "experience": [
+      {
+        "company": "Airbnb",
+        "title": "Agricultural engineer",
+        "start_date": "2018-09-26",
+        "end_date": "2025-07-05"
+      },
+      {
+        "company": "Stripe",
+        "title": "Materials engineer",
+        "start_date": "2020-07-17",
+        "end_date": "2026-02-13"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Smith-Baker University",
+        "end_year": "2022"
+      }
+    ]
+  },
+  {
+    "uuid": "279c658a-3676-4ce5-81e5-c9f693f277cc",
+    "first_name": "Pamela",
+    "last_name": "Smith",
+    "email": "pamela.smith@peck-anderson.org",
+    "phone": "8438006848",
+    "github": "https://github.com/pamelasmith",
+    "linkedin": "https://linkedin.com/in/pamela-smith-773",
+    "location": {
+      "city": "Millerside",
+      "country": "Mauritania"
+    },
+    "skills": [
+      "AWS",
+      "React",
+      "Java",
+      "Docker",
+      "SQL",
+      "Python",
+      "C++",
+      "Node.js"
+    ],
+    "experience": [
+      {
+        "company": "Uber",
+        "title": "Petroleum engineer",
+        "start_date": "2022-09-17",
+        "end_date": "2026-01-28"
+      },
+      {
+        "company": "Stripe",
+        "title": "Drilling engineer",
+        "start_date": "2024-07-04",
+        "end_date": "2026-04-25"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Smith Inc University",
+        "end_year": "2019"
+      }
+    ]
+  },
+  {
+    "uuid": "26d794d3-0db9-4301-afbb-411aa1235a8c",
+    "first_name": "Jenna",
+    "last_name": "Graves",
+    "email": "jenna.graves@leon.com",
+    "phone": "3583957829",
+    "github": "https://github.com/jennagraves",
+    "linkedin": "https://linkedin.com/in/jenna-graves-710",
+    "location": {
+      "city": "Raymondfort",
+      "country": "Malta"
+    },
+    "skills": [
+      "Machine Learning",
+      "Node.js",
+      "Java",
+      "React"
+    ],
+    "experience": [
+      {
+        "company": "Stripe",
+        "title": "Community development worker",
+        "start_date": "2019-11-30",
+        "end_date": "2026-05-03"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Young Group University",
+        "end_year": "2019"
+      }
+    ]
+  },
+  {
+    "uuid": "2702878b-9f0f-4a8d-8537-9ff6d6d7b3b8",
+    "first_name": "Brian",
+    "last_name": "Romero",
+    "email": "brian.romero@murray-johnson.com",
+    "phone": "451-782-0377",
+    "github": "https://github.com/brianromero",
+    "linkedin": "https://linkedin.com/in/brian-romero-938",
+    "location": {
+      "city": "Samanthafurt",
+      "country": "Ireland"
+    },
+    "skills": [
+      "C++",
+      "AWS",
+      "Java",
+      "React"
+    ],
+    "experience": [
+      {
+        "company": "Apple",
+        "title": "Historic buildings inspector/conservation officer",
+        "start_date": "2017-10-19",
+        "end_date": "2026-03-07"
+      },
+      {
+        "company": "Netflix",
+        "title": "Chemical engineer",
+        "start_date": "2025-02-13",
+        "end_date": "2025-11-26"
+      },
+      {
+        "company": "Microsoft",
+        "title": "Psychologist, counselling",
+        "start_date": "2017-03-11",
+        "end_date": "2025-12-21"
+      },
+      {
+        "company": "Block",
+        "title": "Teacher, music",
+        "start_date": "2019-09-12",
+        "end_date": "2025-11-01"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Alvarez, Hernandez and Brown University",
+        "end_year": "2022"
+      }
+    ]
+  },
+  {
+    "uuid": "839fbc50-1223-4513-9496-f63cdc1110c1",
+    "first_name": "Thomas",
+    "last_name": "Santana",
+    "email": "thomas.santana@jackson.org",
+    "phone": "979.817.6936",
+    "github": "https://github.com/thomassantana",
+    "linkedin": "https://linkedin.com/in/thomas-santana-903",
+    "location": {
+      "city": "East Diana",
+      "country": "Albania"
+    },
+    "skills": [
+      "Node.js",
+      "Go",
+      "AWS",
+      "React"
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Legal executive",
+        "start_date": "2018-01-31",
+        "end_date": "2026-05-13"
+      },
+      {
+        "company": "Block",
+        "title": "Farm manager",
+        "start_date": "2021-10-10",
+        "end_date": "2025-09-25"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Hernandez Inc University",
+        "end_year": "2013"
+      }
+    ]
+  },
+  {
+    "uuid": "7c16128d-b2c0-4394-a17f-29e170286046",
+    "first_name": "Kaitlyn",
+    "last_name": "Brennan",
+    "email": "kaitlyn.brennan@mcdowell-smith.org",
+    "phone": "574.431.5274x20549",
+    "github": "https://github.com/kaitlynbrennan",
+    "linkedin": "https://linkedin.com/in/kaitlyn-brennan-517",
+    "location": {
+      "city": "Wilcoxhaven",
+      "country": "Greece"
+    },
+    "skills": [
+      "Python",
+      "Go",
+      "Machine Learning"
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Toxicologist",
+        "start_date": "2018-04-27",
+        "end_date": "2026-06-25"
+      },
+      {
+        "company": "Apple",
+        "title": "Legal executive",
+        "start_date": "2021-05-03",
+        "end_date": "2025-12-23"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Daniels, Snyder and Mays University",
+        "end_year": "2018"
+      }
+    ]
+  },
+  {
+    "uuid": "e256a6dc-8f54-46b7-87b5-b2bc5a8aaeca",
+    "first_name": "Christopher",
+    "last_name": "Gay",
+    "email": "christopher.gay@murray.com",
+    "phone": "378.626.3982",
+    "github": "https://github.com/christophergay",
+    "linkedin": "https://linkedin.com/in/christopher-gay-521",
+    "location": {
+      "city": "Morganhaven",
+      "country": "Ethiopia"
+    },
+    "skills": [
+      "Machine Learning",
+      "C++",
+      "React",
+      "Go",
+      "SQL",
+      "Rust"
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Research scientist (physical sciences)",
+        "start_date": "2021-06-17",
+        "end_date": "2026-01-13"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Hill, Davenport and Baird University",
+        "end_year": "2022"
+      }
+    ]
+  },
+  {
+    "uuid": "74222167-6b7a-4460-a04e-46cb3712f2d1",
+    "first_name": "Diana",
+    "last_name": "Rich",
+    "email": "diana.rich@otherdomain.com",
+    "phone": "4207275884",
+    "github": "https://github.com/diana_rich_alt",
+    "linkedin": "https://linkedin.com/in/diana-rich-alt",
+    "location": {
+      "city": "Lake Kimberly",
+      "country": "Ethiopia"
+    },
+    "skills": [
+      "React",
+      "Node.js",
+      "Docker",
+      "Machine Learning",
+      "Java"
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Patent attorney",
+        "start_date": "2022-04-06",
+        "end_date": "2026-05-17"
+      },
+      {
+        "company": "Meta",
+        "title": "Professor Emeritus",
+        "start_date": "2023-04-12",
+        "end_date": "2025-12-08"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Davis, Simmons and Ortega University",
+        "end_year": "2021"
+      }
+    ]
+  },
+  {
+    "uuid": "88bd13d1-b540-430e-839f-3a254d6168bd",
+    "first_name": "Whitney",
+    "last_name": "Hill",
+    "email": "whitney.hill@jones.biz",
+    "phone": "(456)790-9275x571",
+    "github": "https://github.com/whitneyhill",
+    "linkedin": "https://linkedin.com/in/whitney-hill-391",
+    "location": {
+      "city": "Edwardsview",
+      "country": "Egypt"
+    },
+    "skills": [
+      "Node.js",
+      "Python",
+      "Go",
+      "SQL"
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Medical physicist",
+        "start_date": "2025-03-23",
+        "end_date": "2026-05-07"
+      },
+      {
+        "company": "Airbnb",
+        "title": "Designer, jewellery",
+        "start_date": "2017-01-09",
+        "end_date": "2025-08-24"
+      },
+      {
+        "company": "Amazon",
+        "title": "Translator",
+        "start_date": "2023-12-13",
+        "end_date": "2025-07-13"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Jones Ltd University",
+        "end_year": "2019"
+      }
+    ]
+  },
+  {
+    "uuid": "076979d6-4477-4442-b187-53e6d4578ad9",
+    "first_name": "Christina",
+    "last_name": "Ramirez",
+    "email": "christina.ramirez@miller-mccall.com",
+    "phone": "946-230-3161",
+    "github": "https://github.com/christinaramirez",
+    "linkedin": "https://linkedin.com/in/christina-ramirez-773",
+    "location": {
+      "city": "Elizabethburgh",
+      "country": "British Indian Ocean Territory (Chagos Archipelago)"
+    },
+    "skills": [
+      "Node.js",
+      "Rust",
+      "Docker",
+      "Machine Learning"
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Software engineer",
+        "start_date": "2022-01-20",
+        "end_date": "2025-11-28"
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Walters, Davenport and Becker University",
+        "end_year": "2019"
+      }
+    ]
+  },
+  {
+    "uuid": "f93e08d5-bea2-4dfe-873f-6e1baf908e3c",
+    "first_name": "Erica",
+    "last_name": "Fernandez",
+    "email": "erica.fernandez@campos-taylor.com",
+    "phone": "+1-465-804-7735x866",
+    "github": "https://github.com/ericafernandez",
+    "linkedin": "https://linkedin.com/in/erica-fernandez-294",
+    "location": {
+      "city": "Port Christinebury",
+      "country": "Rwanda"
+    },
+    "skills": [
+      "Machine Learning",
+      "AWS",
+      "Node.js"
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Restaurant manager, fast food",
+        "start_date": "2022-05-19",
+        "end_date": "2025-07-20"
+      },
+      {
+        "company": "Netflix",
+        "title": "Chief Technology Officer",
+        "start_date": "2023-12-06",
+        "end_date": "2025-09-28"
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Peterson PLC University",
+        "end_year": "2020"
+      }
+    ]
+  },
+  {
+    "uuid": "2e76128b-4735-44f9-aa83-bf007135f221",
+    "first_name": "George",
+    "last_name": "Fuller",
+    "email": "george.fuller@hampton.com",
+    "phone": "702.783.8578x6527",
+    "github": "https://github.com/georgefuller",
+    "linkedin": "https://linkedin.com/in/george-fuller-810",
+    "location": {
+      "city": "Chelseaborough",
+      "country": "Egypt"
+    },
+    "skills": [
+      "Kubernetes",
+      "Go",
+      "AWS",
+      "Java",
+      "Machine Learning",
+      "C++",
+      "React"
+    ],
+    "experience": [
+      {
+        "company": "Netflix",
+        "title": "Ambulance person",
+        "start_date": "2018-05-13",
+        "end_date": "2025-09-12"
+      },
+      {
+        "company": "Amazon",
+        "title": "Advertising account executive",
+        "start_date": "2023-12-31",
+        "end_date": "2025-10-29"
+      },
+      {
+        "company": "Microsoft",
+        "title": "Personal assistant",
+        "start_date": "2019-01-26",
+        "end_date": "2025-12-07"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Harris, Shaw and Carr University",
+        "end_year": "2016"
+      }
+    ]
+  },
+  {
+    "uuid": "5738811d-70c2-403f-ba8d-03aa782a65e0",
+    "first_name": "Susan",
+    "last_name": "Johnson",
+    "email": "susan.johnson@porter.net",
+    "phone": "+1-747-331-2172x715",
+    "github": "https://github.com/susanjohnson",
+    "linkedin": "https://linkedin.com/in/susan-johnson-690",
+    "location": {
+      "city": "Patriciaburgh",
+      "country": "Rwanda"
+    },
+    "skills": [
+      "Python",
+      "Node.js",
+      "AWS",
+      "Java"
+    ],
+    "experience": [
+      {
+        "company": "Uber",
+        "title": "Commercial/residential surveyor",
+        "start_date": "2020-12-12",
+        "end_date": "2026-04-26"
+      }
+    ],
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Padilla-Lewis University",
+        "end_year": "2011"
+      }
+    ]
+  },
+  {
+    "uuid": "fb1e143b-196f-4dfa-9cd8-fe1adafec8a9",
+    "first_name": "Brittany",
+    "last_name": "Price",
+    "email": "brittany.price@lewis.com",
+    "phone": "+1-369-469-1557x924",
+    "github": "https://github.com/brittanyprice",
+    "linkedin": "https://linkedin.com/in/brittany-price-441",
+    "location": {
+      "city": "Davidport",
+      "country": "Brazil"
+    },
+    "skills": [
+      "Docker",
+      "SQL",
+      "Rust",
+      "Python",
+      "Kubernetes",
+      "C++",
+      "Java",
+      "Go"
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Technical brewer",
+        "start_date": "2018-03-24",
+        "end_date": "2026-05-06"
+      },
+      {
+        "company": "Meta",
+        "title": "Software engineer",
+        "start_date": "2019-09-04",
+        "end_date": "2025-11-19"
+      },
+      {
+        "company": "Block",
+        "title": "Journalist, magazine",
+        "start_date": "2019-11-06",
+        "end_date": "2025-12-24"
+      },
+      {
+        "company": "Google",
+        "title": "Clothing/textile technologist",
+        "start_date": "2020-12-16",
+        "end_date": "2026-03-17"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Rose-Fowler University",
+        "end_year": "2022"
+      }
+    ]
+  },
+  {
+    "uuid": "c693da11-39c6-41ca-9e50-aa42ca6dfda1",
+    "first_name": "Robert",
+    "last_name": "Ortiz",
+    "email": "robert.ortiz@jones.info",
+    "phone": "+1-792-526-8018x2422",
+    "github": "https://github.com/robertortiz",
+    "linkedin": "https://linkedin.com/in/robert-ortiz-312",
+    "location": {
+      "city": "Staceyhaven",
+      "country": "Ukraine"
+    },
+    "skills": [
+      "Kubernetes",
+      "AWS",
+      "Go",
+      "Node.js",
+      "Rust",
+      "C++",
+      "SQL"
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Psychologist, prison and probation services",
+        "start_date": "2025-04-18",
+        "end_date": "2025-11-10"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Humphrey PLC University",
+        "end_year": "2022"
+      }
+    ]
+  },
+  {
+    "uuid": "82dc4c8e-36b5-429a-acf5-e81e71316269",
+    "first_name": "Ricky",
+    "last_name": "Taylor",
+    "email": "ricky.taylor@torres.com",
+    "phone": "001-786-592-6179x640",
+    "github": "https://github.com/rickytaylor",
+    "linkedin": "https://linkedin.com/in/ricky-taylor-125",
+    "location": {
+      "city": "Wallacebury",
+      "country": "Timor-Leste"
+    },
+    "skills": [
+      "Rust",
+      "C++",
+      "Java",
+      "Node.js",
+      "Docker",
+      "Python"
+    ],
+    "experience": [
+      {
+        "company": "Apple",
+        "title": "Chief Strategy Officer",
+        "start_date": "2020-06-27",
+        "end_date": "2026-06-09"
+      },
+      {
+        "company": "Meta",
+        "title": "Soil scientist",
+        "start_date": "2018-10-20",
+        "end_date": "2025-11-27"
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Watson-Avery University",
+        "end_year": "2012"
+      }
+    ]
+  },
+  {
+    "uuid": "d777a477-4c66-40a8-a013-ac6ededa4e16",
+    "first_name": "Grace",
+    "last_name": "Farrell",
+    "email": "grace.farrell@freeman.com",
+    "phone": "+1-742-478-6801x1280",
+    "github": "https://github.com/gracefarrell",
+    "linkedin": "https://linkedin.com/in/grace-farrell-119",
+    "location": {
+      "city": "Andersonport",
+      "country": "Haiti"
+    },
+    "skills": [
+      "SQL",
+      "Machine Learning",
+      "React",
+      "C++",
+      "Docker",
+      "Kubernetes",
+      "Java",
+      "Node.js"
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Pharmacologist",
+        "start_date": "2021-03-15",
+        "end_date": "2025-07-17"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Cook and Sons University",
+        "end_year": "2017"
+      }
+    ]
+  },
+  {
+    "uuid": "402adf9c-8a4b-4f7c-a147-2a15fcce96f6",
+    "first_name": "Anthony",
+    "last_name": "Juarez",
+    "email": "anthony.juarez@johnson-walker.com",
+    "phone": "001-514-885-8078",
+    "github": "https://github.com/anthonyjuarez",
+    "linkedin": "https://linkedin.com/in/anthony-juarez-431",
+    "location": {
+      "city": "Lake Mariabury",
+      "country": "French Southern Territories"
+    },
+    "skills": [
+      "Java",
+      "Go",
+      "Python",
+      "C++"
+    ],
+    "experience": [
+      {
+        "company": "Netflix",
+        "title": "Dispensing optician",
+        "start_date": "2024-04-10",
+        "end_date": "2026-02-04"
+      }
+    ],
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Barton, Simpson and Dixon University",
+        "end_year": "2019"
+      }
+    ]
+  },
+  {
+    "uuid": "9132b63e-f162-47e4-a9c3-49e03602f8ac",
+    "first_name": "Joshua",
+    "last_name": "Washington",
+    "email": "joshua.washington@anderson.info",
+    "phone": "(467)801-0651x33387",
+    "github": "https://github.com/joshuawashington",
+    "linkedin": "https://linkedin.com/in/joshua-washington-698",
+    "location": {
+      "city": "West Steven",
+      "country": "Tunisia"
+    },
+    "skills": [
+      "Docker",
+      "React",
+      "AWS",
+      "Kubernetes",
+      "Machine Learning",
+      "Java",
+      "C++",
+      "SQL"
+    ],
+    "experience": [
+      {
+        "company": "Stripe",
+        "title": "Financial manager",
+        "start_date": "2024-07-16",
+        "end_date": "2026-05-09"
+      },
+      {
+        "company": "Stripe",
+        "title": "Optometrist",
+        "start_date": "2019-09-26",
+        "end_date": "2025-08-05"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Hopkins LLC University",
+        "end_year": "2021"
+      }
+    ]
+  },
+  {
+    "uuid": "c958e75e-21d5-4971-b367-49b52cf6bf75",
+    "first_name": "Rachel",
+    "last_name": "Stein",
+    "email": "rachel.stein@armstrong.biz",
+    "phone": "354-437-9937",
+    "github": "https://github.com/rachelstein",
+    "linkedin": "https://linkedin.com/in/rachel-stein-872",
+    "location": {
+      "city": "Adamfurt",
+      "country": "Grenada"
+    },
+    "skills": [
+      "Docker",
+      "SQL",
+      "Go",
+      "Node.js",
+      "C++",
+      "AWS",
+      "React"
+    ],
+    "experience": [
+      {
+        "company": "Netflix",
+        "title": "Doctor, general practice",
+        "start_date": "2018-11-09",
+        "end_date": "2025-10-12"
+      },
+      {
+        "company": "Amazon",
+        "title": "Illustrator",
+        "start_date": "2021-01-22",
+        "end_date": "2026-01-07"
+      },
+      {
+        "company": "Airbnb",
+        "title": "Dancer",
+        "start_date": "2017-07-28",
+        "end_date": "2025-09-02"
+      }
+    ],
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Hill-Evans University",
+        "end_year": "2012"
+      }
+    ]
+  }
+]

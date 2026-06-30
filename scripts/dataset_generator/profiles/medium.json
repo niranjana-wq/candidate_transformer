@@ -1,0 +1,34 @@
+{
+    "ats": {
+        "formatting": {"date_format": "YYYY-MM-DD", "phone_format": "E164"},
+        "missing_data": {"drop_portfolio": 0.05, "drop_github": 0.05},
+        "ocr_simulation": {"enabled": false, "rate": 0.0},
+        "semantic": {"enabled": false},
+        "conflicting": {"enabled": false}
+    },
+    "csv": {
+        "formatting": {"phone_format_mix": true, "combine_names": true},
+        "missing_data": {"drop_email": 0.10, "drop_id": 0.05},
+        "ocr_simulation": {"enabled": false},
+        "semantic": {"enabled": false},
+        "conflicting": {"enabled": false}
+    },
+    "pdf": {
+        "formatting": {"date_format": "Month YYYY"},
+        "missing_data": {"drop_location": 0.10, "drop_phone": 0.05},
+        "ocr_simulation": {"enabled": true, "rate": 0.10, "fields": ["email", "full_name"]},
+        "semantic": {"enabled": true, "rate": 0.05, "fields": ["skills"]},
+        "conflicting": {"enabled": false}
+    },
+    "docx": {
+        "formatting": {"date_format": "MM/YYYY"},
+        "missing_data": {"drop_phone": 0.05},
+        "ocr_simulation": {"enabled": false},
+        "semantic": {"enabled": true, "rate": 0.05, "fields": ["company_name"]},
+        "conflicting": {"enabled": true, "rate": 0.05}
+    },
+    "ambiguous_pairs": {
+        "enabled": true,
+        "rate": 0.05
+    }
+}

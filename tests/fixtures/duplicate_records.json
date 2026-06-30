@@ -1,0 +1,16 @@
+[
+  {
+    "name": "Alice Smith",
+    "email": "alice@smith.com",
+    "phone": "12345"
+  },
+  {
+    "name": "Alice M. Smith",
+    "email": "alice@smith.com",
+    "experience": [
+      {
+        "company": "Tech"
+      }
+    ]
+  }
+]

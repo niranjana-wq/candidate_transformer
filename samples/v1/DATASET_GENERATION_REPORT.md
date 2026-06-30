@@ -1,0 +1,237 @@
+# Dataset Generation Report (Version v1)
+
+## Configuration
+- Scale: 100
+- Difficulty: medium
+- Seed: 42
+
+## Files Generated
+- ATS Records: 100
+- CSV Records: 100
+- PDF Resumes: 0
+- DOCX Resumes: 0
+
+## Mutation Statistics
+
+### ATS
+- missing_data: 5 occurrences
+
+### CSV
+- formatting: 194 occurrences
+- missing_data: 16 occurrences
+
+### PDF
+- missing_data: 9 occurrences
+- ocr_simulation: 5 occurrences
+- semantic: 1 occurrences
+
+### DOCX
+- conflicting: 3 occurrences
+- missing_data: 5 occurrences
+- semantic: 4 occurrences
+
+## Missing Files
+- Justin_Miller_Resume_a911.pdf
+- Justin_Miller_CV_a911.docx
+- Thomas_Bryant_Resume_964d.pdf
+- Thomas_Bryant_CV_964d.docx
+- Charles_Lewis_Resume_a416.pdf
+- Charles_Lewis_CV_a416.docx
+- Diana_Nelson_Resume_b0ae.pdf
+- Diana_Nelson_CV_b0ae.docx
+- Brian_Smith_Resume_627b.pdf
+- Brian_Smith_CV_627b.docx
+- Victoria_Patterson_Resume_cb08.pdf
+- Victoria_Patterson_CV_cb08.docx
+- Charles_Adams_Resume_c16d.pdf
+- Charles_Adams_CV_c16d.docx
+- Joshua_Evans_Resume_f1f8.pdf
+- Joshua_Evans_CV_f1f8.docx
+- Lee_Charles_Resume_4fc7.pdf
+- Lee_Charles_CV_4fc7.docx
+- Katherine_Vaughn_Resume_50fd.pdf
+- Katherine_Vaughn_CV_50fd.docx
+- Casey_Welch_Resume_d7fa.pdf
+- Casey_Welch_CV_d7fa.docx
+- Stephanie_Murphy_Resume_7d82.pdf
+- Stephanie_Murphy_CV_7d82.docx
+- Oscar_Ferguson_Resume_7194.pdf
+- Oscar_Ferguson_CV_7194.docx
+- Kathryn_Burns_Resume_90e0.pdf
+- Kathryn_Burns_CV_90e0.docx
+- Joseph_Zuniga_Resume_e222.pdf
+- Joseph_Zuniga_CV_e222.docx
+- Christopher_Wright_Resume_8b10.pdf
+- Christopher_Wright_CV_8b10.docx
+- Chris_Mitchell_Resume_0f84.pdf
+- Chris_Mitchell_CV_0f84.docx
+- Michelle_Rasmussen_Resume_9b49.pdf
+- Michelle_Rasmussen_CV_9b49.docx
+- Matthew_Day_Resume_ff23.pdf
+- Matthew_Day_CV_ff23.docx
+- Mason_Jackson_Resume_d4f8.pdf
+- Mason_Jackson_CV_d4f8.docx
+- Deborah_Williams_Resume_f23e.pdf
+- Deborah_Williams_CV_f23e.docx
+- Jeffrey_Bright_Resume_142c.pdf
+- Jeffrey_Bright_CV_142c.docx
+- Lee_Charles_Resume_969b.pdf
+- Lee_Charles_CV_969b.docx
+- Joanne_Jennings_Resume_af2b.pdf
+- Joanne_Jennings_CV_af2b.docx
+- Christine_Johnson_Resume_4a8f.pdf
+- Christine_Johnson_CV_4a8f.docx
+- Dustin_Johnson_Resume_364d.pdf
+- Dustin_Johnson_CV_364d.docx
+- Christopher_Brandt_Resume_b28f.pdf
+- Christopher_Brandt_CV_b28f.docx
+- Michele_Duke_Resume_73b6.pdf
+- Michele_Duke_CV_73b6.docx
+- Melissa_Burke_Resume_5048.pdf
+- Melissa_Burke_CV_5048.docx
+- Makayla_Olson_Resume_ad64.pdf
+- Makayla_Olson_CV_ad64.docx
+- Jamie_Garcia_Resume_c122.pdf
+- Jamie_Garcia_CV_c122.docx
+- Daniel_Yang_Resume_0de0.pdf
+- Daniel_Yang_CV_0de0.docx
+- Suzanne_Wilson_Resume_be3e.pdf
+- Suzanne_Wilson_CV_be3e.docx
+- Isaac_Steele_Resume_c977.pdf
+- Isaac_Steele_CV_c977.docx
+- Nathan_Nichols_Resume_df54.pdf
+- Nathan_Nichols_CV_df54.docx
+- Susan_Williams_Resume_2a25.pdf
+- Susan_Williams_CV_2a25.docx
+- Jamie_Garcia_Resume_a9e7.pdf
+- Jamie_Garcia_CV_a9e7.docx
+- Michael_Powell_Resume_8a3c.pdf
+- Michael_Powell_CV_8a3c.docx
+- Douglas_Sandoval_Resume_c0e3.pdf
+- Douglas_Sandoval_CV_c0e3.docx
+- Jeff_Mosley_Resume_214f.pdf
+- Jeff_Mosley_CV_214f.docx
+- Meagan_James_Resume_ad23.pdf
+- Meagan_James_CV_ad23.docx
+- Marcus_Sanchez_Resume_acda.pdf
+- Marcus_Sanchez_CV_acda.docx
+- John_Davidson_Resume_5282.pdf
+- John_Davidson_CV_5282.docx
+- Vanessa_Sparks_Resume_4e20.pdf
+- Vanessa_Sparks_CV_4e20.docx
+- Curtis_James_Resume_b74d.pdf
+- Curtis_James_CV_b74d.docx
+- Patrick_Gilbert_Resume_2624.pdf
+- Patrick_Gilbert_CV_2624.docx
+- Joseph_Zuniga_Resume_1a2a.pdf
+- Joseph_Zuniga_CV_1a2a.docx
+- Christopher_Hayden_Resume_a319.pdf
+- Christopher_Hayden_CV_a319.docx
+- Kathleen_Romero_Resume_614f.pdf
+- Kathleen_Romero_CV_614f.docx
+- Kevin_Erickson_Resume_ff00.pdf
+- Kevin_Erickson_CV_ff00.docx
+- Angelica_Barnett_Resume_7631.pdf
+- Angelica_Barnett_CV_7631.docx
+- Michael_Pollard_Resume_79a2.pdf
+- Michael_Pollard_CV_79a2.docx
+- Christopher_Caldwell_Resume_d766.pdf
+- Christopher_Caldwell_CV_d766.docx
+- Lauren_Guerra_Resume_618a.pdf
+- Lauren_Guerra_CV_618a.docx
+- Kim_Shelton_Resume_1bac.pdf
+- Kim_Shelton_CV_1bac.docx
+- Nancy_Johnson_Resume_0d6a.pdf
+- Nancy_Johnson_CV_0d6a.docx
+- Michele_Jones_Resume_57c7.pdf
+- Michele_Jones_CV_57c7.docx
+- Bruce_Edwards_Resume_98ae.pdf
+- Bruce_Edwards_CV_98ae.docx
+- Rachel_Flynn_Resume_e0f3.pdf
+- Rachel_Flynn_CV_e0f3.docx
+- David_Perry_Resume_d664.pdf
+- David_Perry_CV_d664.docx
+- Henry_Schwartz_Resume_1b04.pdf
+- Henry_Schwartz_CV_1b04.docx
+- Patrick_Vega_Resume_9b30.pdf
+- Patrick_Vega_CV_9b30.docx
+- Brittany_Moss_Resume_a79f.pdf
+- Brittany_Moss_CV_a79f.docx
+- Patricia_Dalton_Resume_30be.pdf
+- Patricia_Dalton_CV_30be.docx
+- Michael_Rodriguez_Resume_b963.pdf
+- Michael_Rodriguez_CV_b963.docx
+- Regina_Hopkins_Resume_e45b.pdf
+- Regina_Hopkins_CV_e45b.docx
+- Ashlee_Jennings_Resume_5487.pdf
+- Ashlee_Jennings_CV_5487.docx
+- Paul_Caldwell_Resume_ceda.pdf
+- Paul_Caldwell_CV_ceda.docx
+- Michael_Powell_Resume_f100.pdf
+- Michael_Powell_CV_f100.docx
+- Diana_Rich_Resume_b6aa.pdf
+- Diana_Rich_CV_b6aa.docx
+- Elaine_Morales_Resume_8d72.pdf
+- Elaine_Morales_CV_8d72.docx
+- Danielle_Johnson_Resume_bdd6.pdf
+- Danielle_Johnson_CV_bdd6.docx
+- Sandra_Ramos_Resume_663f.pdf
+- Sandra_Ramos_CV_663f.docx
+- Crystal_Andrews_Resume_79e1.pdf
+- Crystal_Andrews_CV_79e1.docx
+- Lori_Campbell_Resume_bc2c.pdf
+- Lori_Campbell_CV_bc2c.docx
+- Rodney_Lewis_Resume_6123.pdf
+- Rodney_Lewis_CV_6123.docx
+- Ruth_Williams_Resume_6a34.pdf
+- Ruth_Williams_CV_6a34.docx
+- Nathaniel_Miles_Resume_6232.pdf
+- Nathaniel_Miles_CV_6232.docx
+- Chad_Reyes_Resume_5fd2.pdf
+- Chad_Reyes_CV_5fd2.docx
+- Alyssa_Hill_Resume_cdfc.pdf
+- Alyssa_Hill_CV_cdfc.docx
+- Michele_Thomas_Resume_f53d.pdf
+- Michele_Thomas_CV_f53d.docx
+- Pamela_Smith_Resume_279c.pdf
+- Pamela_Smith_CV_279c.docx
+- Jenna_Graves_Resume_26d7.pdf
+- Jenna_Graves_CV_26d7.docx
+- Brian_Romero_Resume_2702.pdf
+- Brian_Romero_CV_2702.docx
+- Thomas_Santana_Resume_839f.pdf
+- Thomas_Santana_CV_839f.docx
+- Kaitlyn_Brennan_Resume_7c16.pdf
+- Kaitlyn_Brennan_CV_7c16.docx
+- Christopher_Gay_Resume_e256.pdf
+- Christopher_Gay_CV_e256.docx
+- Diana_Rich_Resume_7422.pdf
+- Diana_Rich_CV_7422.docx
+- Whitney_Hill_Resume_88bd.pdf
+- Whitney_Hill_CV_88bd.docx
+- Christina_Ramirez_Resume_0769.pdf
+- Christina_Ramirez_CV_0769.docx
+- Erica_Fernandez_Resume_f93e.pdf
+- Erica_Fernandez_CV_f93e.docx
+- George_Fuller_Resume_2e76.pdf
+- George_Fuller_CV_2e76.docx
+- Susan_Johnson_Resume_5738.pdf
+- Susan_Johnson_CV_5738.docx
+- Brittany_Price_Resume_fb1e.pdf
+- Brittany_Price_CV_fb1e.docx
+- Robert_Ortiz_Resume_c693.pdf
+- Robert_Ortiz_CV_c693.docx
+- Ricky_Taylor_Resume_82dc.pdf
+- Ricky_Taylor_CV_82dc.docx
+- Grace_Farrell_Resume_d777.pdf
+- Grace_Farrell_CV_d777.docx
+- Anthony_Juarez_Resume_402a.pdf
+- Anthony_Juarez_CV_402a.docx
+- Joshua_Washington_Resume_9132.pdf
+- Joshua_Washington_CV_9132.docx
+- Rachel_Stein_Resume_c958.pdf
+- Rachel_Stein_CV_c958.docx
+
+## Readiness Assessment
+**Verdict: FAILED**
+Some files failed to generate. Check logs.

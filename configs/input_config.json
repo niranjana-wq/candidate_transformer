@@ -1,0 +1,8 @@
+{
+    "csv": "samples/v1/inputs/recruiter_csv.csv",
+    "json": "samples/v1/inputs/ATS_info.json",
+    "pdf": "samples/v1/inputs/resumes/pdf",
+    "docx": "samples/v1/inputs/resumes/docx",
+    "output": "samples/outputs/result.json",
+    "audit_output": "samples/outputs/result_audit.json"
+}

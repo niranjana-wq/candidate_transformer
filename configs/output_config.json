@@ -1,0 +1,4 @@
+{
+    "output": "samples/outputs/result.json",
+    "audit_output": "samples/outputs/result_audit.json"
+}

@@ -1,0 +1,7276 @@
+[
+  {
+    "candidate_id": "MASTER-A911D192",
+    "personal": {
+      "first_name": "Justin",
+      "middle_name": "",
+      "last_name": "Miller",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "justin.miller@reid.com",
+      "alternate_emails": [],
+      "primary_phone": "001-322-299-5900",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Debrashire",
+      "country": "Israel"
+    },
+    "social": {
+      "github": "https://github.com/justinmiller",
+      "linkedin": "https://linkedin.com/in/justin-miller-561",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Davis, Davidson and Vargas University",
+        "end_year": "2016"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Comptroller",
+        "start_date": "2021-08-24",
+        "end_date": "2026-02-23"
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-964DB03F",
+    "personal": {
+      "first_name": "Thomas",
+      "middle_name": "",
+      "last_name": "Bryant",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "thomas.bryant@barry.com",
+      "alternate_emails": [],
+      "primary_phone": "987.694.7055x16940",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Lake Brett",
+      "country": "Lesotho"
+    },
+    "social": {
+      "github": "https://github.com/thomasbryant",
+      "linkedin": "https://linkedin.com/in/thomas-bryant-767",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Kirby, Wheeler and Romero University",
+        "end_year": "2018"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Designer, textile",
+        "start_date": "2023-03-07",
+        "end_date": "2026-02-24"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-A4161293",
+    "personal": {
+      "first_name": "Charles",
+      "middle_name": "",
+      "last_name": "Lewis",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "charles.lewis@anderson-bailey.com",
+      "alternate_emails": [],
+      "primary_phone": "001-449-680-8412x411",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Cassandramouth",
+      "country": "Costa Rica"
+    },
+    "social": {
+      "github": "https://github.com/charleslewis",
+      "linkedin": "https://linkedin.com/in/charles-lewis-208",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Kim PLC University",
+        "end_year": "2018"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Apple",
+        "title": "Financial risk analyst",
+        "start_date": "2022-10-13",
+        "end_date": "2025-10-18"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-B0AE8F08",
+    "personal": {
+      "first_name": "Diana",
+      "middle_name": "",
+      "last_name": "Nelson",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "diana.nelson@kim-ross.info",
+      "alternate_emails": [],
+      "primary_phone": "(492)984-5115x44796",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Sergiostad",
+      "country": "Nicaragua"
+    },
+    "social": {
+      "github": "https://github.com/diananelson",
+      "linkedin": "https://linkedin.com/in/diana-nelson-283",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Acosta Inc University",
+        "end_year": "2015"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Nature conservation officer",
+        "start_date": "2022-04-06",
+        "end_date": "2025-09-10"
+      },
+      {
+        "company": "Meta",
+        "title": "Research scientist (maths)",
+        "start_date": "2024-12-16",
+        "end_date": "2025-11-19"
+      },
+      {
+        "company": "Apple",
+        "title": "Scientist, physiological",
+        "start_date": "2021-01-12",
+        "end_date": "2026-05-07"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-627B41A1",
+    "personal": {
+      "first_name": "Brian",
+      "middle_name": "",
+      "last_name": "Smith",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "brian.smith@miller.com",
+      "alternate_emails": [],
+      "primary_phone": "689-402-5039x261",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "New Mary",
+      "country": "Iceland"
+    },
+    "social": {
+      "github": "https://github.com/briansmith",
+      "linkedin": "https://linkedin.com/in/brian-smith-985",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Glass Ltd University",
+        "end_year": "2019"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Systems developer",
+        "start_date": "2018-02-12",
+        "end_date": "2026-06-12"
+      },
+      {
+        "company": "Uber",
+        "title": "Secretary, company",
+        "start_date": "2017-03-21",
+        "end_date": "2025-09-27"
+      },
+      {
+        "company": "Apple",
+        "title": "Engineer, mining",
+        "start_date": "2024-08-01",
+        "end_date": "2025-10-13"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-CB08587D",
+    "personal": {
+      "first_name": "Victoria",
+      "middle_name": "",
+      "last_name": "Patterson",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "victoria.patterson@blankenship.com",
+      "alternate_emails": [],
+      "primary_phone": "+1-211-703-7129x3870",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Port Robertberg",
+      "country": "Lesotho"
+    },
+    "social": {
+      "github": "https://github.com/victoriapatterson",
+      "linkedin": "https://linkedin.com/in/victoria-patterson-537",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Torres, Lyons and Young University",
+        "end_year": "2015"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Airbnb",
+        "title": "Chief Financial Officer",
+        "start_date": "2022-08-17",
+        "end_date": "2025-10-05"
+      },
+      {
+        "company": "Uber",
+        "title": "Charity fundraiser",
+        "start_date": "2022-10-27",
+        "end_date": "2026-03-15"
+      },
+      {
+        "company": "Uber",
+        "title": "Diagnostic radiographer",
+        "start_date": "2017-05-17",
+        "end_date": "2025-11-30"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-C16D83ED",
+    "personal": {
+      "first_name": "Charles",
+      "middle_name": "",
+      "last_name": "Adams",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "charles.adams@dawson-walters.biz",
+      "alternate_emails": [],
+      "primary_phone": "(778)888-6101x58199",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "West Robertland",
+      "country": "Saint Kitts and Nevis"
+    },
+    "social": {
+      "github": "https://github.com/charlesadams",
+      "linkedin": "https://linkedin.com/in/charles-adams-525",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Garcia-Miller University",
+        "end_year": "2021"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Investment analyst",
+        "start_date": "2022-08-19",
+        "end_date": "2025-08-10"
+      },
+      {
+        "company": "Amazon",
+        "title": "Chemist, analytical",
+        "start_date": "2016-08-01",
+        "end_date": "2025-10-27"
+      },
+      {
+        "company": "Apple",
+        "title": "Producer, television/film/video",
+        "start_date": "2022-08-14",
+        "end_date": "2026-04-21"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-F1F8343E",
+    "personal": {
+      "first_name": "Joshua",
+      "middle_name": "",
+      "last_name": "Evans",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "joshua.evans@wise-bush.info",
+      "alternate_emails": [],
+      "primary_phone": "(540)541-5747",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Sarahview",
+      "country": "Burundi"
+    },
+    "social": {
+      "github": "https://github.com/joshuaevans",
+      "linkedin": "https://linkedin.com/in/joshua-evans-990",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Cardenas-Blevins University",
+        "end_year": "2020"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Investment analyst",
+        "start_date": "2024-08-28",
+        "end_date": "2025-11-12"
+      },
+      {
+        "company": "Uber",
+        "title": "Surveyor, minerals",
+        "start_date": "2021-02-23",
+        "end_date": "2025-10-19"
+      },
+      {
+        "company": "Stripe",
+        "title": "Community development worker",
+        "start_date": "2022-12-15",
+        "end_date": "2026-06-12"
+      }
+    ],
+    "skills": [
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-4FC77768",
+    "personal": {
+      "first_name": "Lee",
+      "middle_name": "",
+      "last_name": "Charles",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "lee.charles@otherdomain.com",
+      "alternate_emails": [],
+      "primary_phone": "001-710-256-4814x9177",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Villarrealburgh",
+      "country": "Heard Island and McDonald Islands"
+    },
+    "social": {
+      "github": "https://github.com/lee_charles_alt",
+      "linkedin": "https://linkedin.com/in/lee-charles-alt",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Lee Ltd University",
+        "end_year": "2024"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Meta",
+        "title": "Operational researcher",
+        "start_date": "2021-07-11",
+        "end_date": "2026-01-31"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-50FD9D3F",
+    "personal": {
+      "first_name": "Katherine",
+      "middle_name": "",
+      "last_name": "Vaughn",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "katherine.vaughn@joseph.com",
+      "alternate_emails": [],
+      "primary_phone": "643-313-5182x3374",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "West Jeremy",
+      "country": "Christmas Island"
+    },
+    "social": {
+      "github": "https://github.com/katherinevaughn",
+      "linkedin": "https://linkedin.com/in/katherine-vaughn-569",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Pierce, Bell and Chavez University",
+        "end_year": "2010"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Environmental consultant",
+        "start_date": "2023-05-17",
+        "end_date": "2026-03-25"
+      },
+      {
+        "company": "Apple",
+        "title": "Financial planner",
+        "start_date": "2021-09-14",
+        "end_date": "2026-03-14"
+      },
+      {
+        "company": "Airbnb",
+        "title": "Television camera operator",
+        "start_date": "2022-10-10",
+        "end_date": "2025-12-30"
+      },
+      {
+        "company": "Netflix",
+        "title": "Surgeon",
+        "start_date": "2022-05-06",
+        "end_date": "2025-12-12"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-D7FA2D8D",
+    "personal": {
+      "first_name": "Casey",
+      "middle_name": "",
+      "last_name": "Welch",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "casey.welch@bright-francis.biz",
+      "alternate_emails": [],
+      "primary_phone": "8504455623",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "East Christian",
+      "country": "Trinidad and Tobago"
+    },
+    "social": {
+      "github": "https://github.com/caseywelch",
+      "linkedin": "https://linkedin.com/in/casey-welch-846",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Benson Inc University",
+        "end_year": "2015"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Chief Technology Officer",
+        "start_date": "2018-03-16",
+        "end_date": "2025-12-19"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-7D824264",
+    "personal": {
+      "first_name": "Stephanie",
+      "middle_name": "",
+      "last_name": "Murphy",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "stephanie.murphy@melton.com",
+      "alternate_emails": [],
+      "primary_phone": "+1-992-297-5001",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Port Ericmouth",
+      "country": "Afghanistan"
+    },
+    "social": {
+      "github": "https://github.com/stephaniemurphy",
+      "linkedin": "https://linkedin.com/in/stephanie-murphy-617",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Morris-Campbell University",
+        "end_year": "2017"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Uber",
+        "title": "Proofreader",
+        "start_date": "2022-08-03",
+        "end_date": "2026-05-26"
+      },
+      {
+        "company": "Block",
+        "title": "Biomedical scientist",
+        "start_date": "2023-04-06",
+        "end_date": "2025-09-22"
+      },
+      {
+        "company": "Stripe",
+        "title": "Pilot, airline",
+        "start_date": "2020-02-06",
+        "end_date": "2026-01-08"
+      }
+    ],
+    "skills": [
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-7194EAE2",
+    "personal": {
+      "first_name": "Oscar",
+      "middle_name": "",
+      "last_name": "Ferguson",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "oscar.ferguson@parker-ward.info",
+      "alternate_emails": [],
+      "primary_phone": "001-820-548-9964x2353",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Piercemouth",
+      "country": "Equatorial Guinea"
+    },
+    "social": {
+      "github": "https://github.com/oscarferguson",
+      "linkedin": "https://linkedin.com/in/oscar-ferguson-249",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Williams-Shields University",
+        "end_year": "2016"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Psychologist, prison and probation services",
+        "start_date": "2018-03-04",
+        "end_date": "2026-05-07"
+      },
+      {
+        "company": "Apple",
+        "title": "Psychotherapist, child",
+        "start_date": "2021-12-10",
+        "end_date": "2026-06-20"
+      },
+      {
+        "company": "Netflix",
+        "title": "Engineer, electronics",
+        "start_date": "2022-10-20",
+        "end_date": "2025-10-29"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-90E0A95B",
+    "personal": {
+      "first_name": "Kathryn",
+      "middle_name": "",
+      "last_name": "Burns",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "kathryn.burns@may.com",
+      "alternate_emails": [],
+      "primary_phone": "+1-931-220-3875x0997",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "New Andreatown",
+      "country": "Andorra"
+    },
+    "social": {
+      "github": "https://github.com/kathrynburns",
+      "linkedin": "https://linkedin.com/in/kathryn-burns-361",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Williams, Smith and Taylor University",
+        "end_year": "2017"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Doctor, general practice",
+        "start_date": "2018-11-16",
+        "end_date": "2026-04-05"
+      },
+      {
+        "company": "Microsoft",
+        "title": "Sports coach",
+        "start_date": "2024-10-20",
+        "end_date": "2025-09-09"
+      },
+      {
+        "company": "Meta",
+        "title": "Special effects artist",
+        "start_date": "2017-06-29",
+        "end_date": "2026-01-19"
+      },
+      {
+        "company": "Airbnb",
+        "title": "Analytical chemist",
+        "start_date": "2017-10-04",
+        "end_date": "2026-05-13"
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-E222B6A6",
+    "personal": {
+      "first_name": "Joseph",
+      "middle_name": "",
+      "last_name": "Zuniga",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "joseph.zuniga@otherdomain.com",
+      "alternate_emails": [],
+      "primary_phone": "3867353654",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "New Emilyton",
+      "country": "Christmas Island"
+    },
+    "social": {
+      "github": "https://github.com/joseph_zuniga_alt",
+      "linkedin": "https://linkedin.com/in/joseph-zuniga-alt",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Trujillo Group University",
+        "end_year": "2018"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Development worker, community",
+        "start_date": "2024-05-11",
+        "end_date": "2025-11-24"
+      },
+      {
+        "company": "Apple",
+        "title": "Geophysicist/field seismologist",
+        "start_date": "2020-03-25",
+        "end_date": "2026-03-22"
+      },
+      {
+        "company": "Google",
+        "title": "Journalist, broadcasting",
+        "start_date": "2017-06-12",
+        "end_date": "2025-09-26"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-8B10550C",
+    "personal": {
+      "first_name": "Christopher",
+      "middle_name": "",
+      "last_name": "Wright",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "christopher.wright@duran.com",
+      "alternate_emails": [],
+      "primary_phone": "001-933-641-2328x12067",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "East Keithport",
+      "country": "Reunion"
+    },
+    "social": {
+      "github": "https://github.com/christopherwright",
+      "linkedin": "https://linkedin.com/in/christopher-wright-388",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Oliver, Lynch and Singh University",
+        "end_year": "2014"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Scientist, research (medical)",
+        "start_date": "2022-12-19",
+        "end_date": "2025-12-21"
+      },
+      {
+        "company": "Amazon",
+        "title": "Probation officer",
+        "start_date": "2021-07-21",
+        "end_date": "2026-05-30"
+      },
+      {
+        "company": "Stripe",
+        "title": "Theatre stage manager",
+        "start_date": "2023-10-16",
+        "end_date": "2025-10-26"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-0F844FEF",
+    "personal": {
+      "first_name": "Chris",
+      "middle_name": "",
+      "last_name": "Mitchell",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "chris.mitchell@rogers-orozco.com",
+      "alternate_emails": [],
+      "primary_phone": "(569)909-6705x46688",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "West Ryan",
+      "country": "Antarctica (the territory South of 60 deg S)"
+    },
+    "social": {
+      "github": "https://github.com/chrismitchell",
+      "linkedin": "https://linkedin.com/in/chris-mitchell-995",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Perry-Clark University",
+        "end_year": "2013"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Corporate investment banker",
+        "start_date": "2019-01-23",
+        "end_date": "2025-09-27"
+      },
+      {
+        "company": "Uber",
+        "title": "Music therapist",
+        "start_date": "2019-02-04",
+        "end_date": "2026-03-31"
+      },
+      {
+        "company": "Microsoft",
+        "title": "Engineer, site",
+        "start_date": "2017-08-03",
+        "end_date": "2025-12-08"
+      },
+      {
+        "company": "Apple",
+        "title": "Orthoptist",
+        "start_date": "2022-02-15",
+        "end_date": "2026-01-26"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-9B49BD26",
+    "personal": {
+      "first_name": "Michelle",
+      "middle_name": "",
+      "last_name": "Rasmussen",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "michelle.rasmussen@bell-hicks.net",
+      "alternate_emails": [],
+      "primary_phone": "+1-581-769-3406x088",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Jonesmouth",
+      "country": "Nigeria"
+    },
+    "social": {
+      "github": "https://github.com/michellerasmussen",
+      "linkedin": "https://linkedin.com/in/michelle-rasmussen-330",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Hamilton, Chandler and Edwards University",
+        "end_year": "2013"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Airbnb",
+        "title": "Learning disability nurse",
+        "start_date": "2016-12-18",
+        "end_date": "2025-08-13"
+      },
+      {
+        "company": "Stripe",
+        "title": "Games developer",
+        "start_date": "2019-07-14",
+        "end_date": "2026-02-10"
+      },
+      {
+        "company": "Airbnb",
+        "title": "Geochemist",
+        "start_date": "2017-02-22",
+        "end_date": "2025-08-11"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-FF233D5F",
+    "personal": {
+      "first_name": "Matthew",
+      "middle_name": "",
+      "last_name": "Day",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "matthew.day@marshall.com",
+      "alternate_emails": [],
+      "primary_phone": "5546868740",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Michelleton",
+      "country": "Tonga"
+    },
+    "social": {
+      "github": "https://github.com/matthewday",
+      "linkedin": "https://linkedin.com/in/matthew-day-860",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Harris-Moody University",
+        "end_year": "2011"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Meta",
+        "title": "Biomedical scientist",
+        "start_date": "2024-04-12",
+        "end_date": "2025-07-14"
+      }
+    ],
+    "skills": [
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-D4F8FD72",
+    "personal": {
+      "first_name": "Mason",
+      "middle_name": "",
+      "last_name": "Jackson",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "mason.jackson@schultz.com",
+      "alternate_emails": [],
+      "primary_phone": "001-312-977-9979x95527",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Welchview",
+      "country": "Nauru"
+    },
+    "social": {
+      "github": "https://github.com/masonjackson",
+      "linkedin": "https://linkedin.com/in/mason-jackson-304",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Thompson and Sons University",
+        "end_year": "2013"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Make",
+        "start_date": "2019-01-03",
+        "end_date": "2025-09-29"
+      },
+      {
+        "company": "Google",
+        "title": "Civil engineer, contracting",
+        "start_date": "2018-12-26",
+        "end_date": "2025-10-07"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-F23E323D",
+    "personal": {
+      "first_name": "Deborah",
+      "middle_name": "",
+      "last_name": "Williams",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "deborah.williams@byrd.biz",
+      "alternate_emails": [],
+      "primary_phone": "+1-499-737-5679",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "South Danchester",
+      "country": "Uruguay"
+    },
+    "social": {
+      "github": null,
+      "linkedin": "https://linkedin.com/in/deborah-williams-564",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Walker-Burgess University",
+        "end_year": "2016"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Meta",
+        "title": "Claims inspector/assessor",
+        "start_date": "2016-09-03",
+        "end_date": "2025-08-07"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-142C3FE8",
+    "personal": {
+      "first_name": "Jeffrey",
+      "middle_name": "",
+      "last_name": "Bright",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "jeffrey.bright@snyder.com",
+      "alternate_emails": [],
+      "primary_phone": "484.980.1845x146",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Lake Nancyview",
+      "country": "Macao"
+    },
+    "social": {
+      "github": "https://github.com/jeffreybright",
+      "linkedin": "https://linkedin.com/in/jeffrey-bright-975",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Cruz PLC University",
+        "end_year": "2011"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Meta",
+        "title": "Designer, jewellery",
+        "start_date": "2023-09-05",
+        "end_date": "2026-02-16"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-969B6662",
+    "personal": {
+      "first_name": "Lee",
+      "middle_name": "",
+      "last_name": "Charles",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "lee.charles@mccullough.com",
+      "alternate_emails": [],
+      "primary_phone": "(729)994-6804x4369",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Ramosborough",
+      "country": "Malawi"
+    },
+    "social": {
+      "github": "https://github.com/leecharles",
+      "linkedin": "https://linkedin.com/in/lee-charles-132",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Lee Ltd University",
+        "end_year": "2024"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Meta",
+        "title": "Operational researcher",
+        "start_date": "2021-07-11",
+        "end_date": "2026-01-31"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-AF2B99B4",
+    "personal": {
+      "first_name": "Joanne",
+      "middle_name": "",
+      "last_name": "Jennings",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "joanne.jennings@davis.com",
+      "alternate_emails": [],
+      "primary_phone": "232.721.4188",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "New Nicholas",
+      "country": "Central African Republic"
+    },
+    "social": {
+      "github": "https://github.com/joannejennings",
+      "linkedin": "https://linkedin.com/in/joanne-jennings-969",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Peterson Group University",
+        "end_year": "2010"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Stripe",
+        "title": "Medical laboratory scientific officer",
+        "start_date": "2021-10-01",
+        "end_date": "2025-09-08"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-4A8FF810",
+    "personal": {
+      "first_name": "Christine",
+      "middle_name": "",
+      "last_name": "Johnson",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "christine.johnson@gardner.com",
+      "alternate_emails": [],
+      "primary_phone": "(962)558-8153x714",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "North Brent",
+      "country": "Yemen"
+    },
+    "social": {
+      "github": null,
+      "linkedin": "https://linkedin.com/in/christine-johnson-217",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Thomas, Hensley and Flores University",
+        "end_year": "2016"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Optician, dispensing",
+        "start_date": "2021-07-22",
+        "end_date": "2025-12-23"
+      },
+      {
+        "company": "Meta",
+        "title": "Buyer, industrial",
+        "start_date": "2017-07-07",
+        "end_date": "2025-08-30"
+      },
+      {
+        "company": "Apple",
+        "title": "Printmaker",
+        "start_date": "2023-07-26",
+        "end_date": "2026-01-04"
+      },
+      {
+        "company": "Block",
+        "title": "Psychologist, forensic",
+        "start_date": "2019-12-19",
+        "end_date": "2025-11-09"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-364D7C87",
+    "personal": {
+      "first_name": "Dustin",
+      "middle_name": "",
+      "last_name": "Johnson",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "dustin.johnson@horton-taylor.info",
+      "alternate_emails": [],
+      "primary_phone": "001-998-361-4341x0369",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Port Rebeccaside",
+      "country": "Andorra"
+    },
+    "social": {
+      "github": "https://github.com/dustinjohnson",
+      "linkedin": "https://linkedin.com/in/dustin-johnson-668",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Conley PLC University",
+        "end_year": "2017"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Production assistant, radio",
+        "start_date": "2016-08-01",
+        "end_date": "2026-06-16"
+      },
+      {
+        "company": "Meta",
+        "title": "Cartographer",
+        "start_date": "2016-10-26",
+        "end_date": "2025-10-07"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-B28F41DE",
+    "personal": {
+      "first_name": "Christopher",
+      "middle_name": "",
+      "last_name": "Brandt",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "christopher.brandt@anderson.net",
+      "alternate_emails": [],
+      "primary_phone": "378-268-6337x5243",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Mendeztown",
+      "country": "Dominican Republic"
+    },
+    "social": {
+      "github": "https://github.com/christopherbrandt",
+      "linkedin": "https://linkedin.com/in/christopher-brandt-930",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Irwin, Davenport and Avila University",
+        "end_year": "2021"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Netflix",
+        "title": "Nurse, learning disability",
+        "start_date": "2025-06-29",
+        "end_date": "2025-08-18"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-73B6A09B",
+    "personal": {
+      "first_name": "Michele",
+      "middle_name": "",
+      "last_name": "Duke",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "michele.duke@ochoa.biz",
+      "alternate_emails": [],
+      "primary_phone": "001-353-867-2946x671",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Heatherstad",
+      "country": "Korea"
+    },
+    "social": {
+      "github": "https://github.com/micheleduke",
+      "linkedin": "https://linkedin.com/in/michele-duke-511",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Martinez, Cline and Wright University",
+        "end_year": "2023"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Barrister's clerk",
+        "start_date": "2021-03-19",
+        "end_date": "2026-06-01"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-504867BA",
+    "personal": {
+      "first_name": "Melissa",
+      "middle_name": "",
+      "last_name": "Burke",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "melissa.burke@hogan.com",
+      "alternate_emails": [],
+      "primary_phone": "965-972-6284",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Petersenshire",
+      "country": "Ethiopia"
+    },
+    "social": {
+      "github": "https://github.com/melissaburke",
+      "linkedin": "https://linkedin.com/in/melissa-burke-290",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Peterson, Atkinson and Short University",
+        "end_year": "2023"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Loss adjuster, chartered",
+        "start_date": "2023-10-13",
+        "end_date": "2026-03-13"
+      },
+      {
+        "company": "Stripe",
+        "title": "Metallurgist",
+        "start_date": "2017-09-01",
+        "end_date": "2026-01-12"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-AD64B56C",
+    "personal": {
+      "first_name": "Makayla",
+      "middle_name": "",
+      "last_name": "Olson",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "makayla.olson@francis-morgan.com",
+      "alternate_emails": [],
+      "primary_phone": "754.596.5137x098",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Lake Madisonport",
+      "country": "Pakistan"
+    },
+    "social": {
+      "github": "https://github.com/makaylaolson",
+      "linkedin": "https://linkedin.com/in/makayla-olson-552",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Smith-Herrera University",
+        "end_year": "2017"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Meta",
+        "title": "Psychotherapist",
+        "start_date": "2017-10-10",
+        "end_date": "2025-08-23"
+      },
+      {
+        "company": "Uber",
+        "title": "Equities trader",
+        "start_date": "2023-04-04",
+        "end_date": "2026-05-24"
+      },
+      {
+        "company": "Block",
+        "title": "Surveyor, hydrographic",
+        "start_date": "2022-09-19",
+        "end_date": "2025-08-04"
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-C122B5B3",
+    "personal": {
+      "first_name": "Jamie",
+      "middle_name": "",
+      "last_name": "Garcia",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "jamie.garcia@otherdomain.com",
+      "alternate_emails": [],
+      "primary_phone": "380.961.7445",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "West Jamesshire",
+      "country": "Slovenia"
+    },
+    "social": {
+      "github": "https://github.com/jamie_garcia_alt",
+      "linkedin": "https://linkedin.com/in/jamie-garcia-alt",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Young-Robinson University",
+        "end_year": "2010"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Stripe",
+        "title": "Financial risk analyst",
+        "start_date": "2017-03-31",
+        "end_date": "2025-12-03"
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-0DE051A6",
+    "personal": {
+      "first_name": "Daniel",
+      "middle_name": "",
+      "last_name": "Yang",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "daniel.yang@sanchez.net",
+      "alternate_emails": [],
+      "primary_phone": "434.254.0193x8026",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Frenchburgh",
+      "country": "Vietnam"
+    },
+    "social": {
+      "github": "https://github.com/danielyang",
+      "linkedin": "https://linkedin.com/in/daniel-yang-394",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Russell Group University",
+        "end_year": "2024"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Equities trader",
+        "start_date": "2020-06-15",
+        "end_date": "2025-07-20"
+      },
+      {
+        "company": "Meta",
+        "title": "Chiropodist",
+        "start_date": "2023-07-12",
+        "end_date": "2025-11-05"
+      },
+      {
+        "company": "Apple",
+        "title": "Public house manager",
+        "start_date": "2018-03-16",
+        "end_date": "2026-03-21"
+      },
+      {
+        "company": "Stripe",
+        "title": "Copywriter, advertising",
+        "start_date": "2016-08-01",
+        "end_date": "2026-01-29"
+      }
+    ],
+    "skills": [
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-BE3E6E57",
+    "personal": {
+      "first_name": "Suzanne",
+      "middle_name": "",
+      "last_name": "Wilson",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "suzanne.wilson@thomas.com",
+      "alternate_emails": [],
+      "primary_phone": "+1-423-882-8258x67362",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Johnsonborough",
+      "country": "Korea"
+    },
+    "social": {
+      "github": "https://github.com/suzannewilson",
+      "linkedin": "https://linkedin.com/in/suzanne-wilson-341",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Wilson, Sweeney and Wong University",
+        "end_year": "2017"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Apple",
+        "title": "Scientist, research (life sciences)",
+        "start_date": "2024-09-16",
+        "end_date": "2025-11-12"
+      },
+      {
+        "company": "Google",
+        "title": "Publishing copy",
+        "start_date": "2018-02-26",
+        "end_date": "2025-12-17"
+      },
+      {
+        "company": "Netflix",
+        "title": "Production manager",
+        "start_date": "2021-12-02",
+        "end_date": "2025-07-26"
+      },
+      {
+        "company": "Meta",
+        "title": "Hydrologist",
+        "start_date": "2017-04-03",
+        "end_date": "2026-05-10"
+      }
+    ],
+    "skills": [
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-C9776598",
+    "personal": {
+      "first_name": "Isaac",
+      "middle_name": "",
+      "last_name": "Steele",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "isaac.steele@price.biz",
+      "alternate_emails": [],
+      "primary_phone": "+1-905-807-2368x876",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Burnsland",
+      "country": "Mongolia"
+    },
+    "social": {
+      "github": "https://github.com/isaacsteele",
+      "linkedin": "https://linkedin.com/in/isaac-steele-248",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Lopez Group University",
+        "end_year": "2023"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Electronics engineer",
+        "start_date": "2024-10-10",
+        "end_date": "2026-03-03"
+      },
+      {
+        "company": "Block",
+        "title": "Soil scientist",
+        "start_date": "2019-06-11",
+        "end_date": "2026-01-31"
+      },
+      {
+        "company": "Google",
+        "title": "Dietitian",
+        "start_date": "2024-10-28",
+        "end_date": "2025-10-20"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-DF547E50",
+    "personal": {
+      "first_name": "Nathan",
+      "middle_name": "",
+      "last_name": "Nichols",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "nathan.nichols@williams.org",
+      "alternate_emails": [],
+      "primary_phone": "001-583-873-5403x3173",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "New Marc",
+      "country": "Finland"
+    },
+    "social": {
+      "github": "https://github.com/nathannichols",
+      "linkedin": "https://linkedin.com/in/nathan-nichols-748",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Lopez PLC University",
+        "end_year": "2022"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Uber",
+        "title": "Toxicologist",
+        "start_date": "2017-03-02",
+        "end_date": "2026-06-04"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-2A25A888",
+    "personal": {
+      "first_name": "Susan",
+      "middle_name": "",
+      "last_name": "Williams",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "susan.williams@herring.com",
+      "alternate_emails": [],
+      "primary_phone": "(541)390-4966",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "North Heidi",
+      "country": "Gabon"
+    },
+    "social": {
+      "github": "https://github.com/susanwilliams",
+      "linkedin": "https://linkedin.com/in/susan-williams-853",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Lawson, Adkins and Wilson University",
+        "end_year": "2019"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Wellsite geologist",
+        "start_date": "2019-02-01",
+        "end_date": "2025-09-30"
+      },
+      {
+        "company": "Meta",
+        "title": "Computer games developer",
+        "start_date": "2024-07-20",
+        "end_date": "2026-03-16"
+      },
+      {
+        "company": "Apple",
+        "title": "Colour technologist",
+        "start_date": "2020-03-15",
+        "end_date": "2025-12-27"
+      },
+      {
+        "company": "Meta",
+        "title": "Furniture conservator/restorer",
+        "start_date": "2022-10-09",
+        "end_date": "2025-09-03"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-A9E782D4",
+    "personal": {
+      "first_name": "Jamie",
+      "middle_name": "",
+      "last_name": "Garcia",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "jamie.garcia@griffin.com",
+      "alternate_emails": [],
+      "primary_phone": "001-502-884-3959x95342",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Joshuaside",
+      "country": "Yemen"
+    },
+    "social": {
+      "github": "https://github.com/jamiegarcia",
+      "linkedin": "https://linkedin.com/in/jamie-garcia-839",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Young-Robinson University",
+        "end_year": "2010"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Stripe",
+        "title": "Financial risk analyst",
+        "start_date": "2017-03-31",
+        "end_date": "2025-12-03"
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-8A3C3B5E",
+    "personal": {
+      "first_name": "Michael",
+      "middle_name": "",
+      "last_name": "Powell",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "michael.powell@morales.net",
+      "alternate_emails": [],
+      "primary_phone": "521-865-5852",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "North Benjaminmouth",
+      "country": "Spain"
+    },
+    "social": {
+      "github": "https://github.com/michaelpowell",
+      "linkedin": "https://linkedin.com/in/michael-powell-790",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Ramirez, Hays and Becker University",
+        "end_year": "2013"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Engineer, broadcasting (operations)",
+        "start_date": "2022-08-30",
+        "end_date": "2026-01-30"
+      },
+      {
+        "company": "Apple",
+        "title": "Homeopath",
+        "start_date": "2017-09-29",
+        "end_date": "2025-11-27"
+      },
+      {
+        "company": "Google",
+        "title": "Retail merchandiser",
+        "start_date": "2024-02-27",
+        "end_date": "2026-04-22"
+      }
+    ],
+    "skills": [
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-C0E3BEFD",
+    "personal": {
+      "first_name": "Douglas",
+      "middle_name": "",
+      "last_name": "Sandoval",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "douglas.sandoval@thomas.com",
+      "alternate_emails": [],
+      "primary_phone": "9229901476",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Nelsonhaven",
+      "country": "Brazil"
+    },
+    "social": {
+      "github": "https://github.com/douglassandoval",
+      "linkedin": "https://linkedin.com/in/douglas-sandoval-784",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Nguyen, Pugh and Carlson University",
+        "end_year": "2015"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Uber",
+        "title": "Chemist, analytical",
+        "start_date": "2020-02-26",
+        "end_date": "2025-11-23"
+      },
+      {
+        "company": "Airbnb",
+        "title": "Personnel officer",
+        "start_date": "2024-03-18",
+        "end_date": "2025-11-09"
+      },
+      {
+        "company": "Google",
+        "title": "Designer, industrial/product",
+        "start_date": "2022-10-16",
+        "end_date": "2025-10-29"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-214F3F12",
+    "personal": {
+      "first_name": "Jeff",
+      "middle_name": "",
+      "last_name": "Mosley",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "jeff.mosley@goodwin.biz",
+      "alternate_emails": [],
+      "primary_phone": "989.883.6403",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "East Victorland",
+      "country": "Marshall Islands"
+    },
+    "social": {
+      "github": null,
+      "linkedin": "https://linkedin.com/in/jeff-mosley-206",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Johnson, Boone and Liu University",
+        "end_year": "2015"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Netflix",
+        "title": "Make",
+        "start_date": "2023-10-20",
+        "end_date": "2025-10-30"
+      },
+      {
+        "company": "Uber",
+        "title": "Counselling psychologist",
+        "start_date": "2020-09-16",
+        "end_date": "2025-10-15"
+      },
+      {
+        "company": "Google",
+        "title": "Chartered accountant",
+        "start_date": "2020-09-19",
+        "end_date": "2026-01-30"
+      },
+      {
+        "company": "Apple",
+        "title": "Tourist information centre manager",
+        "start_date": "2021-05-05",
+        "end_date": "2026-04-28"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-AD238D36",
+    "personal": {
+      "first_name": "Meagan",
+      "middle_name": "",
+      "last_name": "James",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "meagan.james@alexander-jordan.org",
+      "alternate_emails": [],
+      "primary_phone": "493.256.4651x9398",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Hahnborough",
+      "country": "Kazakhstan"
+    },
+    "social": {
+      "github": "https://github.com/meaganjames",
+      "linkedin": "https://linkedin.com/in/meagan-james-866",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Carter-Neal University",
+        "end_year": "2020"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Stripe",
+        "title": "Copy",
+        "start_date": "2021-08-09",
+        "end_date": "2025-11-01"
+      },
+      {
+        "company": "Amazon",
+        "title": "Toxicologist",
+        "start_date": "2019-11-30",
+        "end_date": "2026-01-02"
+      },
+      {
+        "company": "Airbnb",
+        "title": "Interior and spatial designer",
+        "start_date": "2019-07-08",
+        "end_date": "2025-12-01"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-ACDABACC",
+    "personal": {
+      "first_name": "Marcus",
+      "middle_name": "",
+      "last_name": "Sanchez",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "marcus.sanchez@ramirez.com",
+      "alternate_emails": [],
+      "primary_phone": "(273)554-5494",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "East Jenniferfort",
+      "country": "Moldova"
+    },
+    "social": {
+      "github": "https://github.com/marcussanchez",
+      "linkedin": "https://linkedin.com/in/marcus-sanchez-773",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Snyder LLC University",
+        "end_year": "2016"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Psychologist, forensic",
+        "start_date": "2022-12-10",
+        "end_date": "2025-11-07"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-52828D80",
+    "personal": {
+      "first_name": "John",
+      "middle_name": "",
+      "last_name": "Davidson",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "john.davidson@spencer-garcia.net",
+      "alternate_emails": [],
+      "primary_phone": "7605685361",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "West Sarahmouth",
+      "country": "Somalia"
+    },
+    "social": {
+      "github": "https://github.com/johndavidson",
+      "linkedin": "https://linkedin.com/in/john-davidson-971",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Velasquez LLC University",
+        "end_year": "2017"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Company secretary",
+        "start_date": "2021-05-06",
+        "end_date": "2025-08-01"
+      },
+      {
+        "company": "Block",
+        "title": "Designer, multimedia",
+        "start_date": "2021-02-19",
+        "end_date": "2025-12-21"
+      },
+      {
+        "company": "Uber",
+        "title": "Scientific laboratory technician",
+        "start_date": "2019-01-01",
+        "end_date": "2026-05-18"
+      },
+      {
+        "company": "Netflix",
+        "title": "Press sub",
+        "start_date": "2018-01-20",
+        "end_date": "2026-06-18"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-4E20FD1A",
+    "personal": {
+      "first_name": "Vanessa",
+      "middle_name": "",
+      "last_name": "Sparks",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "vanessa.sparks@pollard.net",
+      "alternate_emails": [],
+      "primary_phone": "874-759-6158",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Brennanton",
+      "country": "Niger"
+    },
+    "social": {
+      "github": "https://github.com/vanessasparks",
+      "linkedin": "https://linkedin.com/in/vanessa-sparks-621",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Thomas, Pitts and Booker University",
+        "end_year": "2020"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Apple",
+        "title": "Therapeutic radiographer",
+        "start_date": "2022-02-21",
+        "end_date": "2026-06-02"
+      },
+      {
+        "company": "Amazon",
+        "title": "Chiropodist",
+        "start_date": "2023-12-26",
+        "end_date": "2025-08-07"
+      },
+      {
+        "company": "Apple",
+        "title": "Secondary school teacher",
+        "start_date": "2024-04-08",
+        "end_date": "2025-07-05"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-B74D0FB1",
+    "personal": {
+      "first_name": "Curtis",
+      "middle_name": "",
+      "last_name": "James",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "curtis.james@abbott-munoz.com",
+      "alternate_emails": [],
+      "primary_phone": "(993)710-3413x164",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "West Michael",
+      "country": "Paraguay"
+    },
+    "social": {
+      "github": "https://github.com/curtisjames",
+      "linkedin": "https://linkedin.com/in/curtis-james-320",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Calderon-Montgomery University",
+        "end_year": "2012"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Uber",
+        "title": "Psychiatric nurse",
+        "start_date": "2018-08-14",
+        "end_date": "2026-06-23"
+      },
+      {
+        "company": "Netflix",
+        "title": "Multimedia specialist",
+        "start_date": "2017-11-01",
+        "end_date": "2026-01-30"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-26242B40",
+    "personal": {
+      "first_name": "Patrick",
+      "middle_name": "",
+      "last_name": "Gilbert",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "patrick.gilbert@estes.com",
+      "alternate_emails": [],
+      "primary_phone": "(687)233-9500x4797",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "South Dennisview",
+      "country": "Saint Lucia"
+    },
+    "social": {
+      "github": "https://github.com/patrickgilbert",
+      "linkedin": "https://linkedin.com/in/patrick-gilbert-512",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Jimenez-Davis University",
+        "end_year": "2021"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Airbnb",
+        "title": "Technical brewer",
+        "start_date": "2021-10-25",
+        "end_date": "2025-09-11"
+      },
+      {
+        "company": "Amazon",
+        "title": "Designer, jewellery",
+        "start_date": "2024-12-21",
+        "end_date": "2026-01-15"
+      },
+      {
+        "company": "Airbnb",
+        "title": "Psychologist, sport and exercise",
+        "start_date": "2024-12-24",
+        "end_date": "2026-06-06"
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-1A2A73ED",
+    "personal": {
+      "first_name": "Joseph",
+      "middle_name": "",
+      "last_name": "Zuniga",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "joseph.zuniga@jones.com",
+      "alternate_emails": [],
+      "primary_phone": "513-695-3767x242",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Hurstfurt",
+      "country": "Guyana"
+    },
+    "social": {
+      "github": "https://github.com/josephzuniga",
+      "linkedin": "https://linkedin.com/in/joseph-zuniga-227",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Trujillo Group University",
+        "end_year": "2018"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Development worker, community",
+        "start_date": "2024-05-11",
+        "end_date": "2025-11-24"
+      },
+      {
+        "company": "Apple",
+        "title": "Geophysicist/field seismologist",
+        "start_date": "2020-03-25",
+        "end_date": "2026-03-22"
+      },
+      {
+        "company": "Google",
+        "title": "Journalist, broadcasting",
+        "start_date": "2017-06-12",
+        "end_date": "2025-09-26"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-A319DCB4",
+    "personal": {
+      "first_name": "Christopher",
+      "middle_name": "",
+      "last_name": "Hayden",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "christopher.hayden@matthews.com",
+      "alternate_emails": [],
+      "primary_phone": "342.496.7175x655",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Robertfort",
+      "country": "France"
+    },
+    "social": {
+      "github": "https://github.com/christopherhayden",
+      "linkedin": "https://linkedin.com/in/christopher-hayden-136",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Ruiz Ltd University",
+        "end_year": "2018"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Technical author",
+        "start_date": "2017-03-06",
+        "end_date": "2026-04-22"
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-614FF3D7",
+    "personal": {
+      "first_name": "Kathleen",
+      "middle_name": "",
+      "last_name": "Romero",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "kathleen.romero@harrell.net",
+      "alternate_emails": [],
+      "primary_phone": "(443)903-9117x182",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "West Allison",
+      "country": "New Caledonia"
+    },
+    "social": {
+      "github": "https://github.com/kathleenromero",
+      "linkedin": "https://linkedin.com/in/kathleen-romero-846",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Burns-Rodriguez University",
+        "end_year": "2018"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Meta",
+        "title": "Transport planner",
+        "start_date": "2019-11-17",
+        "end_date": "2025-08-28"
+      },
+      {
+        "company": "Apple",
+        "title": "Midwife",
+        "start_date": "2019-03-30",
+        "end_date": "2026-01-25"
+      },
+      {
+        "company": "Amazon",
+        "title": "Set designer",
+        "start_date": "2016-07-03",
+        "end_date": "2026-02-17"
+      }
+    ],
+    "skills": [
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-FF002D4D",
+    "personal": {
+      "first_name": "Kevin",
+      "middle_name": "",
+      "last_name": "Erickson",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "kevin.erickson@hill.net",
+      "alternate_emails": [],
+      "primary_phone": "2474116719",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Port Anna",
+      "country": "Gabon"
+    },
+    "social": {
+      "github": "https://github.com/kevinerickson",
+      "linkedin": "https://linkedin.com/in/kevin-erickson-391",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Alexander-Lopez University",
+        "end_year": "2015"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Horticulturist, commercial",
+        "start_date": "2018-08-23",
+        "end_date": "2026-03-04"
+      },
+      {
+        "company": "Netflix",
+        "title": "Recycling officer",
+        "start_date": "2018-03-29",
+        "end_date": "2026-06-03"
+      },
+      {
+        "company": "Amazon",
+        "title": "Administrator, charities/voluntary organisations",
+        "start_date": "2021-05-01",
+        "end_date": "2025-12-29"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-7631DE9D",
+    "personal": {
+      "first_name": "Angelica",
+      "middle_name": "",
+      "last_name": "Barnett",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "angelica.barnett@jones-hensley.com",
+      "alternate_emails": [],
+      "primary_phone": "(841)860-5297x51613",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "South Monicamouth",
+      "country": "Cyprus"
+    },
+    "social": {
+      "github": "https://github.com/angelicabarnett",
+      "linkedin": "https://linkedin.com/in/angelica-barnett-488",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Berry-Mckinney University",
+        "end_year": "2022"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Airbnb",
+        "title": "Press photographer",
+        "start_date": "2016-10-24",
+        "end_date": "2025-12-25"
+      },
+      {
+        "company": "Netflix",
+        "title": "Careers adviser",
+        "start_date": "2021-10-27",
+        "end_date": "2026-02-08"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-79A28903",
+    "personal": {
+      "first_name": "Michael",
+      "middle_name": "",
+      "last_name": "Pollard",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "michael.pollard@stephens-levine.com",
+      "alternate_emails": [],
+      "primary_phone": "+1-590-505-3293x1839",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Kimtown",
+      "country": "Falkland Islands (Malvinas)"
+    },
+    "social": {
+      "github": "https://github.com/michaelpollard",
+      "linkedin": "https://linkedin.com/in/michael-pollard-535",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Davis-Lewis University",
+        "end_year": "2022"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Biochemist, clinical",
+        "start_date": "2023-04-08",
+        "end_date": "2025-10-15"
+      },
+      {
+        "company": "Google",
+        "title": "Energy manager",
+        "start_date": "2018-07-29",
+        "end_date": "2026-05-25"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-D7665CDA",
+    "personal": {
+      "first_name": "Christopher",
+      "middle_name": "",
+      "last_name": "Caldwell",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "christopher.caldwell@holden.com",
+      "alternate_emails": [],
+      "primary_phone": "442.968.4145x933",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "South Julie",
+      "country": "New Caledonia"
+    },
+    "social": {
+      "github": "https://github.com/christophercaldwell",
+      "linkedin": "https://linkedin.com/in/christopher-caldwell-349",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Ward, Young and Contreras University",
+        "end_year": "2017"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Apple",
+        "title": "Fish farm manager",
+        "start_date": "2016-08-11",
+        "end_date": "2025-10-09"
+      },
+      {
+        "company": "Stripe",
+        "title": "Music therapist",
+        "start_date": "2020-07-02",
+        "end_date": "2025-12-20"
+      },
+      {
+        "company": "Apple",
+        "title": "Geologist, engineering",
+        "start_date": "2022-02-07",
+        "end_date": "2025-10-25"
+      },
+      {
+        "company": "Uber",
+        "title": "Television floor manager",
+        "start_date": "2016-09-09",
+        "end_date": "2025-10-09"
+      }
+    ],
+    "skills": [
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-618AE305",
+    "personal": {
+      "first_name": "Lauren",
+      "middle_name": "",
+      "last_name": "Guerra",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "lauren.guerra@fuentes.info",
+      "alternate_emails": [],
+      "primary_phone": "+1-379-368-8680x589",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Lake Elizabeth",
+      "country": "Chad"
+    },
+    "social": {
+      "github": "https://github.com/laurenguerra",
+      "linkedin": "https://linkedin.com/in/lauren-guerra-518",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Mccormick-Jones University",
+        "end_year": "2020"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Corporate treasurer",
+        "start_date": "2021-08-24",
+        "end_date": "2025-10-01"
+      },
+      {
+        "company": "Airbnb",
+        "title": "Forensic psychologist",
+        "start_date": "2019-02-12",
+        "end_date": "2026-04-03"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-1BAC5C15",
+    "personal": {
+      "first_name": "Kim",
+      "middle_name": "",
+      "last_name": "Shelton",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "kim.shelton@mccormick.com",
+      "alternate_emails": [],
+      "primary_phone": "+1-892-751-9254x62914",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Lake Jacqueline",
+      "country": "Yemen"
+    },
+    "social": {
+      "github": "https://github.com/kimshelton",
+      "linkedin": "https://linkedin.com/in/kim-shelton-813",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Gregory, Mitchell and Cummings University",
+        "end_year": "2011"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Brewing technologist",
+        "start_date": "2022-02-07",
+        "end_date": "2025-08-05"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-0D6A05B3",
+    "personal": {
+      "first_name": "Nancy",
+      "middle_name": "",
+      "last_name": "Johnson",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "nancy.johnson@bailey-montoya.info",
+      "alternate_emails": [],
+      "primary_phone": "+1-462-792-3309x5849",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Keithview",
+      "country": "Zambia"
+    },
+    "social": {
+      "github": "https://github.com/nancyjohnson",
+      "linkedin": "https://linkedin.com/in/nancy-johnson-470",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Matthews, Bell and Page University",
+        "end_year": "2022"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Airbnb",
+        "title": "Commercial/residential surveyor",
+        "start_date": "2020-07-11",
+        "end_date": "2025-09-19"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-57C700AA",
+    "personal": {
+      "first_name": "Michele",
+      "middle_name": "",
+      "last_name": "Jones",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "michele.jones@bradshaw.org",
+      "alternate_emails": [],
+      "primary_phone": "001-394-271-7464x8877",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Navarroview",
+      "country": "Anguilla"
+    },
+    "social": {
+      "github": "https://github.com/michelejones",
+      "linkedin": "https://linkedin.com/in/michele-jones-103",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Sparks PLC University",
+        "end_year": "2010"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Apple",
+        "title": "Engineer, civil (consulting)",
+        "start_date": "2023-09-23",
+        "end_date": "2025-08-13"
+      },
+      {
+        "company": "Google",
+        "title": "Sport and exercise psychologist",
+        "start_date": "2020-04-26",
+        "end_date": "2026-03-08"
+      },
+      {
+        "company": "Amazon",
+        "title": "Database administrator",
+        "start_date": "2021-01-05",
+        "end_date": "2026-05-17"
+      },
+      {
+        "company": "Uber",
+        "title": "Curator",
+        "start_date": "2017-09-16",
+        "end_date": "2025-07-23"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-98AE4334",
+    "personal": {
+      "first_name": "Bruce",
+      "middle_name": "",
+      "last_name": "Edwards",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "bruce.edwards@silva.net",
+      "alternate_emails": [],
+      "primary_phone": "(799)385-4353x46247",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "South Christineshire",
+      "country": "Bolivia"
+    },
+    "social": {
+      "github": "https://github.com/bruceedwards",
+      "linkedin": "https://linkedin.com/in/bruce-edwards-649",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Sanchez, Wheeler and Harvey University",
+        "end_year": "2020"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Stripe",
+        "title": "Designer, industrial/product",
+        "start_date": "2017-06-18",
+        "end_date": "2026-01-13"
+      },
+      {
+        "company": "Apple",
+        "title": "Catering manager",
+        "start_date": "2019-08-28",
+        "end_date": "2025-07-26"
+      },
+      {
+        "company": "Stripe",
+        "title": "Therapist, nutritional",
+        "start_date": "2017-08-26",
+        "end_date": "2026-03-19"
+      },
+      {
+        "company": "Google",
+        "title": "Farm manager",
+        "start_date": "2023-05-13",
+        "end_date": "2025-08-15"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-E0F3EAB0",
+    "personal": {
+      "first_name": "Rachel",
+      "middle_name": "",
+      "last_name": "Flynn",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "rachel.flynn@nolan.com",
+      "alternate_emails": [],
+      "primary_phone": "563-542-1607x33754",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Lake Jamesmouth",
+      "country": "Fiji"
+    },
+    "social": {
+      "github": null,
+      "linkedin": "https://linkedin.com/in/rachel-flynn-269",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Johnson-Doyle University",
+        "end_year": "2018"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Civil engineer, contracting",
+        "start_date": "2022-07-06",
+        "end_date": "2026-04-28"
+      },
+      {
+        "company": "Stripe",
+        "title": "Surveyor, minerals",
+        "start_date": "2023-05-30",
+        "end_date": "2026-02-26"
+      },
+      {
+        "company": "Microsoft",
+        "title": "Designer, fashion/clothing",
+        "start_date": "2020-07-10",
+        "end_date": "2026-05-31"
+      },
+      {
+        "company": "Microsoft",
+        "title": "Designer, textile",
+        "start_date": "2019-07-05",
+        "end_date": "2026-06-07"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-D664D264",
+    "personal": {
+      "first_name": "David",
+      "middle_name": "",
+      "last_name": "Perry",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "david.perry@brown.com",
+      "alternate_emails": [],
+      "primary_phone": "7178046226",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Kanefurt",
+      "country": "Honduras"
+    },
+    "social": {
+      "github": "https://github.com/davidperry",
+      "linkedin": "https://linkedin.com/in/david-perry-429",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Graves-Weaver University",
+        "end_year": "2017"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Netflix",
+        "title": "Occupational hygienist",
+        "start_date": "2020-10-28",
+        "end_date": "2026-05-13"
+      },
+      {
+        "company": "Stripe",
+        "title": "Accountant, chartered certified",
+        "start_date": "2020-03-14",
+        "end_date": "2026-02-09"
+      },
+      {
+        "company": "Stripe",
+        "title": "Buyer, industrial",
+        "start_date": "2017-04-07",
+        "end_date": "2025-12-11"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-1B049863",
+    "personal": {
+      "first_name": "Henry",
+      "middle_name": "",
+      "last_name": "Schwartz",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "henry.schwartz@lamb.biz",
+      "alternate_emails": [],
+      "primary_phone": "859.477.4688",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Port Cassandra",
+      "country": "Tunisia"
+    },
+    "social": {
+      "github": "https://github.com/henryschwartz",
+      "linkedin": "https://linkedin.com/in/henry-schwartz-945",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Collins Group University",
+        "end_year": "2016"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Medical sales representative",
+        "start_date": "2020-07-14",
+        "end_date": "2025-12-19"
+      },
+      {
+        "company": "Stripe",
+        "title": "Tree surgeon",
+        "start_date": "2021-05-05",
+        "end_date": "2026-04-18"
+      },
+      {
+        "company": "Airbnb",
+        "title": "Production assistant, radio",
+        "start_date": "2020-06-23",
+        "end_date": "2026-01-23"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-9B3080D5",
+    "personal": {
+      "first_name": "Patrick",
+      "middle_name": "",
+      "last_name": "Vega",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "patrick.vega@durham-thomas.info",
+      "alternate_emails": [],
+      "primary_phone": "674-636-7136x959",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Port Dominiqueview",
+      "country": "Algeria"
+    },
+    "social": {
+      "github": "https://github.com/patrickvega",
+      "linkedin": "https://linkedin.com/in/patrick-vega-171",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Fowler-Coleman University",
+        "end_year": "2016"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Forest/woodland manager",
+        "start_date": "2024-04-24",
+        "end_date": "2025-10-07"
+      },
+      {
+        "company": "Stripe",
+        "title": "Acupuncturist",
+        "start_date": "2024-05-29",
+        "end_date": "2026-06-14"
+      },
+      {
+        "company": "Stripe",
+        "title": "Holiday representative",
+        "start_date": "2019-03-08",
+        "end_date": "2025-07-28"
+      },
+      {
+        "company": "Meta",
+        "title": "Private music teacher",
+        "start_date": "2022-05-17",
+        "end_date": "2026-02-13"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-A79FBFAF",
+    "personal": {
+      "first_name": "Brittany",
+      "middle_name": "",
+      "last_name": "Moss",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "brittany.moss@garrett.net",
+      "alternate_emails": [],
+      "primary_phone": "001-627-508-6688x263",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Deborahmouth",
+      "country": "Tanzania"
+    },
+    "social": {
+      "github": "https://github.com/brittanymoss",
+      "linkedin": "https://linkedin.com/in/brittany-moss-835",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Wells, Atkinson and Turner University",
+        "end_year": "2020"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Research scientist (life sciences)",
+        "start_date": "2017-04-17",
+        "end_date": "2025-11-10"
+      },
+      {
+        "company": "Netflix",
+        "title": "Museum/gallery curator",
+        "start_date": "2025-06-01",
+        "end_date": "2025-10-31"
+      },
+      {
+        "company": "Stripe",
+        "title": "Pension scheme manager",
+        "start_date": "2023-06-10",
+        "end_date": "2025-08-26"
+      },
+      {
+        "company": "Uber",
+        "title": "Hydrologist",
+        "start_date": "2022-11-25",
+        "end_date": "2025-09-09"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-30BEB45F",
+    "personal": {
+      "first_name": "Patricia",
+      "middle_name": "",
+      "last_name": "Dalton",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "patricia.dalton@osborne.com",
+      "alternate_emails": [],
+      "primary_phone": "+1-557-698-6872x774",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Simsview",
+      "country": "Kazakhstan"
+    },
+    "social": {
+      "github": "https://github.com/patriciadalton",
+      "linkedin": "https://linkedin.com/in/patricia-dalton-769",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Contreras-Travis University",
+        "end_year": "2020"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Uber",
+        "title": "Scientist, marine",
+        "start_date": "2024-05-25",
+        "end_date": "2025-07-19"
+      },
+      {
+        "company": "Uber",
+        "title": "Surveyor, hydrographic",
+        "start_date": "2020-09-25",
+        "end_date": "2026-06-21"
+      },
+      {
+        "company": "Airbnb",
+        "title": "Community development worker",
+        "start_date": "2024-04-05",
+        "end_date": "2025-08-20"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-B963F37F",
+    "personal": {
+      "first_name": "Michael",
+      "middle_name": "",
+      "last_name": "Rodriguez",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "michael.rodriguez@gregory.com",
+      "alternate_emails": [],
+      "primary_phone": "424.445.1076",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Patelbury",
+      "country": "Macao"
+    },
+    "social": {
+      "github": "https://github.com/michaelrodriguez",
+      "linkedin": "https://linkedin.com/in/michael-rodriguez-758",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Smith LLC University",
+        "end_year": "2011"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Uber",
+        "title": "English as a second language teacher",
+        "start_date": "2023-03-22",
+        "end_date": "2026-02-17"
+      }
+    ],
+    "skills": [
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-E45B712E",
+    "personal": {
+      "first_name": "Regina",
+      "middle_name": "",
+      "last_name": "Hopkins",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "regina.hopkins@ellis-maynard.com",
+      "alternate_emails": [],
+      "primary_phone": "+1-621-924-9985x698",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Garciaville",
+      "country": "Timor-Leste"
+    },
+    "social": {
+      "github": "https://github.com/reginahopkins",
+      "linkedin": "https://linkedin.com/in/regina-hopkins-344",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Jones-Miller University",
+        "end_year": "2020"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Apple",
+        "title": "Quality manager",
+        "start_date": "2023-04-30",
+        "end_date": "2025-12-12"
+      },
+      {
+        "company": "Stripe",
+        "title": "Clinical cytogeneticist",
+        "start_date": "2024-11-01",
+        "end_date": "2026-04-02"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-5487FD4F",
+    "personal": {
+      "first_name": "Ashlee",
+      "middle_name": "",
+      "last_name": "Jennings",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "ashlee.jennings@beltran.com",
+      "alternate_emails": [],
+      "primary_phone": "001-452-714-5623",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Mariaview",
+      "country": "United States Minor Outlying Islands"
+    },
+    "social": {
+      "github": "https://github.com/ashleejennings",
+      "linkedin": "https://linkedin.com/in/ashlee-jennings-530",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Lucas, Parker and Alexander University",
+        "end_year": "2013"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Uber",
+        "title": "Event organiser",
+        "start_date": "2022-06-28",
+        "end_date": "2025-09-23"
+      },
+      {
+        "company": "Apple",
+        "title": "Energy manager",
+        "start_date": "2020-10-04",
+        "end_date": "2026-03-20"
+      },
+      {
+        "company": "Stripe",
+        "title": "Copywriter, advertising",
+        "start_date": "2018-02-23",
+        "end_date": "2026-06-15"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-CEDA8BBB",
+    "personal": {
+      "first_name": "Paul",
+      "middle_name": "",
+      "last_name": "Caldwell",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "paul.caldwell@ramsey-pittman.com",
+      "alternate_emails": [],
+      "primary_phone": "965-237-5564x641",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "West Jeffreyland",
+      "country": "Slovakia (Slovak Republic)"
+    },
+    "social": {
+      "github": "https://github.com/paulcaldwell",
+      "linkedin": "https://linkedin.com/in/paul-caldwell-985",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Patterson, Camacho and White University",
+        "end_year": "2013"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Uber",
+        "title": "Writer",
+        "start_date": "2016-12-14",
+        "end_date": "2026-06-17"
+      },
+      {
+        "company": "Airbnb",
+        "title": "Nurse, mental health",
+        "start_date": "2016-12-15",
+        "end_date": "2025-08-01"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-F10013A7",
+    "personal": {
+      "first_name": "Michael",
+      "middle_name": "",
+      "last_name": "Powell",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "michael.powell@otherdomain.com",
+      "alternate_emails": [],
+      "primary_phone": "(241)591-3800",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "South Michaelberg",
+      "country": "Christmas Island"
+    },
+    "social": {
+      "github": "https://github.com/michael_powell_alt",
+      "linkedin": "https://linkedin.com/in/michael-powell-alt",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Ramirez, Hays and Becker University",
+        "end_year": "2013"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Engineer, broadcasting (operations)",
+        "start_date": "2022-08-30",
+        "end_date": "2026-01-30"
+      },
+      {
+        "company": "Apple",
+        "title": "Homeopath",
+        "start_date": "2017-09-29",
+        "end_date": "2025-11-27"
+      },
+      {
+        "company": "Google",
+        "title": "Retail merchandiser",
+        "start_date": "2024-02-27",
+        "end_date": "2026-04-22"
+      }
+    ],
+    "skills": [
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-B6AAE05B",
+    "personal": {
+      "first_name": "Diana",
+      "middle_name": "",
+      "last_name": "Rich",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "diana.rich@le.com",
+      "alternate_emails": [],
+      "primary_phone": "(227)711-1161x528",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "South Michaelchester",
+      "country": "Trinidad and Tobago"
+    },
+    "social": {
+      "github": "https://github.com/dianarich",
+      "linkedin": "https://linkedin.com/in/diana-rich-256",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Davis, Simmons and Ortega University",
+        "end_year": "2021"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Patent attorney",
+        "start_date": "2022-04-06",
+        "end_date": "2026-05-17"
+      },
+      {
+        "company": "Meta",
+        "title": "Professor Emeritus",
+        "start_date": "2023-04-12",
+        "end_date": "2025-12-08"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-8D7248E2",
+    "personal": {
+      "first_name": "Elaine",
+      "middle_name": "",
+      "last_name": "Morales",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "elaine.morales@johnson.com",
+      "alternate_emails": [],
+      "primary_phone": "503.448.2477x109",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Andreaside",
+      "country": "Ireland"
+    },
+    "social": {
+      "github": "https://github.com/elainemorales",
+      "linkedin": "https://linkedin.com/in/elaine-morales-205",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Dean-Jimenez University",
+        "end_year": "2020"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Operations geologist",
+        "start_date": "2025-04-01",
+        "end_date": "2026-05-16"
+      },
+      {
+        "company": "Netflix",
+        "title": "Accommodation manager",
+        "start_date": "2024-05-09",
+        "end_date": "2025-12-07"
+      },
+      {
+        "company": "Meta",
+        "title": "Audiological scientist",
+        "start_date": "2019-09-08",
+        "end_date": "2026-01-17"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-BDD640FB",
+    "personal": {
+      "first_name": "Danielle",
+      "middle_name": "",
+      "last_name": "Johnson",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "danielle.johnson@sanchez-taylor.com",
+      "alternate_emails": [],
+      "primary_phone": "+1-763-679-4026",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "East Susan",
+      "country": "Guadeloupe"
+    },
+    "social": {
+      "github": "https://github.com/daniellejohnson",
+      "linkedin": "https://linkedin.com/in/danielle-johnson-716",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Baldwin Ltd University",
+        "end_year": "2018"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Sports administrator",
+        "start_date": "2017-12-22",
+        "end_date": "2026-02-14"
+      },
+      {
+        "company": "Google",
+        "title": "Pharmacist, hospital",
+        "start_date": "2017-01-13",
+        "end_date": "2025-07-11"
+      },
+      {
+        "company": "Amazon",
+        "title": "Chief Financial Officer",
+        "start_date": "2020-03-19",
+        "end_date": "2025-09-28"
+      },
+      {
+        "company": "Meta",
+        "title": "Risk analyst",
+        "start_date": "2016-12-11",
+        "end_date": "2026-02-02"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-663F1C97",
+    "personal": {
+      "first_name": "Sandra",
+      "middle_name": "",
+      "last_name": "Ramos",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "sandra.ramos@garcia.com",
+      "alternate_emails": [],
+      "primary_phone": "(502)660-6474x6872",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "North Beth",
+      "country": "Mauritius"
+    },
+    "social": {
+      "github": "https://github.com/sandraramos",
+      "linkedin": "https://linkedin.com/in/sandra-ramos-263",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Tucker-Lewis University",
+        "end_year": "2020"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Chief Financial Officer",
+        "start_date": "2020-07-07",
+        "end_date": "2025-09-02"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-79E13CEA",
+    "personal": {
+      "first_name": "Crystal",
+      "middle_name": "",
+      "last_name": "Andrews",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "crystal.andrews@thomas.com",
+      "alternate_emails": [],
+      "primary_phone": "588.306.7065x40515",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Dennisstad",
+      "country": "Mayotte"
+    },
+    "social": {
+      "github": "https://github.com/crystalandrews",
+      "linkedin": "https://linkedin.com/in/crystal-andrews-666",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Ashley PLC University",
+        "end_year": "2017"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Apple",
+        "title": "Teacher, English as a foreign language",
+        "start_date": "2023-08-01",
+        "end_date": "2025-09-10"
+      },
+      {
+        "company": "Block",
+        "title": "Chartered certified accountant",
+        "start_date": "2025-05-26",
+        "end_date": "2025-11-17"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-BC2CBB0D",
+    "personal": {
+      "first_name": "Lori",
+      "middle_name": "",
+      "last_name": "Campbell",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "lori.campbell@monroe-carpenter.info",
+      "alternate_emails": [],
+      "primary_phone": "+1-867-253-3963",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Juliefurt",
+      "country": "Hungary"
+    },
+    "social": {
+      "github": "https://github.com/loricampbell",
+      "linkedin": "https://linkedin.com/in/lori-campbell-936",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Reed-Arnold University",
+        "end_year": "2013"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Airbnb",
+        "title": "Database administrator",
+        "start_date": "2024-02-03",
+        "end_date": "2026-01-25"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-6123FDF7",
+    "personal": {
+      "first_name": "Rodney",
+      "middle_name": "",
+      "last_name": "Lewis",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "rodney.lewis@campos.biz",
+      "alternate_emails": [],
+      "primary_phone": "5983393010",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Port Markhaven",
+      "country": "Dominica"
+    },
+    "social": {
+      "github": "https://github.com/rodneylewis",
+      "linkedin": "https://linkedin.com/in/rodney-lewis-167",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Walker LLC University",
+        "end_year": "2014"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Google",
+        "title": "Midwife",
+        "start_date": "2023-12-13",
+        "end_date": "2026-06-14"
+      },
+      {
+        "company": "Netflix",
+        "title": "Scientist, forensic",
+        "start_date": "2024-03-05",
+        "end_date": "2025-08-15"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-6A34C854",
+    "personal": {
+      "first_name": "Ruth",
+      "middle_name": "",
+      "last_name": "Williams",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "ruth.williams@burke-bell.org",
+      "alternate_emails": [],
+      "primary_phone": "+1-699-680-9402",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Michaelburgh",
+      "country": "Trinidad and Tobago"
+    },
+    "social": {
+      "github": "https://github.com/ruthwilliams",
+      "linkedin": "https://linkedin.com/in/ruth-williams-106",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Andrews-Aguirre University",
+        "end_year": "2017"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Uber",
+        "title": "Runner, broadcasting/film/video",
+        "start_date": "2020-02-11",
+        "end_date": "2025-08-29"
+      },
+      {
+        "company": "Block",
+        "title": "Race relations officer",
+        "start_date": "2020-04-23",
+        "end_date": "2026-05-25"
+      },
+      {
+        "company": "Google",
+        "title": "Clinical cytogeneticist",
+        "start_date": "2022-06-14",
+        "end_date": "2026-05-24"
+      },
+      {
+        "company": "Block",
+        "title": "Surveyor, commercial/residential",
+        "start_date": "2022-09-30",
+        "end_date": "2025-08-13"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-6232B17A",
+    "personal": {
+      "first_name": "Nathaniel",
+      "middle_name": "",
+      "last_name": "Miles",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "nathaniel.miles@todd-pham.com",
+      "alternate_emails": [],
+      "primary_phone": "598.922.5871",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "New Seanton",
+      "country": "Korea"
+    },
+    "social": {
+      "github": "https://github.com/nathanielmiles",
+      "linkedin": "https://linkedin.com/in/nathaniel-miles-102",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Rodriguez, Poole and Leach University",
+        "end_year": "2023"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Uber",
+        "title": "Firefighter",
+        "start_date": "2017-11-20",
+        "end_date": "2026-01-20"
+      },
+      {
+        "company": "Netflix",
+        "title": "Product manager",
+        "start_date": "2025-06-24",
+        "end_date": "2026-03-30"
+      },
+      {
+        "company": "Stripe",
+        "title": "Medical illustrator",
+        "start_date": "2017-10-28",
+        "end_date": "2026-06-21"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-5FD23109",
+    "personal": {
+      "first_name": "Chad",
+      "middle_name": "",
+      "last_name": "Reyes",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "chad.reyes@shaffer.com",
+      "alternate_emails": [],
+      "primary_phone": "(518)490-9275",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Jensenmouth",
+      "country": "Tokelau"
+    },
+    "social": {
+      "github": "https://github.com/chadreyes",
+      "linkedin": "https://linkedin.com/in/chad-reyes-862",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "May Ltd University",
+        "end_year": "2011"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Copywriter, advertising",
+        "start_date": "2023-01-03",
+        "end_date": "2026-04-26"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-CDFC6EE0",
+    "personal": {
+      "first_name": "Alyssa",
+      "middle_name": "",
+      "last_name": "Hill",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "alyssa.hill@smith-li.biz",
+      "alternate_emails": [],
+      "primary_phone": "256-379-3341",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Grayside",
+      "country": "Lebanon"
+    },
+    "social": {
+      "github": "https://github.com/alyssahill",
+      "linkedin": "https://linkedin.com/in/alyssa-hill-965",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "King, Gomez and Norton University",
+        "end_year": "2017"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Editorial assistant",
+        "start_date": "2018-04-25",
+        "end_date": "2026-06-21"
+      },
+      {
+        "company": "Apple",
+        "title": "Chief Operating Officer",
+        "start_date": "2025-06-01",
+        "end_date": "2025-08-26"
+      },
+      {
+        "company": "Uber",
+        "title": "Financial adviser",
+        "start_date": "2019-10-05",
+        "end_date": "2026-02-25"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-F53D4330",
+    "personal": {
+      "first_name": "Michele",
+      "middle_name": "",
+      "last_name": "Thomas",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "michele.thomas@fernandez.com",
+      "alternate_emails": [],
+      "primary_phone": "(368)911-7758",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "New Bradley",
+      "country": "Slovenia"
+    },
+    "social": {
+      "github": "https://github.com/michelethomas",
+      "linkedin": "https://linkedin.com/in/michele-thomas-553",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Smith-Baker University",
+        "end_year": "2022"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Airbnb",
+        "title": "Agricultural engineer",
+        "start_date": "2018-09-26",
+        "end_date": "2025-07-05"
+      },
+      {
+        "company": "Stripe",
+        "title": "Materials engineer",
+        "start_date": "2020-07-17",
+        "end_date": "2026-02-13"
+      }
+    ],
+    "skills": [
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-279C658A",
+    "personal": {
+      "first_name": "Pamela",
+      "middle_name": "",
+      "last_name": "Smith",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "pamela.smith@peck-anderson.org",
+      "alternate_emails": [],
+      "primary_phone": "8438006848",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Millerside",
+      "country": "Mauritania"
+    },
+    "social": {
+      "github": "https://github.com/pamelasmith",
+      "linkedin": "https://linkedin.com/in/pamela-smith-773",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Smith Inc University",
+        "end_year": "2019"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Uber",
+        "title": "Petroleum engineer",
+        "start_date": "2022-09-17",
+        "end_date": "2026-01-28"
+      },
+      {
+        "company": "Stripe",
+        "title": "Drilling engineer",
+        "start_date": "2024-07-04",
+        "end_date": "2026-04-25"
+      }
+    ],
+    "skills": [
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-26D794D3",
+    "personal": {
+      "first_name": "Jenna",
+      "middle_name": "",
+      "last_name": "Graves",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "jenna.graves@leon.com",
+      "alternate_emails": [],
+      "primary_phone": "3583957829",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Raymondfort",
+      "country": "Malta"
+    },
+    "social": {
+      "github": "https://github.com/jennagraves",
+      "linkedin": "https://linkedin.com/in/jenna-graves-710",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Young Group University",
+        "end_year": "2019"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Stripe",
+        "title": "Community development worker",
+        "start_date": "2019-11-30",
+        "end_date": "2026-05-03"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-2702878B",
+    "personal": {
+      "first_name": "Brian",
+      "middle_name": "",
+      "last_name": "Romero",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "brian.romero@murray-johnson.com",
+      "alternate_emails": [],
+      "primary_phone": "451-782-0377",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Samanthafurt",
+      "country": "Ireland"
+    },
+    "social": {
+      "github": "https://github.com/brianromero",
+      "linkedin": "https://linkedin.com/in/brian-romero-938",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Alvarez, Hernandez and Brown University",
+        "end_year": "2022"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Apple",
+        "title": "Historic buildings inspector/conservation officer",
+        "start_date": "2017-10-19",
+        "end_date": "2026-03-07"
+      },
+      {
+        "company": "Netflix",
+        "title": "Chemical engineer",
+        "start_date": "2025-02-13",
+        "end_date": "2025-11-26"
+      },
+      {
+        "company": "Microsoft",
+        "title": "Psychologist, counselling",
+        "start_date": "2017-03-11",
+        "end_date": "2025-12-21"
+      },
+      {
+        "company": "Block",
+        "title": "Teacher, music",
+        "start_date": "2019-09-12",
+        "end_date": "2025-11-01"
+      }
+    ],
+    "skills": [
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-839FBC50",
+    "personal": {
+      "first_name": "Thomas",
+      "middle_name": "",
+      "last_name": "Santana",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "thomas.santana@jackson.org",
+      "alternate_emails": [],
+      "primary_phone": "979.817.6936",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "East Diana",
+      "country": "Albania"
+    },
+    "social": {
+      "github": "https://github.com/thomassantana",
+      "linkedin": "https://linkedin.com/in/thomas-santana-903",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Hernandez Inc University",
+        "end_year": "2013"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Legal executive",
+        "start_date": "2018-01-31",
+        "end_date": "2026-05-13"
+      },
+      {
+        "company": "Block",
+        "title": "Farm manager",
+        "start_date": "2021-10-10",
+        "end_date": "2025-09-25"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-7C16128D",
+    "personal": {
+      "first_name": "Kaitlyn",
+      "middle_name": "",
+      "last_name": "Brennan",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "kaitlyn.brennan@mcdowell-smith.org",
+      "alternate_emails": [],
+      "primary_phone": "574.431.5274x20549",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Wilcoxhaven",
+      "country": "Greece"
+    },
+    "social": {
+      "github": "https://github.com/kaitlynbrennan",
+      "linkedin": "https://linkedin.com/in/kaitlyn-brennan-517",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Daniels, Snyder and Mays University",
+        "end_year": "2018"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Toxicologist",
+        "start_date": "2018-04-27",
+        "end_date": "2026-06-25"
+      },
+      {
+        "company": "Apple",
+        "title": "Legal executive",
+        "start_date": "2021-05-03",
+        "end_date": "2025-12-23"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-E256A6DC",
+    "personal": {
+      "first_name": "Christopher",
+      "middle_name": "",
+      "last_name": "Gay",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "christopher.gay@murray.com",
+      "alternate_emails": [],
+      "primary_phone": "378.626.3982",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Morganhaven",
+      "country": "Ethiopia"
+    },
+    "social": {
+      "github": "https://github.com/christophergay",
+      "linkedin": "https://linkedin.com/in/christopher-gay-521",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Hill, Davenport and Baird University",
+        "end_year": "2022"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Research scientist (physical sciences)",
+        "start_date": "2021-06-17",
+        "end_date": "2026-01-13"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-74222167",
+    "personal": {
+      "first_name": "Diana",
+      "middle_name": "",
+      "last_name": "Rich",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "diana.rich@otherdomain.com",
+      "alternate_emails": [],
+      "primary_phone": "4207275884",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Lake Kimberly",
+      "country": "Ethiopia"
+    },
+    "social": {
+      "github": "https://github.com/diana_rich_alt",
+      "linkedin": "https://linkedin.com/in/diana-rich-alt",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Davis, Simmons and Ortega University",
+        "end_year": "2021"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Patent attorney",
+        "start_date": "2022-04-06",
+        "end_date": "2026-05-17"
+      },
+      {
+        "company": "Meta",
+        "title": "Professor Emeritus",
+        "start_date": "2023-04-12",
+        "end_date": "2025-12-08"
+      }
+    ],
+    "skills": [
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-88BD13D1",
+    "personal": {
+      "first_name": "Whitney",
+      "middle_name": "",
+      "last_name": "Hill",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "whitney.hill@jones.biz",
+      "alternate_emails": [],
+      "primary_phone": "(456)790-9275x571",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Edwardsview",
+      "country": "Egypt"
+    },
+    "social": {
+      "github": "https://github.com/whitneyhill",
+      "linkedin": "https://linkedin.com/in/whitney-hill-391",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Jones Ltd University",
+        "end_year": "2019"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Medical physicist",
+        "start_date": "2025-03-23",
+        "end_date": "2026-05-07"
+      },
+      {
+        "company": "Airbnb",
+        "title": "Designer, jewellery",
+        "start_date": "2017-01-09",
+        "end_date": "2025-08-24"
+      },
+      {
+        "company": "Amazon",
+        "title": "Translator",
+        "start_date": "2023-12-13",
+        "end_date": "2025-07-13"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-076979D6",
+    "personal": {
+      "first_name": "Christina",
+      "middle_name": "",
+      "last_name": "Ramirez",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "christina.ramirez@miller-mccall.com",
+      "alternate_emails": [],
+      "primary_phone": "946-230-3161",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Elizabethburgh",
+      "country": "British Indian Ocean Territory (Chagos Archipelago)"
+    },
+    "social": {
+      "github": "https://github.com/christinaramirez",
+      "linkedin": "https://linkedin.com/in/christina-ramirez-773",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Walters, Davenport and Becker University",
+        "end_year": "2019"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Microsoft",
+        "title": "Software engineer",
+        "start_date": "2022-01-20",
+        "end_date": "2025-11-28"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-F93E08D5",
+    "personal": {
+      "first_name": "Erica",
+      "middle_name": "",
+      "last_name": "Fernandez",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "erica.fernandez@campos-taylor.com",
+      "alternate_emails": [],
+      "primary_phone": "+1-465-804-7735x866",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Port Christinebury",
+      "country": "Rwanda"
+    },
+    "social": {
+      "github": "https://github.com/ericafernandez",
+      "linkedin": "https://linkedin.com/in/erica-fernandez-294",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Peterson PLC University",
+        "end_year": "2020"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Restaurant manager, fast food",
+        "start_date": "2022-05-19",
+        "end_date": "2025-07-20"
+      },
+      {
+        "company": "Netflix",
+        "title": "Chief Technology Officer",
+        "start_date": "2023-12-06",
+        "end_date": "2025-09-28"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-2E76128B",
+    "personal": {
+      "first_name": "George",
+      "middle_name": "",
+      "last_name": "Fuller",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "george.fuller@hampton.com",
+      "alternate_emails": [],
+      "primary_phone": "702.783.8578x6527",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Chelseaborough",
+      "country": "Egypt"
+    },
+    "social": {
+      "github": "https://github.com/georgefuller",
+      "linkedin": "https://linkedin.com/in/george-fuller-810",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Harris, Shaw and Carr University",
+        "end_year": "2016"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Netflix",
+        "title": "Ambulance person",
+        "start_date": "2018-05-13",
+        "end_date": "2025-09-12"
+      },
+      {
+        "company": "Amazon",
+        "title": "Advertising account executive",
+        "start_date": "2023-12-31",
+        "end_date": "2025-10-29"
+      },
+      {
+        "company": "Microsoft",
+        "title": "Personal assistant",
+        "start_date": "2019-01-26",
+        "end_date": "2025-12-07"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-5738811D",
+    "personal": {
+      "first_name": "Susan",
+      "middle_name": "",
+      "last_name": "Johnson",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "susan.johnson@porter.net",
+      "alternate_emails": [],
+      "primary_phone": "+1-747-331-2172x715",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Patriciaburgh",
+      "country": "Rwanda"
+    },
+    "social": {
+      "github": null,
+      "linkedin": "https://linkedin.com/in/susan-johnson-690",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "Ph.D. Artificial Intelligence",
+        "institution": "Padilla-Lewis University",
+        "end_year": "2011"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Uber",
+        "title": "Commercial/residential surveyor",
+        "start_date": "2020-12-12",
+        "end_date": "2026-04-26"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-FB1E143B",
+    "personal": {
+      "first_name": "Brittany",
+      "middle_name": "",
+      "last_name": "Price",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "brittany.price@lewis.com",
+      "alternate_emails": [],
+      "primary_phone": "+1-369-469-1557x924",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Davidport",
+      "country": "Brazil"
+    },
+    "social": {
+      "github": "https://github.com/brittanyprice",
+      "linkedin": "https://linkedin.com/in/brittany-price-441",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Rose-Fowler University",
+        "end_year": "2022"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Amazon",
+        "title": "Technical brewer",
+        "start_date": "2018-03-24",
+        "end_date": "2026-05-06"
+      },
+      {
+        "company": "Meta",
+        "title": "Software engineer",
+        "start_date": "2019-09-04",
+        "end_date": "2025-11-19"
+      },
+      {
+        "company": "Block",
+        "title": "Journalist, magazine",
+        "start_date": "2019-11-06",
+        "end_date": "2025-12-24"
+      },
+      {
+        "company": "Google",
+        "title": "Clothing/textile technologist",
+        "start_date": "2020-12-16",
+        "end_date": "2026-03-17"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-C693DA11",
+    "personal": {
+      "first_name": "Robert",
+      "middle_name": "",
+      "last_name": "Ortiz",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "robert.ortiz@jones.info",
+      "alternate_emails": [],
+      "primary_phone": "+1-792-526-8018x2422",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Staceyhaven",
+      "country": "Ukraine"
+    },
+    "social": {
+      "github": "https://github.com/robertortiz",
+      "linkedin": "https://linkedin.com/in/robert-ortiz-312",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Humphrey PLC University",
+        "end_year": "2022"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Psychologist, prison and probation services",
+        "start_date": "2025-04-18",
+        "end_date": "2025-11-10"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-82DC4C8E",
+    "personal": {
+      "first_name": "Ricky",
+      "middle_name": "",
+      "last_name": "Taylor",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "ricky.taylor@torres.com",
+      "alternate_emails": [],
+      "primary_phone": "001-786-592-6179x640",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Wallacebury",
+      "country": "Timor-Leste"
+    },
+    "social": {
+      "github": "https://github.com/rickytaylor",
+      "linkedin": "https://linkedin.com/in/ricky-taylor-125",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Watson-Avery University",
+        "end_year": "2012"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Apple",
+        "title": "Chief Strategy Officer",
+        "start_date": "2020-06-27",
+        "end_date": "2026-06-09"
+      },
+      {
+        "company": "Meta",
+        "title": "Soil scientist",
+        "start_date": "2018-10-20",
+        "end_date": "2025-11-27"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Rust",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-D777A477",
+    "personal": {
+      "first_name": "Grace",
+      "middle_name": "",
+      "last_name": "Farrell",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "grace.farrell@freeman.com",
+      "alternate_emails": [],
+      "primary_phone": "+1-742-478-6801x1280",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Andersonport",
+      "country": "Haiti"
+    },
+    "social": {
+      "github": "https://github.com/gracefarrell",
+      "linkedin": "https://linkedin.com/in/grace-farrell-119",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Cook and Sons University",
+        "end_year": "2017"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Block",
+        "title": "Pharmacologist",
+        "start_date": "2021-03-15",
+        "end_date": "2025-07-17"
+      }
+    ],
+    "skills": [
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-402ADF9C",
+    "personal": {
+      "first_name": "Anthony",
+      "middle_name": "",
+      "last_name": "Juarez",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "anthony.juarez@johnson-walker.com",
+      "alternate_emails": [],
+      "primary_phone": "001-514-885-8078",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Lake Mariabury",
+      "country": "French Southern Territories"
+    },
+    "social": {
+      "github": "https://github.com/anthonyjuarez",
+      "linkedin": "https://linkedin.com/in/anthony-juarez-431",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "M.S. Computer Science",
+        "institution": "Barton, Simpson and Dixon University",
+        "end_year": "2019"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Netflix",
+        "title": "Dispensing optician",
+        "start_date": "2024-04-10",
+        "end_date": "2026-02-04"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "Python",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-9132B63E",
+    "personal": {
+      "first_name": "Joshua",
+      "middle_name": "",
+      "last_name": "Washington",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "joshua.washington@anderson.info",
+      "alternate_emails": [],
+      "primary_phone": "(467)801-0651x33387",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "West Steven",
+      "country": "Tunisia"
+    },
+    "social": {
+      "github": "https://github.com/joshuawashington",
+      "linkedin": "https://linkedin.com/in/joshua-washington-698",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.A. Mathematics",
+        "institution": "Hopkins LLC University",
+        "end_year": "2021"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Stripe",
+        "title": "Financial manager",
+        "start_date": "2024-07-16",
+        "end_date": "2026-05-09"
+      },
+      {
+        "company": "Stripe",
+        "title": "Optometrist",
+        "start_date": "2019-09-26",
+        "end_date": "2025-08-05"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "Kubernetes",
+        "level": "Advanced"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "Advanced"
+      },
+      {
+        "name": "Java",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      }
+    ]
+  },
+  {
+    "candidate_id": "MASTER-C958E75E",
+    "personal": {
+      "first_name": "Rachel",
+      "middle_name": "",
+      "last_name": "Stein",
+      "gender": "Unknown",
+      "dob": "1990-01-01"
+    },
+    "contact": {
+      "primary_email": "rachel.stein@armstrong.biz",
+      "alternate_emails": [],
+      "primary_phone": "354-437-9937",
+      "alternate_phone": null
+    },
+    "location": {
+      "city": "Adamfurt",
+      "country": "Grenada"
+    },
+    "social": {
+      "github": "https://github.com/rachelstein",
+      "linkedin": "https://linkedin.com/in/rachel-stein-872",
+      "portfolio": null
+    },
+    "education": [
+      {
+        "degree": "B.S. Computer Science",
+        "institution": "Hill-Evans University",
+        "end_year": "2012"
+      }
+    ],
+    "experience": [
+      {
+        "company": "Netflix",
+        "title": "Doctor, general practice",
+        "start_date": "2018-11-09",
+        "end_date": "2025-10-12"
+      },
+      {
+        "company": "Amazon",
+        "title": "Illustrator",
+        "start_date": "2021-01-22",
+        "end_date": "2026-01-07"
+      },
+      {
+        "company": "Airbnb",
+        "title": "Dancer",
+        "start_date": "2017-07-28",
+        "end_date": "2025-09-02"
+      }
+    ],
+    "skills": [
+      {
+        "name": "Docker",
+        "level": "Advanced"
+      },
+      {
+        "name": "SQL",
+        "level": "Advanced"
+      },
+      {
+        "name": "Go",
+        "level": "Advanced"
+      },
+      {
+        "name": "Node.js",
+        "level": "Advanced"
+      },
+      {
+        "name": "C++",
+        "level": "Advanced"
+      },
+      {
+        "name": "AWS",
+        "level": "Advanced"
+      },
+      {
+        "name": "React",
+        "level": "Advanced"
+      }
+    ]
+  }
+]
